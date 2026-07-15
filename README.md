@@ -13,7 +13,7 @@ across 7 departments.
 
 ## Dashboard Preview
 
-![Executive Overview](FeatureAdoption.png)
+![Executive Overview]()
 
 ## Key Findings
 - **68% average adoption rate** — 32% of colleagues never logged in
