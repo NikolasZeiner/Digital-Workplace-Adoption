@@ -1,0 +1,2001 @@
+event_id,user_id,department,tool,feature,event_date,session_duration_mins,actions_taken,month
+EVT00001,USR0169,Sales,Viva Insights,Document Collaboration,2025-06-13,29.9,4,2025-06
+EVT00002,USR0043,Legal,Power BI,File Sharing,2025-01-29,11.0,5,2025-01
+EVT00003,USR0276,Finance,OneDrive,File Sharing,2025-01-07,10.4,2,2025-01
+EVT00004,USR0022,HR,Power BI,File Sharing,2025-03-12,25.0,6,2025-03
+EVT00005,USR0235,Marketing,OneDrive,Video Conferencing,2025-03-04,21.0,6,2025-03
+EVT00006,USR0289,Finance,Microsoft Teams,Project Management,2025-02-27,61.2,1,2025-02
+EVT00007,USR0180,Technology,SharePoint,Team Chat,2025-02-05,16.0,17,2025-02
+EVT00008,USR0270,HR,Viva Insights,Document Collaboration,2025-01-27,37.6,7,2025-01
+EVT00009,USR0198,Sales,Microsoft Teams,Team Chat,2025-06-23,21.7,5,2025-06
+EVT00010,USR0223,HR,Microsoft Teams,Video Conferencing,2025-05-20,0.8,6,2025-05
+EVT00011,USR0059,Legal,Viva Insights,Document Collaboration,2025-01-23,12.6,3,2025-01
+EVT00012,USR0033,Technology,SharePoint,File Sharing,2025-06-01,7.7,6,2025-06
+EVT00013,USR0299,Marketing,Microsoft Teams,Team Chat,2025-04-19,19.6,0,2025-04
+EVT00014,USR0001,Legal,Microsoft Teams,Team Chat,2025-01-09,14.1,2,2025-01
+EVT00015,USR0284,Sales,SharePoint,Analytics Portal,2025-01-08,18.3,3,2025-01
+EVT00016,USR0139,Technology,Viva Insights,Project Management,2025-01-24,33.3,11,2025-01
+EVT00017,USR0057,Operations,Power BI,Project Management,2025-02-25,30.3,1,2025-02
+EVT00018,USR0237,Finance,Viva Insights,Video Conferencing,2025-03-01,22.3,4,2025-03
+EVT00019,USR0096,Technology,Microsoft Teams,Document Collaboration,2025-05-10,3.4,1,2025-05
+EVT00020,USR0029,Sales,Viva Insights,Project Management,2025-06-04,16.1,1,2025-06
+EVT00021,USR0111,HR,SharePoint,Video Conferencing,2025-01-07,14.8,4,2025-01
+EVT00022,USR0287,Sales,Power BI,Team Chat,2025-05-24,24.6,4,2025-05
+EVT00023,USR0063,Marketing,SharePoint,Analytics Portal,2025-02-20,48.1,3,2025-02
+EVT00024,USR0201,Finance,Microsoft Teams,Video Conferencing,2025-06-16,58.6,8,2025-06
+EVT00025,USR0094,Operations,SharePoint,Project Management,2025-06-29,50.4,8,2025-06
+EVT00026,USR0248,Finance,SharePoint,Project Management,2025-05-20,23.3,4,2025-05
+EVT00027,USR0282,Technology,SharePoint,Analytics Portal,2025-04-18,11.1,4,2025-04
+EVT00028,USR0022,HR,Microsoft Teams,Team Chat,2025-02-26,2.9,5,2025-02
+EVT00029,USR0233,Finance,Microsoft Teams,Project Management,2025-04-25,15.0,9,2025-04
+EVT00030,USR0177,Marketing,Viva Insights,Analytics Portal,2025-05-31,55.8,0,2025-05
+EVT00031,USR0129,Legal,OneDrive,Team Chat,2025-03-13,21.8,8,2025-03
+EVT00032,USR0229,Marketing,SharePoint,Analytics Portal,2025-01-02,30.9,6,2025-01
+EVT00033,USR0089,Technology,Microsoft Teams,File Sharing,2025-02-10,29.7,10,2025-02
+EVT00034,USR0243,Marketing,Viva Insights,Analytics Portal,2025-06-28,41.3,6,2025-06
+EVT00035,USR0033,Technology,OneDrive,Video Conferencing,2025-04-19,31.9,4,2025-04
+EVT00036,USR0279,Operations,OneDrive,Analytics Portal,2025-03-29,12.0,10,2025-03
+EVT00037,USR0226,Sales,OneDrive,Project Management,2025-03-13,24.9,9,2025-03
+EVT00038,USR0210,Sales,Viva Insights,Document Collaboration,2025-02-09,23.7,6,2025-02
+EVT00039,USR0269,Finance,OneDrive,Team Chat,2025-02-25,2.8,5,2025-02
+EVT00040,USR0205,Technology,SharePoint,Video Conferencing,2025-03-28,21.8,8,2025-03
+EVT00041,USR0200,Sales,Viva Insights,File Sharing,2025-01-27,7.4,4,2025-01
+EVT00042,USR0088,Marketing,Viva Insights,Team Chat,2025-01-24,33.0,5,2025-01
+EVT00043,USR0186,Marketing,Microsoft Teams,Video Conferencing,2025-04-08,50.2,11,2025-04
+EVT00044,USR0132,Marketing,Microsoft Teams,Document Collaboration,2025-01-25,31.8,6,2025-01
+EVT00045,USR0035,Marketing,Microsoft Teams,Project Management,2025-04-02,34.0,4,2025-04
+EVT00046,USR0298,HR,Power BI,Video Conferencing,2025-03-30,19.9,1,2025-03
+EVT00047,USR0081,Finance,SharePoint,Analytics Portal,2025-06-04,52.5,19,2025-06
+EVT00048,USR0074,Marketing,Viva Insights,Analytics Portal,2025-03-09,30.8,9,2025-03
+EVT00049,USR0011,Finance,OneDrive,Video Conferencing,2025-01-12,30.6,6,2025-01
+EVT00050,USR0090,HR,Microsoft Teams,Document Collaboration,2025-04-28,32.2,0,2025-04
+EVT00051,USR0059,Legal,Power BI,Project Management,2025-05-18,23.0,6,2025-05
+EVT00052,USR0207,Legal,Microsoft Teams,Analytics Portal,2025-02-01,2.7,0,2025-02
+EVT00053,USR0108,HR,Power BI,Video Conferencing,2025-04-07,14.5,2,2025-04
+EVT00054,USR0092,Marketing,Power BI,Video Conferencing,2025-01-21,20.0,0,2025-01
+EVT00055,USR0140,Sales,Viva Insights,Analytics Portal,2025-05-22,26.9,7,2025-05
+EVT00056,USR0229,Marketing,Power BI,Video Conferencing,2025-03-17,19.0,4,2025-03
+EVT00057,USR0282,Technology,Microsoft Teams,Video Conferencing,2025-06-10,45.7,8,2025-06
+EVT00058,USR0061,Technology,SharePoint,Team Chat,2025-06-08,22.7,0,2025-06
+EVT00059,USR0251,Technology,Power BI,Analytics Portal,2025-04-03,58.4,16,2025-04
+EVT00060,USR0170,Finance,Power BI,Document Collaboration,2025-05-28,25.1,3,2025-05
+EVT00061,USR0220,Legal,SharePoint,File Sharing,2025-02-19,6.3,0,2025-02
+EVT00062,USR0106,Sales,SharePoint,Project Management,2025-06-30,26.3,2,2025-06
+EVT00063,USR0266,HR,OneDrive,File Sharing,2025-01-18,14.4,6,2025-01
+EVT00064,USR0027,HR,OneDrive,File Sharing,2025-01-12,12.2,4,2025-01
+EVT00065,USR0200,Sales,SharePoint,Team Chat,2025-06-19,39.1,7,2025-06
+EVT00066,USR0260,Finance,SharePoint,Analytics Portal,2025-02-28,42.3,9,2025-02
+EVT00067,USR0124,Marketing,Viva Insights,Document Collaboration,2025-03-16,39.0,5,2025-03
+EVT00068,USR0225,Operations,OneDrive,Project Management,2025-01-21,6.4,10,2025-01
+EVT00069,USR0076,Marketing,OneDrive,Video Conferencing,2025-03-01,34.2,4,2025-03
+EVT00070,USR0127,Technology,Power BI,File Sharing,2025-01-26,49.2,1,2025-01
+EVT00071,USR0039,HR,OneDrive,File Sharing,2025-04-08,25.1,3,2025-04
+EVT00072,USR0248,Finance,SharePoint,Project Management,2025-03-13,12.5,5,2025-03
+EVT00073,USR0156,Sales,Microsoft Teams,Video Conferencing,2025-04-27,20.8,6,2025-04
+EVT00074,USR0247,Technology,OneDrive,File Sharing,2025-06-12,3.3,8,2025-06
+EVT00075,USR0083,Legal,Microsoft Teams,Video Conferencing,2025-04-04,12.9,1,2025-04
+EVT00076,USR0199,Technology,Microsoft Teams,Video Conferencing,2025-02-11,34.7,1,2025-02
+EVT00077,USR0252,Marketing,Microsoft Teams,Team Chat,2025-04-05,10.2,0,2025-04
+EVT00078,USR0262,Sales,Microsoft Teams,Document Collaboration,2025-04-01,21.8,1,2025-04
+EVT00079,USR0156,Sales,Microsoft Teams,File Sharing,2025-02-23,24.6,4,2025-02
+EVT00080,USR0273,Finance,Viva Insights,Video Conferencing,2025-06-21,6.0,0,2025-06
+EVT00081,USR0193,Finance,Viva Insights,Team Chat,2025-03-10,6.5,1,2025-03
+EVT00082,USR0285,Technology,Microsoft Teams,Project Management,2025-06-29,13.5,11,2025-06
+EVT00083,USR0118,HR,Power BI,Project Management,2025-06-24,7.2,1,2025-06
+EVT00084,USR0204,Legal,OneDrive,Document Collaboration,2025-06-15,21.0,2,2025-06
+EVT00085,USR0216,Marketing,SharePoint,Team Chat,2025-01-19,14.1,1,2025-01
+EVT00086,USR0294,Legal,SharePoint,Analytics Portal,2025-06-05,7.4,3,2025-06
+EVT00087,USR0257,Operations,SharePoint,Video Conferencing,2025-06-12,16.6,6,2025-06
+EVT00088,USR0118,HR,OneDrive,Video Conferencing,2025-02-13,10.3,5,2025-02
+EVT00089,USR0078,Operations,Viva Insights,Analytics Portal,2025-05-17,13.8,1,2025-05
+EVT00090,USR0006,Finance,Microsoft Teams,Project Management,2025-03-04,22.9,3,2025-03
+EVT00091,USR0122,Sales,Power BI,File Sharing,2025-02-11,24.8,6,2025-02
+EVT00092,USR0267,Marketing,Microsoft Teams,Project Management,2025-04-29,14.8,8,2025-04
+EVT00093,USR0291,Marketing,OneDrive,Team Chat,2025-04-08,14.7,2,2025-04
+EVT00094,USR0123,Technology,Power BI,Team Chat,2025-03-11,41.1,9,2025-03
+EVT00095,USR0054,Technology,Viva Insights,Document Collaboration,2025-06-13,51.3,11,2025-06
+EVT00096,USR0135,Marketing,Power BI,Video Conferencing,2025-06-26,43.7,12,2025-06
+EVT00097,USR0186,Marketing,Microsoft Teams,File Sharing,2025-05-23,47.2,6,2025-05
+EVT00098,USR0228,Finance,SharePoint,Document Collaboration,2025-02-26,11.4,6,2025-02
+EVT00099,USR0100,HR,Power BI,Video Conferencing,2025-06-25,29.9,1,2025-06
+EVT00100,USR0287,Sales,OneDrive,Document Collaboration,2025-03-25,12.4,5,2025-03
+EVT00101,USR0107,Legal,OneDrive,Team Chat,2025-01-15,9.6,0,2025-01
+EVT00102,USR0034,Legal,Power BI,Document Collaboration,2025-02-28,25.3,6,2025-02
+EVT00103,USR0077,Sales,Power BI,Document Collaboration,2025-01-09,18.8,3,2025-01
+EVT00104,USR0207,Legal,Viva Insights,File Sharing,2025-03-22,26.1,1,2025-03
+EVT00105,USR0242,Legal,Power BI,Analytics Portal,2025-04-13,2.5,0,2025-04
+EVT00106,USR0149,Technology,Microsoft Teams,Document Collaboration,2025-03-10,45.2,11,2025-03
+EVT00107,USR0198,Sales,Power BI,Team Chat,2025-01-17,6.6,7,2025-01
+EVT00108,USR0028,Finance,Viva Insights,Analytics Portal,2025-02-24,35.5,3,2025-02
+EVT00109,USR0129,Legal,Microsoft Teams,Document Collaboration,2025-05-26,10.1,0,2025-05
+EVT00110,USR0164,HR,Microsoft Teams,Video Conferencing,2025-03-22,0.6,4,2025-03
+EVT00111,USR0165,Finance,Power BI,Project Management,2025-02-24,30.1,12,2025-02
+EVT00112,USR0069,Technology,Microsoft Teams,Video Conferencing,2025-06-17,25.4,2,2025-06
+EVT00113,USR0037,Operations,Power BI,Team Chat,2025-05-08,59.0,17,2025-05
+EVT00114,USR0125,Technology,SharePoint,Video Conferencing,2025-04-12,32.3,2,2025-04
+EVT00115,USR0066,HR,Power BI,Document Collaboration,2025-06-14,33.6,9,2025-06
+EVT00116,USR0218,Sales,OneDrive,Analytics Portal,2025-04-28,30.2,5,2025-04
+EVT00117,USR0288,Legal,SharePoint,File Sharing,2025-02-06,10.0,4,2025-02
+EVT00118,USR0192,Operations,Microsoft Teams,File Sharing,2025-03-09,13.2,6,2025-03
+EVT00119,USR0021,Legal,Power BI,File Sharing,2025-02-05,20.9,8,2025-02
+EVT00120,USR0242,Legal,Microsoft Teams,Document Collaboration,2025-03-05,5.7,1,2025-03
+EVT00121,USR0278,Legal,Power BI,File Sharing,2025-05-24,9.4,5,2025-05
+EVT00122,USR0036,Operations,OneDrive,Project Management,2025-05-18,13.3,4,2025-05
+EVT00123,USR0276,Finance,OneDrive,Document Collaboration,2025-03-09,31.8,10,2025-03
+EVT00124,USR0154,Marketing,Microsoft Teams,File Sharing,2025-05-30,15.0,0,2025-05
+EVT00125,USR0033,Technology,Power BI,Project Management,2025-04-20,29.3,5,2025-04
+EVT00126,USR0134,Finance,Viva Insights,Analytics Portal,2025-05-30,14.0,10,2025-05
+EVT00127,USR0139,Technology,OneDrive,File Sharing,2025-04-13,15.0,5,2025-04
+EVT00128,USR0236,Operations,SharePoint,File Sharing,2025-04-03,26.1,4,2025-04
+EVT00129,USR0172,Operations,OneDrive,Video Conferencing,2025-02-26,24.4,9,2025-02
+EVT00130,USR0037,Operations,SharePoint,Project Management,2025-02-05,26.1,14,2025-02
+EVT00131,USR0093,Technology,Microsoft Teams,Team Chat,2025-05-11,56.4,9,2025-05
+EVT00132,USR0194,Marketing,Power BI,Video Conferencing,2025-05-07,23.9,3,2025-05
+EVT00133,USR0200,Sales,Microsoft Teams,Document Collaboration,2025-01-24,35.9,7,2025-01
+EVT00134,USR0040,Operations,Viva Insights,Video Conferencing,2025-01-13,41.5,12,2025-01
+EVT00135,USR0031,Operations,Viva Insights,Project Management,2025-01-29,21.1,7,2025-01
+EVT00136,USR0010,Finance,Power BI,Project Management,2025-02-09,37.6,15,2025-02
+EVT00137,USR0182,Marketing,Power BI,Team Chat,2025-06-10,26.8,3,2025-06
+EVT00138,USR0062,Finance,Power BI,Project Management,2025-02-10,21.4,8,2025-02
+EVT00139,USR0049,Finance,Power BI,Analytics Portal,2025-06-24,2.6,0,2025-06
+EVT00140,USR0029,Sales,Viva Insights,Document Collaboration,2025-04-19,21.8,0,2025-04
+EVT00141,USR0040,Operations,Power BI,Team Chat,2025-06-02,64.1,15,2025-06
+EVT00142,USR0139,Technology,Microsoft Teams,Team Chat,2025-01-17,56.6,14,2025-01
+EVT00143,USR0071,Sales,Microsoft Teams,Document Collaboration,2025-04-09,21.4,3,2025-04
+EVT00144,USR0198,Sales,SharePoint,File Sharing,2025-04-08,16.8,9,2025-04
+EVT00145,USR0069,Technology,Power BI,File Sharing,2025-06-02,2.3,9,2025-06
+EVT00146,USR0264,Marketing,SharePoint,Project Management,2025-04-30,52.4,9,2025-04
+EVT00147,USR0174,Marketing,SharePoint,Analytics Portal,2025-05-16,59.1,16,2025-05
+EVT00148,USR0200,Sales,Microsoft Teams,Video Conferencing,2025-03-06,7.6,13,2025-03
+EVT00149,USR0073,HR,Power BI,Video Conferencing,2025-05-22,3.3,1,2025-05
+EVT00150,USR0290,HR,Viva Insights,File Sharing,2025-01-03,39.1,9,2025-01
+EVT00151,USR0211,Legal,SharePoint,File Sharing,2025-06-24,10.2,2,2025-06
+EVT00152,USR0200,Sales,Power BI,Team Chat,2025-01-30,45.7,2,2025-01
+EVT00153,USR0055,Finance,Viva Insights,Document Collaboration,2025-06-24,3.2,3,2025-06
+EVT00154,USR0203,Finance,Power BI,Video Conferencing,2025-05-18,12.8,0,2025-05
+EVT00155,USR0177,Marketing,Viva Insights,Video Conferencing,2025-03-10,41.9,15,2025-03
+EVT00156,USR0094,Operations,SharePoint,Analytics Portal,2025-06-14,27.0,4,2025-06
+EVT00157,USR0093,Technology,Microsoft Teams,Team Chat,2025-03-29,14.7,4,2025-03
+EVT00158,USR0197,Sales,Power BI,Video Conferencing,2025-01-29,7.7,3,2025-01
+EVT00159,USR0014,HR,SharePoint,Analytics Portal,2025-03-17,6.7,5,2025-03
+EVT00160,USR0107,Legal,Viva Insights,File Sharing,2025-04-22,9.2,5,2025-04
+EVT00161,USR0103,Sales,Viva Insights,Document Collaboration,2025-02-10,10.9,2,2025-02
+EVT00162,USR0161,Marketing,Power BI,Document Collaboration,2025-04-27,2.5,1,2025-04
+EVT00163,USR0122,Sales,Viva Insights,Project Management,2025-01-01,14.0,7,2025-01
+EVT00164,USR0220,Legal,Microsoft Teams,Project Management,2025-03-09,9.5,1,2025-03
+EVT00165,USR0234,Legal,Power BI,Document Collaboration,2025-05-09,4.2,4,2025-05
+EVT00166,USR0006,Finance,SharePoint,Analytics Portal,2025-02-15,11.6,0,2025-02
+EVT00167,USR0257,Operations,Power BI,Project Management,2025-05-10,41.7,1,2025-05
+EVT00168,USR0129,Legal,SharePoint,File Sharing,2025-01-28,38.3,4,2025-01
+EVT00169,USR0160,Operations,Power BI,File Sharing,2025-06-10,15.1,5,2025-06
+EVT00170,USR0089,Technology,OneDrive,Team Chat,2025-03-18,52.5,6,2025-03
+EVT00171,USR0016,Marketing,Power BI,Project Management,2025-06-13,32.0,9,2025-06
+EVT00172,USR0260,Finance,Microsoft Teams,Document Collaboration,2025-05-10,30.6,10,2025-05
+EVT00173,USR0219,HR,Microsoft Teams,File Sharing,2025-06-05,2.5,4,2025-06
+EVT00174,USR0226,Sales,Viva Insights,Document Collaboration,2025-02-20,4.8,6,2025-02
+EVT00175,USR0125,Technology,SharePoint,Video Conferencing,2025-02-09,24.0,7,2025-02
+EVT00176,USR0263,Legal,Microsoft Teams,Video Conferencing,2025-04-06,12.3,0,2025-04
+EVT00177,USR0239,HR,Power BI,Team Chat,2025-02-11,21.8,4,2025-02
+EVT00178,USR0270,HR,SharePoint,Document Collaboration,2025-05-19,3.5,11,2025-05
+EVT00179,USR0211,Legal,Microsoft Teams,Project Management,2025-05-16,8.7,2,2025-05
+EVT00180,USR0177,Marketing,Microsoft Teams,File Sharing,2025-01-01,60.5,13,2025-01
+EVT00181,USR0161,Marketing,SharePoint,Team Chat,2025-06-03,1.9,0,2025-06
+EVT00182,USR0060,Finance,Power BI,Analytics Portal,2025-03-24,44.7,7,2025-03
+EVT00183,USR0026,Operations,Power BI,Analytics Portal,2025-05-06,36.7,4,2025-05
+EVT00184,USR0166,Sales,Viva Insights,Video Conferencing,2025-01-05,20.5,6,2025-01
+EVT00185,USR0070,Finance,Microsoft Teams,Document Collaboration,2025-01-29,24.5,9,2025-01
+EVT00186,USR0133,Operations,Power BI,Analytics Portal,2025-04-03,6.8,5,2025-04
+EVT00187,USR0152,Finance,Power BI,Document Collaboration,2025-03-20,60.6,15,2025-03
+EVT00188,USR0042,Marketing,Power BI,Team Chat,2025-03-03,45.2,9,2025-03
+EVT00189,USR0122,Sales,Microsoft Teams,Document Collaboration,2025-01-15,7.6,2,2025-01
+EVT00190,USR0215,Finance,SharePoint,Project Management,2025-03-03,1.8,0,2025-03
+EVT00191,USR0161,Marketing,Viva Insights,Analytics Portal,2025-05-26,34.3,6,2025-05
+EVT00192,USR0013,Technology,Viva Insights,File Sharing,2025-01-21,4.9,1,2025-01
+EVT00193,USR0025,Operations,OneDrive,Team Chat,2025-01-22,59.7,0,2025-01
+EVT00194,USR0132,Marketing,SharePoint,Document Collaboration,2025-05-05,22.2,1,2025-05
+EVT00195,USR0129,Legal,Power BI,Team Chat,2025-01-18,33.2,9,2025-01
+EVT00196,USR0010,Finance,SharePoint,File Sharing,2025-05-17,14.3,7,2025-05
+EVT00197,USR0047,HR,Viva Insights,File Sharing,2025-02-02,5.7,5,2025-02
+EVT00198,USR0268,Legal,Viva Insights,Document Collaboration,2025-02-02,10.7,3,2025-02
+EVT00199,USR0207,Legal,OneDrive,File Sharing,2025-06-18,11.3,0,2025-06
+EVT00200,USR0252,Marketing,Microsoft Teams,Project Management,2025-05-02,8.6,4,2025-05
+EVT00201,USR0108,HR,SharePoint,Document Collaboration,2025-05-21,32.5,4,2025-05
+EVT00202,USR0054,Technology,OneDrive,Project Management,2025-02-12,12.4,16,2025-02
+EVT00203,USR0027,HR,SharePoint,Analytics Portal,2025-03-09,25.5,5,2025-03
+EVT00204,USR0022,HR,Microsoft Teams,File Sharing,2025-05-16,17.4,1,2025-05
+EVT00205,USR0141,Technology,SharePoint,File Sharing,2025-06-05,29.1,0,2025-06
+EVT00206,USR0193,Finance,Power BI,Team Chat,2025-04-19,26.0,2,2025-04
+EVT00207,USR0039,HR,Microsoft Teams,Team Chat,2025-02-24,14.3,11,2025-02
+EVT00208,USR0209,Operations,SharePoint,Analytics Portal,2025-05-19,26.3,8,2025-05
+EVT00209,USR0049,Finance,Viva Insights,Document Collaboration,2025-06-26,25.3,1,2025-06
+EVT00210,USR0212,Finance,Power BI,File Sharing,2025-02-21,27.2,4,2025-02
+EVT00211,USR0184,Marketing,Microsoft Teams,Project Management,2025-03-21,47.8,8,2025-03
+EVT00212,USR0263,Legal,SharePoint,Video Conferencing,2025-04-13,1.2,1,2025-04
+EVT00213,USR0206,Sales,OneDrive,Team Chat,2025-06-21,2.1,0,2025-06
+EVT00214,USR0109,Finance,Microsoft Teams,Document Collaboration,2025-06-16,14.7,1,2025-06
+EVT00215,USR0047,HR,Microsoft Teams,Video Conferencing,2025-04-06,12.6,3,2025-04
+EVT00216,USR0221,Operations,Microsoft Teams,Analytics Portal,2025-04-23,55.4,18,2025-04
+EVT00217,USR0100,HR,OneDrive,Document Collaboration,2025-05-13,18.2,5,2025-05
+EVT00218,USR0174,Marketing,Viva Insights,Team Chat,2025-04-26,39.5,15,2025-04
+EVT00219,USR0252,Marketing,Viva Insights,Video Conferencing,2025-01-31,1.1,6,2025-01
+EVT00220,USR0005,Marketing,Viva Insights,Project Management,2025-03-05,11.1,7,2025-03
+EVT00221,USR0113,Legal,Power BI,Analytics Portal,2025-02-27,10.0,0,2025-02
+EVT00222,USR0053,Finance,Viva Insights,Team Chat,2025-01-17,27.4,7,2025-01
+EVT00223,USR0116,HR,Microsoft Teams,Document Collaboration,2025-03-28,5.0,3,2025-03
+EVT00224,USR0100,HR,SharePoint,Analytics Portal,2025-01-06,33.1,1,2025-01
+EVT00225,USR0053,Finance,OneDrive,Video Conferencing,2025-05-31,45.5,2,2025-05
+EVT00226,USR0262,Sales,Viva Insights,Team Chat,2025-05-22,11.9,8,2025-05
+EVT00227,USR0189,Sales,Viva Insights,Analytics Portal,2025-02-28,50.9,7,2025-02
+EVT00228,USR0240,Operations,SharePoint,File Sharing,2025-05-31,47.1,11,2025-05
+EVT00229,USR0013,Technology,Power BI,File Sharing,2025-02-26,12.3,17,2025-02
+EVT00230,USR0046,Finance,OneDrive,Team Chat,2025-01-02,71.8,12,2025-01
+EVT00231,USR0174,Marketing,Viva Insights,Document Collaboration,2025-01-19,18.3,4,2025-01
+EVT00232,USR0021,Legal,SharePoint,Video Conferencing,2025-06-11,22.7,0,2025-06
+EVT00233,USR0236,Operations,Power BI,File Sharing,2025-01-16,35.8,7,2025-01
+EVT00234,USR0239,HR,Microsoft Teams,Video Conferencing,2025-02-28,13.9,1,2025-02
+EVT00235,USR0271,Legal,Power BI,Video Conferencing,2025-01-18,16.6,4,2025-01
+EVT00236,USR0267,Marketing,OneDrive,Document Collaboration,2025-01-09,28.4,7,2025-01
+EVT00237,USR0115,Technology,Viva Insights,Document Collaboration,2025-03-26,5.2,1,2025-03
+EVT00238,USR0071,Sales,OneDrive,Project Management,2025-01-19,18.9,2,2025-01
+EVT00239,USR0188,HR,Viva Insights,Analytics Portal,2025-05-12,41.3,6,2025-05
+EVT00240,USR0063,Marketing,Viva Insights,Video Conferencing,2025-03-02,53.9,5,2025-03
+EVT00241,USR0206,Sales,Microsoft Teams,Team Chat,2025-03-13,3.7,1,2025-03
+EVT00242,USR0168,Technology,Viva Insights,Analytics Portal,2025-06-21,42.6,19,2025-06
+EVT00243,USR0176,Sales,SharePoint,Team Chat,2025-05-05,27.8,3,2025-05
+EVT00244,USR0062,Finance,OneDrive,Document Collaboration,2025-02-24,30.2,0,2025-02
+EVT00245,USR0257,Operations,Viva Insights,Project Management,2025-05-19,18.3,11,2025-05
+EVT00246,USR0197,Sales,OneDrive,Video Conferencing,2025-02-03,5.0,1,2025-02
+EVT00247,USR0250,Operations,Viva Insights,Analytics Portal,2025-05-27,29.4,8,2025-05
+EVT00248,USR0169,Sales,SharePoint,File Sharing,2025-05-28,16.3,1,2025-05
+EVT00249,USR0154,Marketing,Power BI,File Sharing,2025-05-02,5.5,3,2025-05
+EVT00250,USR0134,Finance,Microsoft Teams,Team Chat,2025-03-04,32.7,1,2025-03
+EVT00251,USR0071,Sales,OneDrive,Team Chat,2025-05-02,16.7,9,2025-05
+EVT00252,USR0037,Operations,Power BI,Analytics Portal,2025-04-15,27.9,10,2025-04
+EVT00253,USR0081,Finance,Microsoft Teams,Project Management,2025-02-18,32.5,4,2025-02
+EVT00254,USR0127,Technology,OneDrive,Project Management,2025-01-25,7.0,5,2025-01
+EVT00255,USR0253,Sales,Viva Insights,Document Collaboration,2025-01-25,23.9,5,2025-01
+EVT00256,USR0244,Finance,Viva Insights,File Sharing,2025-06-18,7.5,6,2025-06
+EVT00257,USR0070,Finance,Viva Insights,Analytics Portal,2025-04-21,11.9,9,2025-04
+EVT00258,USR0017,Sales,Microsoft Teams,File Sharing,2025-04-01,25.6,7,2025-04
+EVT00259,USR0253,Sales,OneDrive,Document Collaboration,2025-04-19,24.6,5,2025-04
+EVT00260,USR0300,HR,OneDrive,Team Chat,2025-04-16,3.5,0,2025-04
+EVT00261,USR0097,Sales,OneDrive,Video Conferencing,2025-04-30,3.5,7,2025-04
+EVT00262,USR0135,Marketing,Microsoft Teams,Team Chat,2025-01-14,9.4,5,2025-01
+EVT00263,USR0153,Legal,Power BI,Document Collaboration,2025-06-22,34.5,8,2025-06
+EVT00264,USR0246,Operations,Viva Insights,Video Conferencing,2025-06-17,2.5,9,2025-06
+EVT00265,USR0009,Legal,Microsoft Teams,Team Chat,2025-06-15,13.0,2,2025-06
+EVT00266,USR0157,Operations,Viva Insights,Document Collaboration,2025-01-26,28.8,4,2025-01
+EVT00267,USR0189,Sales,OneDrive,Project Management,2025-01-16,19.0,10,2025-01
+EVT00268,USR0187,HR,OneDrive,Document Collaboration,2025-04-14,6.3,11,2025-04
+EVT00269,USR0272,Operations,Microsoft Teams,File Sharing,2025-03-28,18.9,4,2025-03
+EVT00270,USR0079,HR,Power BI,Project Management,2025-01-28,43.5,4,2025-01
+EVT00271,USR0294,Legal,Viva Insights,Team Chat,2025-03-05,6.2,1,2025-03
+EVT00272,USR0058,Legal,OneDrive,Analytics Portal,2025-02-19,3.6,5,2025-02
+EVT00273,USR0012,Marketing,Microsoft Teams,File Sharing,2025-02-18,16.7,4,2025-02
+EVT00274,USR0104,Sales,SharePoint,Project Management,2025-05-18,17.6,3,2025-05
+EVT00275,USR0060,Finance,SharePoint,Analytics Portal,2025-04-25,46.9,4,2025-04
+EVT00276,USR0112,Legal,Power BI,Team Chat,2025-02-05,9.0,3,2025-02
+EVT00277,USR0068,Operations,Power BI,Document Collaboration,2025-04-19,11.9,5,2025-04
+EVT00278,USR0234,Legal,OneDrive,Team Chat,2025-02-16,2.9,8,2025-02
+EVT00279,USR0149,Technology,Power BI,File Sharing,2025-03-13,40.2,8,2025-03
+EVT00280,USR0285,Technology,Viva Insights,Team Chat,2025-04-29,34.8,2,2025-04
+EVT00281,USR0118,HR,Microsoft Teams,File Sharing,2025-03-05,20.3,5,2025-03
+EVT00282,USR0184,Marketing,SharePoint,Document Collaboration,2025-01-20,42.9,9,2025-01
+EVT00283,USR0236,Operations,Viva Insights,Video Conferencing,2025-04-24,28.2,3,2025-04
+EVT00284,USR0081,Finance,Power BI,Project Management,2025-05-21,48.9,9,2025-05
+EVT00285,USR0050,Sales,SharePoint,Document Collaboration,2025-01-26,21.8,4,2025-01
+EVT00286,USR0038,Sales,Power BI,Analytics Portal,2025-01-13,14.8,10,2025-01
+EVT00287,USR0014,HR,Power BI,Analytics Portal,2025-06-16,10.3,0,2025-06
+EVT00288,USR0079,HR,Microsoft Teams,File Sharing,2025-05-19,49.2,1,2025-05
+EVT00289,USR0006,Finance,Power BI,File Sharing,2025-01-04,0.6,1,2025-01
+EVT00290,USR0232,Technology,Microsoft Teams,File Sharing,2025-01-24,22.2,13,2025-01
+EVT00291,USR0134,Finance,Microsoft Teams,Project Management,2025-03-02,31.9,5,2025-03
+EVT00292,USR0061,Technology,Microsoft Teams,File Sharing,2025-02-12,21.4,3,2025-02
+EVT00293,USR0070,Finance,SharePoint,Analytics Portal,2025-04-15,35.1,1,2025-04
+EVT00294,USR0286,Legal,SharePoint,Analytics Portal,2025-05-05,2.6,8,2025-05
+EVT00295,USR0127,Technology,Microsoft Teams,Team Chat,2025-05-04,2.2,5,2025-05
+EVT00296,USR0233,Finance,Microsoft Teams,Video Conferencing,2025-02-24,20.8,4,2025-02
+EVT00297,USR0085,Marketing,OneDrive,Video Conferencing,2025-04-13,2.4,3,2025-04
+EVT00298,USR0163,HR,Microsoft Teams,File Sharing,2025-01-16,5.9,2,2025-01
+EVT00299,USR0296,Technology,Viva Insights,Project Management,2025-02-12,18.4,2,2025-02
+EVT00300,USR0259,Technology,Power BI,Analytics Portal,2025-04-08,11.4,3,2025-04
+EVT00301,USR0096,Technology,Power BI,Analytics Portal,2025-01-01,23.9,2,2025-01
+EVT00302,USR0196,Technology,Viva Insights,Team Chat,2025-04-10,5.7,2,2025-04
+EVT00303,USR0155,Sales,OneDrive,Team Chat,2025-03-09,4.6,4,2025-03
+EVT00304,USR0069,Technology,SharePoint,Team Chat,2025-04-27,18.7,8,2025-04
+EVT00305,USR0275,Technology,OneDrive,Document Collaboration,2025-03-15,6.9,3,2025-03
+EVT00306,USR0290,HR,Microsoft Teams,Analytics Portal,2025-04-19,9.1,8,2025-04
+EVT00307,USR0160,Operations,Power BI,File Sharing,2025-06-28,18.1,1,2025-06
+EVT00308,USR0186,Marketing,Microsoft Teams,File Sharing,2025-05-23,45.2,1,2025-05
+EVT00309,USR0119,Sales,OneDrive,Analytics Portal,2025-06-19,31.2,0,2025-06
+EVT00310,USR0047,HR,SharePoint,Video Conferencing,2025-05-05,7.4,3,2025-05
+EVT00311,USR0038,Sales,OneDrive,File Sharing,2025-02-09,28.6,4,2025-02
+EVT00312,USR0070,Finance,OneDrive,Video Conferencing,2025-02-18,13.2,6,2025-02
+EVT00313,USR0151,HR,OneDrive,Document Collaboration,2025-03-17,36.0,4,2025-03
+EVT00314,USR0284,Sales,Microsoft Teams,Document Collaboration,2025-02-25,27.8,6,2025-02
+EVT00315,USR0029,Sales,Power BI,Document Collaboration,2025-01-15,1.5,2,2025-01
+EVT00316,USR0147,HR,Viva Insights,Analytics Portal,2025-05-29,17.0,1,2025-05
+EVT00317,USR0197,Sales,SharePoint,Document Collaboration,2025-05-19,12.5,6,2025-05
+EVT00318,USR0210,Sales,OneDrive,File Sharing,2025-01-16,16.7,5,2025-01
+EVT00319,USR0170,Finance,OneDrive,Team Chat,2025-03-22,17.4,0,2025-03
+EVT00320,USR0289,Finance,Microsoft Teams,Analytics Portal,2025-01-15,25.3,18,2025-01
+EVT00321,USR0062,Finance,Viva Insights,Project Management,2025-01-13,7.1,6,2025-01
+EVT00322,USR0099,HR,Viva Insights,File Sharing,2025-05-30,27.6,4,2025-05
+EVT00323,USR0195,Finance,Microsoft Teams,File Sharing,2025-05-03,47.9,3,2025-05
+EVT00324,USR0025,Operations,SharePoint,Document Collaboration,2025-05-09,40.4,1,2025-05
+EVT00325,USR0002,Sales,Microsoft Teams,Video Conferencing,2025-05-16,13.5,4,2025-05
+EVT00326,USR0040,Operations,SharePoint,Analytics Portal,2025-02-10,41.6,12,2025-02
+EVT00327,USR0061,Technology,Power BI,Team Chat,2025-01-15,24.5,1,2025-01
+EVT00328,USR0218,Sales,SharePoint,Analytics Portal,2025-05-11,30.1,8,2025-05
+EVT00329,USR0098,HR,OneDrive,Document Collaboration,2025-01-21,3.4,12,2025-01
+EVT00330,USR0121,Sales,Microsoft Teams,Document Collaboration,2025-02-17,20.3,2,2025-02
+EVT00331,USR0147,HR,SharePoint,Analytics Portal,2025-01-18,16.6,2,2025-01
+EVT00332,USR0035,Marketing,Power BI,Team Chat,2025-06-02,14.6,1,2025-06
+EVT00333,USR0106,Sales,OneDrive,Project Management,2025-01-18,20.2,2,2025-01
+EVT00334,USR0124,Marketing,SharePoint,Team Chat,2025-06-22,26.3,10,2025-06
+EVT00335,USR0077,Sales,OneDrive,File Sharing,2025-03-02,9.7,4,2025-03
+EVT00336,USR0162,Technology,Viva Insights,File Sharing,2025-04-14,15.1,3,2025-04
+EVT00337,USR0089,Technology,OneDrive,Document Collaboration,2025-01-31,46.8,14,2025-01
+EVT00338,USR0270,HR,Power BI,Document Collaboration,2025-05-26,16.6,7,2025-05
+EVT00339,USR0019,Legal,Microsoft Teams,Project Management,2025-03-05,2.5,5,2025-03
+EVT00340,USR0269,Finance,Power BI,File Sharing,2025-05-29,20.1,2,2025-05
+EVT00341,USR0233,Finance,Power BI,Project Management,2025-06-02,6.9,7,2025-06
+EVT00342,USR0048,Finance,SharePoint,Video Conferencing,2025-01-11,2.6,6,2025-01
+EVT00343,USR0109,Finance,OneDrive,File Sharing,2025-06-08,17.6,2,2025-06
+EVT00344,USR0147,HR,Power BI,Team Chat,2025-01-21,6.0,3,2025-01
+EVT00345,USR0111,HR,Power BI,Project Management,2025-04-18,24.8,2,2025-04
+EVT00346,USR0205,Technology,Power BI,Analytics Portal,2025-06-18,44.9,0,2025-06
+EVT00347,USR0097,Sales,Viva Insights,Document Collaboration,2025-05-30,17.8,4,2025-05
+EVT00348,USR0032,Marketing,OneDrive,Project Management,2025-05-25,14.8,7,2025-05
+EVT00349,USR0183,Legal,Viva Insights,Document Collaboration,2025-05-14,2.2,9,2025-05
+EVT00350,USR0244,Finance,OneDrive,Video Conferencing,2025-03-22,31.8,5,2025-03
+EVT00351,USR0152,Finance,OneDrive,Analytics Portal,2025-03-08,36.0,7,2025-03
+EVT00352,USR0034,Legal,SharePoint,Team Chat,2025-02-22,1.4,0,2025-02
+EVT00353,USR0194,Marketing,Power BI,File Sharing,2025-06-21,11.2,4,2025-06
+EVT00354,USR0018,Technology,Power BI,File Sharing,2025-03-22,5.8,10,2025-03
+EVT00355,USR0031,Operations,Viva Insights,Project Management,2025-03-03,15.8,7,2025-03
+EVT00356,USR0270,HR,OneDrive,Analytics Portal,2025-03-09,20.8,3,2025-03
+EVT00357,USR0204,Legal,Microsoft Teams,Analytics Portal,2025-04-12,0.6,4,2025-04
+EVT00358,USR0131,Finance,SharePoint,File Sharing,2025-02-03,8.5,15,2025-02
+EVT00359,USR0231,Sales,Power BI,Analytics Portal,2025-06-21,11.1,6,2025-06
+EVT00360,USR0052,Legal,SharePoint,Team Chat,2025-06-15,21.7,4,2025-06
+EVT00361,USR0028,Finance,Viva Insights,File Sharing,2025-03-18,13.1,0,2025-03
+EVT00362,USR0017,Sales,OneDrive,Analytics Portal,2025-04-28,21.4,9,2025-04
+EVT00363,USR0059,Legal,Microsoft Teams,File Sharing,2025-03-22,27.6,7,2025-03
+EVT00364,USR0096,Technology,Viva Insights,Analytics Portal,2025-01-19,52.4,3,2025-01
+EVT00365,USR0173,Operations,SharePoint,File Sharing,2025-01-03,4.2,5,2025-01
+EVT00366,USR0259,Technology,Viva Insights,Analytics Portal,2025-04-28,22.5,6,2025-04
+EVT00367,USR0254,Sales,OneDrive,Team Chat,2025-06-09,9.3,8,2025-06
+EVT00368,USR0272,Operations,Power BI,File Sharing,2025-05-25,10.8,1,2025-05
+EVT00369,USR0013,Technology,Microsoft Teams,Team Chat,2025-01-26,58.6,7,2025-01
+EVT00370,USR0275,Technology,SharePoint,Document Collaboration,2025-01-19,50.9,3,2025-01
+EVT00371,USR0128,Finance,Microsoft Teams,Team Chat,2025-05-18,38.0,0,2025-05
+EVT00372,USR0001,Legal,Microsoft Teams,File Sharing,2025-02-24,19.6,5,2025-02
+EVT00373,USR0114,Technology,SharePoint,Document Collaboration,2025-05-10,58.9,2,2025-05
+EVT00374,USR0143,Sales,OneDrive,Project Management,2025-03-09,7.8,11,2025-03
+EVT00375,USR0027,HR,OneDrive,Project Management,2025-02-03,4.6,4,2025-02
+EVT00376,USR0023,Sales,Microsoft Teams,Team Chat,2025-03-31,10.6,7,2025-03
+EVT00377,USR0058,Legal,OneDrive,Project Management,2025-01-18,10.3,5,2025-01
+EVT00378,USR0071,Sales,SharePoint,Team Chat,2025-03-04,19.8,6,2025-03
+EVT00379,USR0260,Finance,SharePoint,Document Collaboration,2025-04-05,38.6,11,2025-04
+EVT00380,USR0032,Marketing,Viva Insights,Video Conferencing,2025-03-14,44.2,5,2025-03
+EVT00381,USR0003,Operations,Microsoft Teams,Team Chat,2025-02-10,3.4,11,2025-02
+EVT00382,USR0145,Operations,Power BI,Video Conferencing,2025-04-23,3.7,9,2025-04
+EVT00383,USR0205,Technology,OneDrive,Project Management,2025-05-20,29.6,5,2025-05
+EVT00384,USR0113,Legal,SharePoint,Project Management,2025-06-30,19.7,8,2025-06
+EVT00385,USR0256,HR,Power BI,Video Conferencing,2025-03-19,23.4,5,2025-03
+EVT00386,USR0272,Operations,Microsoft Teams,Analytics Portal,2025-06-06,23.5,6,2025-06
+EVT00387,USR0286,Legal,Viva Insights,Team Chat,2025-06-17,23.6,5,2025-06
+EVT00388,USR0252,Marketing,Viva Insights,Project Management,2025-05-16,23.3,9,2025-05
+EVT00389,USR0024,Finance,Microsoft Teams,Document Collaboration,2025-01-03,5.5,2,2025-01
+EVT00390,USR0093,Technology,OneDrive,Project Management,2025-06-20,22.5,9,2025-06
+EVT00391,USR0259,Technology,Power BI,File Sharing,2025-05-22,18.8,7,2025-05
+EVT00392,USR0122,Sales,Microsoft Teams,Video Conferencing,2025-03-18,28.1,3,2025-03
+EVT00393,USR0169,Sales,SharePoint,File Sharing,2025-06-19,29.9,4,2025-06
+EVT00394,USR0109,Finance,Viva Insights,Team Chat,2025-01-27,21.0,4,2025-01
+EVT00395,USR0003,Operations,Viva Insights,Document Collaboration,2025-02-04,31.2,5,2025-02
+EVT00396,USR0294,Legal,OneDrive,Project Management,2025-03-09,4.1,0,2025-03
+EVT00397,USR0256,HR,OneDrive,Document Collaboration,2025-01-30,19.6,1,2025-01
+EVT00398,USR0190,Technology,OneDrive,Project Management,2025-01-28,1.9,6,2025-01
+EVT00399,USR0087,Technology,Viva Insights,Video Conferencing,2025-05-22,2.4,3,2025-05
+EVT00400,USR0268,Legal,Viva Insights,Document Collaboration,2025-02-09,15.5,4,2025-02
+EVT00401,USR0152,Finance,OneDrive,Team Chat,2025-03-11,15.1,9,2025-03
+EVT00402,USR0183,Legal,SharePoint,Project Management,2025-03-14,27.4,5,2025-03
+EVT00403,USR0058,Legal,Microsoft Teams,Project Management,2025-06-04,3.2,5,2025-06
+EVT00404,USR0253,Sales,Power BI,File Sharing,2025-02-23,33.7,6,2025-02
+EVT00405,USR0175,Marketing,Power BI,Project Management,2025-03-29,34.5,0,2025-03
+EVT00406,USR0184,Marketing,OneDrive,File Sharing,2025-02-22,44.5,15,2025-02
+EVT00407,USR0251,Technology,SharePoint,Team Chat,2025-06-25,54.3,17,2025-06
+EVT00408,USR0283,Marketing,Viva Insights,File Sharing,2025-06-12,9.6,4,2025-06
+EVT00409,USR0267,Marketing,SharePoint,Team Chat,2025-03-09,29.9,10,2025-03
+EVT00410,USR0154,Marketing,Viva Insights,Team Chat,2025-05-10,4.2,2,2025-05
+EVT00411,USR0264,Marketing,Microsoft Teams,Team Chat,2025-05-06,11.8,4,2025-05
+EVT00412,USR0109,Finance,OneDrive,Team Chat,2025-03-06,5.5,5,2025-03
+EVT00413,USR0280,Marketing,Microsoft Teams,File Sharing,2025-01-14,16.2,7,2025-01
+EVT00414,USR0103,Sales,Viva Insights,Project Management,2025-01-24,13.3,0,2025-01
+EVT00415,USR0089,Technology,Viva Insights,Team Chat,2025-06-12,14.8,11,2025-06
+EVT00416,USR0229,Marketing,Microsoft Teams,File Sharing,2025-04-19,2.5,2,2025-04
+EVT00417,USR0293,Legal,Viva Insights,Project Management,2025-03-12,7.4,0,2025-03
+EVT00418,USR0218,Sales,Microsoft Teams,Team Chat,2025-01-12,24.7,7,2025-01
+EVT00419,USR0055,Finance,OneDrive,Team Chat,2025-01-01,2.1,8,2025-01
+EVT00420,USR0033,Technology,SharePoint,Document Collaboration,2025-03-27,24.8,3,2025-03
+EVT00421,USR0290,HR,Power BI,Video Conferencing,2025-02-03,20.4,7,2025-02
+EVT00422,USR0252,Marketing,SharePoint,File Sharing,2025-06-13,34.4,6,2025-06
+EVT00423,USR0113,Legal,Microsoft Teams,Team Chat,2025-03-09,25.1,4,2025-03
+EVT00424,USR0038,Sales,Microsoft Teams,Team Chat,2025-02-11,24.4,5,2025-02
+EVT00425,USR0029,Sales,Power BI,Analytics Portal,2025-04-24,9.8,3,2025-04
+EVT00426,USR0295,Sales,OneDrive,Analytics Portal,2025-05-22,10.1,5,2025-05
+EVT00427,USR0182,Marketing,OneDrive,Document Collaboration,2025-06-30,35.7,3,2025-06
+EVT00428,USR0045,Legal,OneDrive,File Sharing,2025-04-20,12.0,6,2025-04
+EVT00429,USR0156,Sales,Microsoft Teams,Document Collaboration,2025-05-24,22.7,0,2025-05
+EVT00430,USR0205,Technology,Microsoft Teams,Video Conferencing,2025-01-03,51.1,9,2025-01
+EVT00431,USR0037,Operations,OneDrive,Project Management,2025-01-29,43.8,4,2025-01
+EVT00432,USR0217,Operations,Microsoft Teams,Analytics Portal,2025-01-20,34.6,15,2025-01
+EVT00433,USR0130,Sales,OneDrive,Document Collaboration,2025-06-26,36.8,1,2025-06
+EVT00434,USR0111,HR,Microsoft Teams,Document Collaboration,2025-02-08,23.9,0,2025-02
+EVT00435,USR0226,Sales,OneDrive,Project Management,2025-05-20,20.6,5,2025-05
+EVT00436,USR0256,HR,Microsoft Teams,Project Management,2025-01-10,9.3,0,2025-01
+EVT00437,USR0149,Technology,Microsoft Teams,Video Conferencing,2025-04-05,38.4,7,2025-04
+EVT00438,USR0107,Legal,Microsoft Teams,Analytics Portal,2025-05-30,3.1,2,2025-05
+EVT00439,USR0021,Legal,Viva Insights,Team Chat,2025-05-22,5.7,5,2025-05
+EVT00440,USR0029,Sales,OneDrive,Project Management,2025-02-07,15.7,3,2025-02
+EVT00441,USR0281,Operations,Microsoft Teams,Analytics Portal,2025-04-21,24.1,11,2025-04
+EVT00442,USR0224,Marketing,Power BI,Team Chat,2025-02-02,7.8,11,2025-02
+EVT00443,USR0089,Technology,Microsoft Teams,Team Chat,2025-01-11,59.6,10,2025-01
+EVT00444,USR0205,Technology,Viva Insights,Analytics Portal,2025-03-20,29.4,5,2025-03
+EVT00445,USR0277,Marketing,OneDrive,Team Chat,2025-04-04,23.2,5,2025-04
+EVT00446,USR0208,Legal,Viva Insights,Analytics Portal,2025-01-11,24.1,3,2025-01
+EVT00447,USR0056,Sales,OneDrive,Team Chat,2025-04-02,37.4,4,2025-04
+EVT00448,USR0068,Operations,SharePoint,Analytics Portal,2025-02-23,15.6,4,2025-02
+EVT00449,USR0233,Finance,Power BI,File Sharing,2025-06-24,7.0,5,2025-06
+EVT00450,USR0216,Marketing,Viva Insights,Team Chat,2025-03-05,16.1,7,2025-03
+EVT00451,USR0021,Legal,Power BI,Document Collaboration,2025-06-20,17.0,7,2025-06
+EVT00452,USR0074,Marketing,Microsoft Teams,Video Conferencing,2025-01-27,10.9,9,2025-01
+EVT00453,USR0243,Marketing,Power BI,Video Conferencing,2025-04-01,25.2,7,2025-04
+EVT00454,USR0241,Finance,Viva Insights,Analytics Portal,2025-05-24,3.1,0,2025-05
+EVT00455,USR0174,Marketing,Power BI,Project Management,2025-04-15,19.1,15,2025-04
+EVT00456,USR0124,Marketing,Microsoft Teams,Document Collaboration,2025-06-08,7.1,3,2025-06
+EVT00457,USR0296,Technology,Viva Insights,Project Management,2025-02-09,17.3,11,2025-02
+EVT00458,USR0212,Finance,SharePoint,Video Conferencing,2025-03-02,10.4,7,2025-03
+EVT00459,USR0124,Marketing,Viva Insights,Project Management,2025-02-11,40.2,2,2025-02
+EVT00460,USR0203,Finance,OneDrive,Team Chat,2025-02-15,20.7,2,2025-02
+EVT00461,USR0240,Operations,Power BI,Project Management,2025-04-16,48.3,8,2025-04
+EVT00462,USR0229,Marketing,Microsoft Teams,Project Management,2025-01-07,11.1,8,2025-01
+EVT00463,USR0198,Sales,OneDrive,File Sharing,2025-02-15,3.0,3,2025-02
+EVT00464,USR0143,Sales,Viva Insights,Video Conferencing,2025-03-27,40.7,6,2025-03
+EVT00465,USR0180,Technology,SharePoint,File Sharing,2025-04-16,70.6,1,2025-04
+EVT00466,USR0024,Finance,OneDrive,Team Chat,2025-06-21,5.7,0,2025-06
+EVT00467,USR0180,Technology,Viva Insights,Project Management,2025-03-05,17.5,4,2025-03
+EVT00468,USR0182,Marketing,OneDrive,Document Collaboration,2025-03-10,43.5,1,2025-03
+EVT00469,USR0093,Technology,SharePoint,Analytics Portal,2025-02-10,29.2,13,2025-02
+EVT00470,USR0204,Legal,Viva Insights,Video Conferencing,2025-06-29,21.7,6,2025-06
+EVT00471,USR0097,Sales,Power BI,Video Conferencing,2025-01-28,15.6,0,2025-01
+EVT00472,USR0060,Finance,Viva Insights,Video Conferencing,2025-04-08,29.1,4,2025-04
+EVT00473,USR0019,Legal,SharePoint,Project Management,2025-01-10,12.5,6,2025-01
+EVT00474,USR0069,Technology,Power BI,Document Collaboration,2025-05-01,47.0,9,2025-05
+EVT00475,USR0046,Finance,OneDrive,Project Management,2025-02-26,52.2,16,2025-02
+EVT00476,USR0206,Sales,SharePoint,Project Management,2025-02-21,14.1,4,2025-02
+EVT00477,USR0269,Finance,OneDrive,Analytics Portal,2025-04-28,20.3,2,2025-04
+EVT00478,USR0076,Marketing,SharePoint,Team Chat,2025-03-31,25.6,7,2025-03
+EVT00479,USR0228,Finance,Viva Insights,Analytics Portal,2025-03-20,3.8,0,2025-03
+EVT00480,USR0148,Sales,Power BI,Document Collaboration,2025-02-28,12.2,5,2025-02
+EVT00481,USR0231,Sales,Viva Insights,Team Chat,2025-02-27,9.9,5,2025-02
+EVT00482,USR0062,Finance,Microsoft Teams,Document Collaboration,2025-01-07,22.6,4,2025-01
+EVT00483,USR0057,Operations,Viva Insights,Analytics Portal,2025-06-18,15.4,7,2025-06
+EVT00484,USR0193,Finance,SharePoint,Document Collaboration,2025-02-19,6.8,7,2025-02
+EVT00485,USR0191,Technology,Viva Insights,Project Management,2025-04-13,18.4,0,2025-04
+EVT00486,USR0176,Sales,OneDrive,File Sharing,2025-03-26,15.0,6,2025-03
+EVT00487,USR0128,Finance,Microsoft Teams,Team Chat,2025-03-13,20.1,0,2025-03
+EVT00488,USR0251,Technology,Power BI,Document Collaboration,2025-01-18,2.1,17,2025-01
+EVT00489,USR0034,Legal,Viva Insights,Project Management,2025-03-13,6.1,4,2025-03
+EVT00490,USR0242,Legal,Viva Insights,Team Chat,2025-03-31,24.2,5,2025-03
+EVT00491,USR0118,HR,Microsoft Teams,Video Conferencing,2025-06-14,3.9,4,2025-06
+EVT00492,USR0128,Finance,SharePoint,Document Collaboration,2025-05-11,24.4,1,2025-05
+EVT00493,USR0272,Operations,Power BI,Video Conferencing,2025-04-13,24.5,6,2025-04
+EVT00494,USR0247,Technology,Power BI,File Sharing,2025-06-23,6.6,19,2025-06
+EVT00495,USR0233,Finance,Viva Insights,File Sharing,2025-05-18,15.4,12,2025-05
+EVT00496,USR0059,Legal,Power BI,Team Chat,2025-03-26,11.0,1,2025-03
+EVT00497,USR0038,Sales,SharePoint,Project Management,2025-01-08,10.1,12,2025-01
+EVT00498,USR0159,Marketing,Viva Insights,Project Management,2025-01-30,47.7,2,2025-01
+EVT00499,USR0008,HR,SharePoint,Document Collaboration,2025-03-08,25.5,2,2025-03
+EVT00500,USR0259,Technology,Power BI,Project Management,2025-02-15,22.7,3,2025-02
+EVT00501,USR0034,Legal,Power BI,Team Chat,2025-05-29,19.6,3,2025-05
+EVT00502,USR0242,Legal,Power BI,Video Conferencing,2025-03-09,17.9,5,2025-03
+EVT00503,USR0009,Legal,Microsoft Teams,Video Conferencing,2025-01-10,4.6,3,2025-01
+EVT00504,USR0242,Legal,SharePoint,Document Collaboration,2025-01-28,1.3,4,2025-01
+EVT00505,USR0038,Sales,Power BI,Video Conferencing,2025-06-02,36.2,2,2025-06
+EVT00506,USR0094,Operations,Power BI,Document Collaboration,2025-04-22,52.5,13,2025-04
+EVT00507,USR0144,Technology,Viva Insights,Video Conferencing,2025-03-30,8.7,6,2025-03
+EVT00508,USR0277,Marketing,SharePoint,Document Collaboration,2025-03-22,10.9,6,2025-03
+EVT00509,USR0041,Legal,SharePoint,Analytics Portal,2025-04-22,9.2,3,2025-04
+EVT00510,USR0272,Operations,OneDrive,Analytics Portal,2025-06-05,19.0,1,2025-06
+EVT00511,USR0079,HR,Power BI,Analytics Portal,2025-05-11,41.0,1,2025-05
+EVT00512,USR0297,Technology,Viva Insights,Document Collaboration,2025-01-30,38.7,8,2025-01
+EVT00513,USR0205,Technology,Power BI,File Sharing,2025-04-09,23.1,3,2025-04
+EVT00514,USR0249,Sales,Viva Insights,File Sharing,2025-05-28,13.9,3,2025-05
+EVT00515,USR0184,Marketing,OneDrive,File Sharing,2025-02-18,37.7,8,2025-02
+EVT00516,USR0266,HR,SharePoint,File Sharing,2025-03-07,27.4,6,2025-03
+EVT00517,USR0004,Operations,Power BI,Video Conferencing,2025-01-12,18.1,12,2025-01
+EVT00518,USR0100,HR,Viva Insights,Document Collaboration,2025-04-22,11.4,8,2025-04
+EVT00519,USR0132,Marketing,Viva Insights,Team Chat,2025-01-01,18.1,0,2025-01
+EVT00520,USR0144,Technology,Viva Insights,Analytics Portal,2025-05-14,1.4,3,2025-05
+EVT00521,USR0196,Technology,Power BI,File Sharing,2025-05-18,14.0,4,2025-05
+EVT00522,USR0241,Finance,OneDrive,Team Chat,2025-06-25,7.7,11,2025-06
+EVT00523,USR0062,Finance,SharePoint,Project Management,2025-06-21,19.4,2,2025-06
+EVT00524,USR0237,Finance,Microsoft Teams,Video Conferencing,2025-02-20,4.9,6,2025-02
+EVT00525,USR0117,Finance,Viva Insights,Project Management,2025-04-04,51.5,0,2025-04
+EVT00526,USR0098,HR,OneDrive,File Sharing,2025-04-21,44.9,7,2025-04
+EVT00527,USR0040,Operations,Viva Insights,File Sharing,2025-01-18,54.7,5,2025-01
+EVT00528,USR0228,Finance,Microsoft Teams,File Sharing,2025-06-20,17.9,5,2025-06
+EVT00529,USR0052,Legal,SharePoint,Team Chat,2025-03-26,17.0,2,2025-03
+EVT00530,USR0106,Sales,Viva Insights,Video Conferencing,2025-06-09,12.8,6,2025-06
+EVT00531,USR0176,Sales,SharePoint,File Sharing,2025-03-22,1.0,5,2025-03
+EVT00532,USR0263,Legal,Power BI,Project Management,2025-06-19,3.8,3,2025-06
+EVT00533,USR0267,Marketing,Power BI,File Sharing,2025-02-01,20.5,6,2025-02
+EVT00534,USR0300,HR,Viva Insights,Project Management,2025-03-18,14.7,3,2025-03
+EVT00535,USR0053,Finance,Microsoft Teams,Team Chat,2025-05-10,32.1,12,2025-05
+EVT00536,USR0235,Marketing,SharePoint,Document Collaboration,2025-03-21,16.3,4,2025-03
+EVT00537,USR0104,Sales,OneDrive,Document Collaboration,2025-06-20,3.5,3,2025-06
+EVT00538,USR0240,Operations,Power BI,Analytics Portal,2025-04-15,33.1,3,2025-04
+EVT00539,USR0045,Legal,Microsoft Teams,File Sharing,2025-03-25,26.4,2,2025-03
+EVT00540,USR0153,Legal,OneDrive,Analytics Portal,2025-04-14,25.8,9,2025-04
+EVT00541,USR0154,Marketing,SharePoint,Document Collaboration,2025-06-28,14.1,1,2025-06
+EVT00542,USR0113,Legal,SharePoint,Video Conferencing,2025-03-17,10.4,4,2025-03
+EVT00543,USR0211,Legal,SharePoint,Video Conferencing,2025-05-22,1.0,0,2025-05
+EVT00544,USR0291,Marketing,Power BI,Analytics Portal,2025-02-02,11.2,9,2025-02
+EVT00545,USR0236,Operations,Viva Insights,File Sharing,2025-02-19,32.5,10,2025-02
+EVT00546,USR0123,Technology,Microsoft Teams,Video Conferencing,2025-04-18,53.5,12,2025-04
+EVT00547,USR0073,HR,Viva Insights,Document Collaboration,2025-06-20,13.7,4,2025-06
+EVT00548,USR0251,Technology,Power BI,Video Conferencing,2025-04-08,22.9,5,2025-04
+EVT00549,USR0047,HR,OneDrive,Video Conferencing,2025-06-23,8.2,1,2025-06
+EVT00550,USR0154,Marketing,SharePoint,Analytics Portal,2025-02-14,11.3,3,2025-02
+EVT00551,USR0292,HR,OneDrive,File Sharing,2025-06-07,6.4,4,2025-06
+EVT00552,USR0236,Operations,OneDrive,Analytics Portal,2025-05-26,13.9,7,2025-05
+EVT00553,USR0040,Operations,SharePoint,Team Chat,2025-03-19,10.8,5,2025-03
+EVT00554,USR0114,Technology,SharePoint,Document Collaboration,2025-04-14,14.7,10,2025-04
+EVT00555,USR0271,Legal,Power BI,Document Collaboration,2025-05-21,16.4,9,2025-05
+EVT00556,USR0102,HR,Power BI,Document Collaboration,2025-01-01,6.3,2,2025-01
+EVT00557,USR0084,Finance,Viva Insights,Document Collaboration,2025-03-19,41.7,4,2025-03
+EVT00558,USR0014,HR,Viva Insights,Document Collaboration,2025-03-15,21.4,0,2025-03
+EVT00559,USR0288,Legal,Microsoft Teams,Analytics Portal,2025-02-23,10.6,2,2025-02
+EVT00560,USR0258,Legal,Power BI,Team Chat,2025-04-21,18.1,2,2025-04
+EVT00561,USR0053,Finance,Microsoft Teams,Team Chat,2025-05-29,36.7,1,2025-05
+EVT00562,USR0071,Sales,Microsoft Teams,Analytics Portal,2025-06-05,3.3,2,2025-06
+EVT00563,USR0264,Marketing,Microsoft Teams,Document Collaboration,2025-06-17,47.1,2,2025-06
+EVT00564,USR0127,Technology,Microsoft Teams,File Sharing,2025-03-24,11.3,4,2025-03
+EVT00565,USR0082,Finance,Viva Insights,Video Conferencing,2025-04-30,41.5,6,2025-04
+EVT00566,USR0101,Marketing,Power BI,Document Collaboration,2025-04-24,14.8,3,2025-04
+EVT00567,USR0034,Legal,SharePoint,Team Chat,2025-04-24,21.4,3,2025-04
+EVT00568,USR0001,Legal,SharePoint,Analytics Portal,2025-06-22,6.8,4,2025-06
+EVT00569,USR0060,Finance,OneDrive,Analytics Portal,2025-02-24,4.8,4,2025-02
+EVT00570,USR0271,Legal,Power BI,Project Management,2025-05-11,34.8,2,2025-05
+EVT00571,USR0234,Legal,Viva Insights,Document Collaboration,2025-05-02,23.9,2,2025-05
+EVT00572,USR0025,Operations,Power BI,Analytics Portal,2025-02-13,23.2,12,2025-02
+EVT00573,USR0264,Marketing,OneDrive,Team Chat,2025-06-18,20.2,9,2025-06
+EVT00574,USR0197,Sales,OneDrive,Project Management,2025-01-22,14.8,1,2025-01
+EVT00575,USR0244,Finance,SharePoint,Video Conferencing,2025-03-14,41.4,4,2025-03
+EVT00576,USR0137,Finance,SharePoint,Video Conferencing,2025-05-12,11.3,10,2025-05
+EVT00577,USR0293,Legal,SharePoint,Project Management,2025-06-19,9.1,1,2025-06
+EVT00578,USR0263,Legal,Viva Insights,Analytics Portal,2025-06-12,3.9,2,2025-06
+EVT00579,USR0017,Sales,Viva Insights,Document Collaboration,2025-06-08,22.1,8,2025-06
+EVT00580,USR0276,Finance,SharePoint,Video Conferencing,2025-03-27,3.6,1,2025-03
+EVT00581,USR0092,Marketing,SharePoint,Document Collaboration,2025-01-24,19.5,0,2025-01
+EVT00582,USR0021,Legal,Microsoft Teams,Analytics Portal,2025-03-02,6.5,7,2025-03
+EVT00583,USR0020,Marketing,OneDrive,Video Conferencing,2025-06-22,6.3,4,2025-06
+EVT00584,USR0024,Finance,OneDrive,Project Management,2025-03-21,9.9,3,2025-03
+EVT00585,USR0294,Legal,SharePoint,File Sharing,2025-02-27,9.5,0,2025-02
+EVT00586,USR0153,Legal,SharePoint,Video Conferencing,2025-02-20,22.0,6,2025-02
+EVT00587,USR0074,Marketing,Power BI,Analytics Portal,2025-02-07,15.8,7,2025-02
+EVT00588,USR0045,Legal,Power BI,File Sharing,2025-01-07,13.1,5,2025-01
+EVT00589,USR0191,Technology,Microsoft Teams,Video Conferencing,2025-01-12,5.3,5,2025-01
+EVT00590,USR0069,Technology,SharePoint,Project Management,2025-03-04,53.3,12,2025-03
+EVT00591,USR0225,Operations,OneDrive,Document Collaboration,2025-05-02,46.5,13,2025-05
+EVT00592,USR0196,Technology,SharePoint,File Sharing,2025-06-06,2.2,0,2025-06
+EVT00593,USR0250,Operations,Microsoft Teams,Team Chat,2025-01-19,26.9,7,2025-01
+EVT00594,USR0179,Technology,Microsoft Teams,File Sharing,2025-04-27,13.1,1,2025-04
+EVT00595,USR0182,Marketing,SharePoint,Project Management,2025-04-17,13.4,2,2025-04
+EVT00596,USR0136,Legal,Viva Insights,Document Collaboration,2025-06-11,18.6,2,2025-06
+EVT00597,USR0083,Legal,Power BI,Team Chat,2025-05-28,3.3,0,2025-05
+EVT00598,USR0005,Marketing,Viva Insights,Analytics Portal,2025-02-19,13.4,5,2025-02
+EVT00599,USR0148,Sales,Power BI,Project Management,2025-06-28,15.5,4,2025-06
+EVT00600,USR0195,Finance,Microsoft Teams,File Sharing,2025-04-09,34.2,0,2025-04
+EVT00601,USR0163,HR,SharePoint,Team Chat,2025-05-07,22.5,3,2025-05
+EVT00602,USR0082,Finance,Microsoft Teams,Team Chat,2025-04-13,7.3,11,2025-04
+EVT00603,USR0155,Sales,Power BI,Analytics Portal,2025-03-04,13.9,3,2025-03
+EVT00604,USR0246,Operations,OneDrive,Document Collaboration,2025-02-07,41.4,3,2025-02
+EVT00605,USR0151,HR,Power BI,File Sharing,2025-06-17,12.6,7,2025-06
+EVT00606,USR0149,Technology,SharePoint,Document Collaboration,2025-06-26,35.1,5,2025-06
+EVT00607,USR0029,Sales,OneDrive,Document Collaboration,2025-01-02,19.2,1,2025-01
+EVT00608,USR0257,Operations,SharePoint,File Sharing,2025-01-28,30.2,6,2025-01
+EVT00609,USR0070,Finance,OneDrive,Analytics Portal,2025-04-19,7.2,0,2025-04
+EVT00610,USR0123,Technology,OneDrive,Team Chat,2025-02-26,14.3,0,2025-02
+EVT00611,USR0164,HR,OneDrive,Team Chat,2025-02-15,12.6,3,2025-02
+EVT00612,USR0188,HR,SharePoint,File Sharing,2025-06-28,38.5,11,2025-06
+EVT00613,USR0153,Legal,Power BI,Team Chat,2025-05-13,15.0,2,2025-05
+EVT00614,USR0012,Marketing,Power BI,Team Chat,2025-04-29,18.0,4,2025-04
+EVT00615,USR0270,HR,Power BI,Analytics Portal,2025-01-13,46.5,10,2025-01
+EVT00616,USR0154,Marketing,SharePoint,Document Collaboration,2025-05-23,4.5,3,2025-05
+EVT00617,USR0112,Legal,Power BI,Project Management,2025-03-05,11.8,0,2025-03
+EVT00618,USR0093,Technology,Viva Insights,File Sharing,2025-02-01,59.0,13,2025-02
+EVT00619,USR0068,Operations,Microsoft Teams,Team Chat,2025-04-27,5.3,4,2025-04
+EVT00620,USR0215,Finance,SharePoint,File Sharing,2025-02-04,0.8,7,2025-02
+EVT00621,USR0039,HR,Microsoft Teams,Analytics Portal,2025-04-29,46.8,8,2025-04
+EVT00622,USR0155,Sales,Viva Insights,Team Chat,2025-06-20,4.3,1,2025-06
+EVT00623,USR0043,Legal,Microsoft Teams,Video Conferencing,2025-05-16,7.2,0,2025-05
+EVT00624,USR0007,Finance,SharePoint,File Sharing,2025-05-24,15.9,7,2025-05
+EVT00625,USR0127,Technology,OneDrive,Team Chat,2025-06-02,22.7,12,2025-06
+EVT00626,USR0129,Legal,Viva Insights,Team Chat,2025-03-23,24.9,9,2025-03
+EVT00627,USR0267,Marketing,OneDrive,Team Chat,2025-04-24,18.0,12,2025-04
+EVT00628,USR0206,Sales,Microsoft Teams,Team Chat,2025-06-06,15.8,1,2025-06
+EVT00629,USR0014,HR,SharePoint,File Sharing,2025-05-10,14.8,4,2025-05
+EVT00630,USR0220,Legal,Viva Insights,Team Chat,2025-04-20,2.2,2,2025-04
+EVT00631,USR0228,Finance,SharePoint,Document Collaboration,2025-05-21,19.5,4,2025-05
+EVT00632,USR0022,HR,Viva Insights,Video Conferencing,2025-04-25,6.0,2,2025-04
+EVT00633,USR0264,Marketing,OneDrive,Team Chat,2025-02-10,4.3,9,2025-02
+EVT00634,USR0285,Technology,OneDrive,Analytics Portal,2025-05-02,36.1,1,2025-05
+EVT00635,USR0281,Operations,SharePoint,Document Collaboration,2025-04-26,16.3,14,2025-04
+EVT00636,USR0276,Finance,Power BI,Project Management,2025-03-08,32.3,6,2025-03
+EVT00637,USR0197,Sales,Viva Insights,Analytics Portal,2025-03-05,5.1,1,2025-03
+EVT00638,USR0061,Technology,OneDrive,Analytics Portal,2025-06-13,15.3,7,2025-06
+EVT00639,USR0206,Sales,SharePoint,Document Collaboration,2025-03-12,19.2,7,2025-03
+EVT00640,USR0190,Technology,Viva Insights,Document Collaboration,2025-05-14,48.9,10,2025-05
+EVT00641,USR0259,Technology,OneDrive,File Sharing,2025-05-05,7.0,1,2025-05
+EVT00642,USR0272,Operations,Power BI,Project Management,2025-06-10,12.8,5,2025-06
+EVT00643,USR0287,Sales,Power BI,File Sharing,2025-03-03,6.9,4,2025-03
+EVT00644,USR0060,Finance,Microsoft Teams,Project Management,2025-03-12,51.4,1,2025-03
+EVT00645,USR0231,Sales,OneDrive,Video Conferencing,2025-04-23,3.5,6,2025-04
+EVT00646,USR0240,Operations,SharePoint,Video Conferencing,2025-01-20,57.2,1,2025-01
+EVT00647,USR0008,HR,Microsoft Teams,Team Chat,2025-03-15,28.0,1,2025-03
+EVT00648,USR0241,Finance,Power BI,Video Conferencing,2025-03-02,5.6,4,2025-03
+EVT00649,USR0256,HR,Viva Insights,File Sharing,2025-03-11,7.5,5,2025-03
+EVT00650,USR0222,Legal,Power BI,Project Management,2025-03-27,18.7,7,2025-03
+EVT00651,USR0291,Marketing,Power BI,File Sharing,2025-03-23,6.6,11,2025-03
+EVT00652,USR0116,HR,Power BI,Video Conferencing,2025-05-19,35.1,1,2025-05
+EVT00653,USR0256,HR,Viva Insights,Document Collaboration,2025-01-21,1.6,4,2025-01
+EVT00654,USR0108,HR,SharePoint,Project Management,2025-02-05,9.3,4,2025-02
+EVT00655,USR0035,Marketing,SharePoint,File Sharing,2025-02-08,25.9,8,2025-02
+EVT00656,USR0288,Legal,Microsoft Teams,Team Chat,2025-03-01,18.0,1,2025-03
+EVT00657,USR0192,Operations,Power BI,File Sharing,2025-04-09,11.9,6,2025-04
+EVT00658,USR0136,Legal,Microsoft Teams,Video Conferencing,2025-06-27,6.3,3,2025-06
+EVT00659,USR0067,HR,Microsoft Teams,Project Management,2025-02-09,3.4,2,2025-02
+EVT00660,USR0137,Finance,Viva Insights,Analytics Portal,2025-06-30,46.8,1,2025-06
+EVT00661,USR0002,Sales,OneDrive,Video Conferencing,2025-02-24,15.3,2,2025-02
+EVT00662,USR0020,Marketing,SharePoint,File Sharing,2025-01-17,8.0,1,2025-01
+EVT00663,USR0252,Marketing,SharePoint,Video Conferencing,2025-04-17,34.0,0,2025-04
+EVT00664,USR0284,Sales,SharePoint,Video Conferencing,2025-04-15,4.3,6,2025-04
+EVT00665,USR0289,Finance,Power BI,File Sharing,2025-03-26,15.3,0,2025-03
+EVT00666,USR0246,Operations,Power BI,Team Chat,2025-05-19,41.7,12,2025-05
+EVT00667,USR0104,Sales,OneDrive,Analytics Portal,2025-04-30,9.7,5,2025-04
+EVT00668,USR0175,Marketing,Power BI,Video Conferencing,2025-04-17,9.4,3,2025-04
+EVT00669,USR0072,Legal,OneDrive,Video Conferencing,2025-01-16,19.8,5,2025-01
+EVT00670,USR0289,Finance,Microsoft Teams,Project Management,2025-02-22,23.0,0,2025-02
+EVT00671,USR0185,HR,Microsoft Teams,Document Collaboration,2025-04-18,34.7,0,2025-04
+EVT00672,USR0143,Sales,SharePoint,Video Conferencing,2025-04-10,3.7,10,2025-04
+EVT00673,USR0238,Sales,SharePoint,Video Conferencing,2025-05-30,36.1,7,2025-05
+EVT00674,USR0284,Sales,Microsoft Teams,Video Conferencing,2025-06-28,2.2,5,2025-06
+EVT00675,USR0268,Legal,Viva Insights,Document Collaboration,2025-01-06,6.2,1,2025-01
+EVT00676,USR0028,Finance,Viva Insights,Team Chat,2025-05-28,27.2,4,2025-05
+EVT00677,USR0072,Legal,Microsoft Teams,Document Collaboration,2025-04-08,4.5,4,2025-04
+EVT00678,USR0155,Sales,Microsoft Teams,Project Management,2025-05-03,15.6,1,2025-05
+EVT00679,USR0153,Legal,OneDrive,File Sharing,2025-01-02,16.2,9,2025-01
+EVT00680,USR0219,HR,SharePoint,Analytics Portal,2025-04-01,13.3,4,2025-04
+EVT00681,USR0041,Legal,SharePoint,Analytics Portal,2025-03-18,7.6,4,2025-03
+EVT00682,USR0105,Technology,OneDrive,Document Collaboration,2025-04-10,55.8,16,2025-04
+EVT00683,USR0180,Technology,Viva Insights,Analytics Portal,2025-04-18,65.0,17,2025-04
+EVT00684,USR0195,Finance,OneDrive,File Sharing,2025-05-18,27.7,6,2025-05
+EVT00685,USR0150,Sales,SharePoint,File Sharing,2025-05-20,6.3,2,2025-05
+EVT00686,USR0086,Legal,SharePoint,Analytics Portal,2025-06-04,14.6,0,2025-06
+EVT00687,USR0012,Marketing,SharePoint,Analytics Portal,2025-02-26,2.6,0,2025-02
+EVT00688,USR0281,Operations,OneDrive,Document Collaboration,2025-05-05,25.4,6,2025-05
+EVT00689,USR0250,Operations,SharePoint,Video Conferencing,2025-02-26,13.5,3,2025-02
+EVT00690,USR0178,Sales,Power BI,Analytics Portal,2025-03-11,42.1,4,2025-03
+EVT00691,USR0206,Sales,Power BI,File Sharing,2025-04-22,13.2,0,2025-04
+EVT00692,USR0027,HR,Viva Insights,Analytics Portal,2025-05-05,3.4,3,2025-05
+EVT00693,USR0037,Operations,SharePoint,Analytics Portal,2025-01-08,22.2,14,2025-01
+EVT00694,USR0074,Marketing,SharePoint,Team Chat,2025-04-10,9.1,4,2025-04
+EVT00695,USR0164,HR,Microsoft Teams,Team Chat,2025-03-28,6.7,0,2025-03
+EVT00696,USR0166,Sales,Microsoft Teams,Video Conferencing,2025-06-21,16.6,7,2025-06
+EVT00697,USR0276,Finance,SharePoint,File Sharing,2025-06-23,29.4,3,2025-06
+EVT00698,USR0272,Operations,Viva Insights,Analytics Portal,2025-04-14,1.5,6,2025-04
+EVT00699,USR0032,Marketing,SharePoint,Document Collaboration,2025-02-12,34.4,1,2025-02
+EVT00700,USR0090,HR,Power BI,Analytics Portal,2025-04-30,11.5,7,2025-04
+EVT00701,USR0053,Finance,Viva Insights,Analytics Portal,2025-02-02,44.5,2,2025-02
+EVT00702,USR0244,Finance,Power BI,Document Collaboration,2025-06-09,41.0,2,2025-06
+EVT00703,USR0218,Sales,Viva Insights,Project Management,2025-05-17,20.9,7,2025-05
+EVT00704,USR0280,Marketing,SharePoint,File Sharing,2025-01-07,24.7,2,2025-01
+EVT00705,USR0003,Operations,OneDrive,Analytics Portal,2025-04-11,10.1,7,2025-04
+EVT00706,USR0028,Finance,Viva Insights,Document Collaboration,2025-06-01,39.2,8,2025-06
+EVT00707,USR0106,Sales,OneDrive,Project Management,2025-05-25,7.1,4,2025-05
+EVT00708,USR0096,Technology,Viva Insights,Document Collaboration,2025-06-19,25.0,3,2025-06
+EVT00709,USR0297,Technology,Viva Insights,File Sharing,2025-01-07,35.6,7,2025-01
+EVT00710,USR0157,Operations,Microsoft Teams,Analytics Portal,2025-01-22,12.1,0,2025-01
+EVT00711,USR0161,Marketing,Viva Insights,Project Management,2025-06-14,28.5,2,2025-06
+EVT00712,USR0107,Legal,Power BI,Document Collaboration,2025-04-20,22.9,1,2025-04
+EVT00713,USR0147,HR,Microsoft Teams,File Sharing,2025-02-04,3.4,0,2025-02
+EVT00714,USR0285,Technology,Power BI,Video Conferencing,2025-04-29,47.5,5,2025-04
+EVT00715,USR0104,Sales,Microsoft Teams,Project Management,2025-02-16,1.5,5,2025-02
+EVT00716,USR0151,HR,Microsoft Teams,Analytics Portal,2025-01-13,11.8,9,2025-01
+EVT00717,USR0239,HR,Viva Insights,Team Chat,2025-03-08,13.7,1,2025-03
+EVT00718,USR0252,Marketing,Power BI,Video Conferencing,2025-04-08,32.4,2,2025-04
+EVT00719,USR0145,Operations,SharePoint,Document Collaboration,2025-03-25,16.3,4,2025-03
+EVT00720,USR0055,Finance,Viva Insights,Project Management,2025-02-24,23.4,6,2025-02
+EVT00721,USR0137,Finance,Microsoft Teams,Video Conferencing,2025-04-27,13.6,3,2025-04
+EVT00722,USR0116,HR,Microsoft Teams,Document Collaboration,2025-03-25,35.5,0,2025-03
+EVT00723,USR0174,Marketing,Viva Insights,Video Conferencing,2025-03-28,27.8,3,2025-03
+EVT00724,USR0077,Sales,Viva Insights,Video Conferencing,2025-04-08,9.5,6,2025-04
+EVT00725,USR0065,Operations,OneDrive,Team Chat,2025-03-13,22.1,10,2025-03
+EVT00726,USR0153,Legal,Microsoft Teams,Team Chat,2025-04-18,13.4,4,2025-04
+EVT00727,USR0044,Sales,SharePoint,Analytics Portal,2025-03-06,1.4,7,2025-03
+EVT00728,USR0262,Sales,OneDrive,Document Collaboration,2025-01-21,42.0,2,2025-01
+EVT00729,USR0268,Legal,Viva Insights,Project Management,2025-05-01,14.3,0,2025-05
+EVT00730,USR0293,Legal,Viva Insights,Document Collaboration,2025-01-05,3.2,0,2025-01
+EVT00731,USR0111,HR,SharePoint,Project Management,2025-05-19,16.9,7,2025-05
+EVT00732,USR0152,Finance,Power BI,Analytics Portal,2025-01-14,59.6,17,2025-01
+EVT00733,USR0260,Finance,OneDrive,Document Collaboration,2025-03-31,24.5,1,2025-03
+EVT00734,USR0079,HR,Viva Insights,Document Collaboration,2025-02-27,30.0,12,2025-02
+EVT00735,USR0164,HR,Viva Insights,Analytics Portal,2025-06-16,4.8,0,2025-06
+EVT00736,USR0258,Legal,Power BI,Analytics Portal,2025-01-18,1.5,5,2025-01
+EVT00737,USR0225,Operations,Power BI,Document Collaboration,2025-06-16,60.3,8,2025-06
+EVT00738,USR0087,Technology,Power BI,Document Collaboration,2025-01-11,0.9,6,2025-01
+EVT00739,USR0294,Legal,Viva Insights,Document Collaboration,2025-01-08,1.9,2,2025-01
+EVT00740,USR0255,Technology,Viva Insights,Project Management,2025-03-05,51.8,9,2025-03
+EVT00741,USR0204,Legal,OneDrive,Analytics Portal,2025-02-21,6.7,2,2025-02
+EVT00742,USR0193,Finance,Microsoft Teams,File Sharing,2025-01-06,11.1,7,2025-01
+EVT00743,USR0113,Legal,SharePoint,Video Conferencing,2025-06-09,12.6,4,2025-06
+EVT00744,USR0142,HR,OneDrive,Project Management,2025-02-09,2.8,4,2025-02
+EVT00745,USR0155,Sales,OneDrive,Team Chat,2025-03-03,18.6,3,2025-03
+EVT00746,USR0049,Finance,Power BI,Document Collaboration,2025-02-02,11.0,3,2025-02
+EVT00747,USR0127,Technology,SharePoint,Video Conferencing,2025-05-02,4.2,18,2025-05
+EVT00748,USR0292,HR,Power BI,Video Conferencing,2025-06-21,16.0,6,2025-06
+EVT00749,USR0057,Operations,Microsoft Teams,Analytics Portal,2025-01-30,1.7,1,2025-01
+EVT00750,USR0077,Sales,OneDrive,Analytics Portal,2025-05-25,4.3,5,2025-05
+EVT00751,USR0061,Technology,OneDrive,Video Conferencing,2025-02-25,17.2,9,2025-02
+EVT00752,USR0150,Sales,Microsoft Teams,Document Collaboration,2025-04-30,14.1,5,2025-04
+EVT00753,USR0232,Technology,OneDrive,Project Management,2025-06-29,58.2,8,2025-06
+EVT00754,USR0031,Operations,Viva Insights,Team Chat,2025-03-07,18.4,0,2025-03
+EVT00755,USR0196,Technology,Microsoft Teams,File Sharing,2025-04-05,4.0,4,2025-04
+EVT00756,USR0086,Legal,Microsoft Teams,Analytics Portal,2025-02-12,16.5,2,2025-02
+EVT00757,USR0134,Finance,SharePoint,File Sharing,2025-06-05,7.4,10,2025-06
+EVT00758,USR0248,Finance,OneDrive,Analytics Portal,2025-06-05,23.1,7,2025-06
+EVT00759,USR0004,Operations,SharePoint,Analytics Portal,2025-01-30,40.3,10,2025-01
+EVT00760,USR0252,Marketing,SharePoint,Team Chat,2025-02-11,24.4,0,2025-02
+EVT00761,USR0195,Finance,Viva Insights,Project Management,2025-03-21,5.1,8,2025-03
+EVT00762,USR0020,Marketing,SharePoint,Video Conferencing,2025-01-28,36.3,7,2025-01
+EVT00763,USR0085,Marketing,SharePoint,Video Conferencing,2025-05-29,38.2,11,2025-05
+EVT00764,USR0028,Finance,Viva Insights,File Sharing,2025-01-07,57.2,3,2025-01
+EVT00765,USR0010,Finance,Microsoft Teams,File Sharing,2025-03-21,39.0,7,2025-03
+EVT00766,USR0226,Sales,SharePoint,Project Management,2025-05-28,21.9,8,2025-05
+EVT00767,USR0100,HR,Viva Insights,Document Collaboration,2025-06-23,12.2,4,2025-06
+EVT00768,USR0280,Marketing,OneDrive,Project Management,2025-04-07,6.2,7,2025-04
+EVT00769,USR0144,Technology,Viva Insights,Team Chat,2025-04-12,5.6,3,2025-04
+EVT00770,USR0155,Sales,Microsoft Teams,Analytics Portal,2025-02-20,12.8,0,2025-02
+EVT00771,USR0121,Sales,OneDrive,Document Collaboration,2025-01-20,33.1,6,2025-01
+EVT00772,USR0157,Operations,OneDrive,Video Conferencing,2025-06-01,23.4,2,2025-06
+EVT00773,USR0187,HR,OneDrive,Document Collaboration,2025-06-26,24.2,4,2025-06
+EVT00774,USR0244,Finance,SharePoint,File Sharing,2025-06-10,7.3,6,2025-06
+EVT00775,USR0284,Sales,Viva Insights,Analytics Portal,2025-03-04,5.5,1,2025-03
+EVT00776,USR0225,Operations,OneDrive,Video Conferencing,2025-01-27,23.2,9,2025-01
+EVT00777,USR0121,Sales,Microsoft Teams,Project Management,2025-06-28,5.4,6,2025-06
+EVT00778,USR0109,Finance,Viva Insights,Video Conferencing,2025-03-19,10.3,6,2025-03
+EVT00779,USR0160,Operations,SharePoint,Document Collaboration,2025-06-25,14.4,1,2025-06
+EVT00780,USR0087,Technology,SharePoint,Team Chat,2025-06-03,15.3,4,2025-06
+EVT00781,USR0197,Sales,Microsoft Teams,Document Collaboration,2025-01-31,13.1,4,2025-01
+EVT00782,USR0174,Marketing,OneDrive,Project Management,2025-05-25,35.7,9,2025-05
+EVT00783,USR0174,Marketing,SharePoint,File Sharing,2025-01-11,6.2,2,2025-01
+EVT00784,USR0083,Legal,OneDrive,Video Conferencing,2025-03-30,8.0,0,2025-03
+EVT00785,USR0106,Sales,Microsoft Teams,Analytics Portal,2025-05-17,12.7,6,2025-05
+EVT00786,USR0259,Technology,OneDrive,File Sharing,2025-04-20,3.2,4,2025-04
+EVT00787,USR0129,Legal,SharePoint,Document Collaboration,2025-06-19,22.1,9,2025-06
+EVT00788,USR0014,HR,Power BI,Team Chat,2025-04-05,8.0,3,2025-04
+EVT00789,USR0128,Finance,Viva Insights,Analytics Portal,2025-01-18,39.7,2,2025-01
+EVT00790,USR0275,Technology,Microsoft Teams,File Sharing,2025-05-10,46.8,7,2025-05
+EVT00791,USR0070,Finance,Microsoft Teams,Team Chat,2025-06-15,35.4,5,2025-06
+EVT00792,USR0135,Marketing,SharePoint,Project Management,2025-03-29,23.2,7,2025-03
+EVT00793,USR0042,Marketing,Microsoft Teams,Analytics Portal,2025-01-04,21.0,7,2025-01
+EVT00794,USR0100,HR,Viva Insights,Team Chat,2025-04-18,12.8,7,2025-04
+EVT00795,USR0187,HR,SharePoint,File Sharing,2025-05-06,32.7,9,2025-05
+EVT00796,USR0224,Marketing,Power BI,Project Management,2025-01-28,8.0,9,2025-01
+EVT00797,USR0088,Marketing,OneDrive,Analytics Portal,2025-04-21,32.1,6,2025-04
+EVT00798,USR0174,Marketing,SharePoint,Team Chat,2025-04-03,18.3,4,2025-04
+EVT00799,USR0069,Technology,OneDrive,Document Collaboration,2025-06-12,48.6,8,2025-06
+EVT00800,USR0241,Finance,OneDrive,Video Conferencing,2025-04-28,30.2,11,2025-04
+EVT00801,USR0036,Operations,Viva Insights,Project Management,2025-02-09,14.1,0,2025-02
+EVT00802,USR0236,Operations,Microsoft Teams,File Sharing,2025-04-22,1.7,9,2025-04
+EVT00803,USR0163,HR,OneDrive,File Sharing,2025-02-15,17.3,0,2025-02
+EVT00804,USR0229,Marketing,Viva Insights,Analytics Portal,2025-05-14,25.6,7,2025-05
+EVT00805,USR0183,Legal,Power BI,Team Chat,2025-06-16,27.3,7,2025-06
+EVT00806,USR0167,Technology,OneDrive,Document Collaboration,2025-03-11,42.6,14,2025-03
+EVT00807,USR0119,Sales,Microsoft Teams,File Sharing,2025-06-07,20.3,5,2025-06
+EVT00808,USR0001,Legal,Power BI,Document Collaboration,2025-05-18,21.5,2,2025-05
+EVT00809,USR0203,Finance,SharePoint,Document Collaboration,2025-05-04,24.7,7,2025-05
+EVT00810,USR0269,Finance,SharePoint,File Sharing,2025-04-30,4.6,2,2025-04
+EVT00811,USR0261,HR,Power BI,Project Management,2025-04-22,18.7,1,2025-04
+EVT00812,USR0196,Technology,Power BI,Project Management,2025-06-01,19.3,3,2025-06
+EVT00813,USR0186,Marketing,Power BI,Video Conferencing,2025-03-10,11.4,4,2025-03
+EVT00814,USR0086,Legal,SharePoint,Document Collaboration,2025-03-24,11.4,2,2025-03
+EVT00815,USR0071,Sales,SharePoint,Video Conferencing,2025-03-04,32.0,0,2025-03
+EVT00816,USR0146,HR,Microsoft Teams,Analytics Portal,2025-01-23,25.8,11,2025-01
+EVT00817,USR0248,Finance,Power BI,Video Conferencing,2025-03-13,46.4,1,2025-03
+EVT00818,USR0233,Finance,OneDrive,Video Conferencing,2025-04-26,5.0,2,2025-04
+EVT00819,USR0026,Operations,Power BI,File Sharing,2025-03-04,45.2,1,2025-03
+EVT00820,USR0077,Sales,Microsoft Teams,Project Management,2025-04-29,12.5,5,2025-04
+EVT00821,USR0099,HR,Viva Insights,Team Chat,2025-05-26,19.3,8,2025-05
+EVT00822,USR0088,Marketing,SharePoint,Video Conferencing,2025-06-06,29.3,5,2025-06
+EVT00823,USR0140,Sales,Viva Insights,Document Collaboration,2025-06-21,11.5,3,2025-06
+EVT00824,USR0051,Technology,Power BI,Project Management,2025-04-08,81.7,10,2025-04
+EVT00825,USR0014,HR,SharePoint,File Sharing,2025-03-28,20.1,3,2025-03
+EVT00826,USR0297,Technology,OneDrive,Team Chat,2025-01-08,37.4,4,2025-01
+EVT00827,USR0067,HR,SharePoint,File Sharing,2025-05-07,19.5,3,2025-05
+EVT00828,USR0195,Finance,Microsoft Teams,Analytics Portal,2025-03-25,41.9,9,2025-03
+EVT00829,USR0289,Finance,OneDrive,Analytics Portal,2025-02-16,30.1,11,2025-02
+EVT00830,USR0226,Sales,Power BI,Analytics Portal,2025-05-05,25.8,1,2025-05
+EVT00831,USR0234,Legal,Viva Insights,Project Management,2025-02-24,37.8,1,2025-02
+EVT00832,USR0188,HR,Viva Insights,Team Chat,2025-04-01,42.5,6,2025-04
+EVT00833,USR0142,HR,OneDrive,Project Management,2025-03-08,3.9,1,2025-03
+EVT00834,USR0193,Finance,Viva Insights,Video Conferencing,2025-03-29,27.6,4,2025-03
+EVT00835,USR0043,Legal,SharePoint,Document Collaboration,2025-03-13,3.4,3,2025-03
+EVT00836,USR0160,Operations,Power BI,Video Conferencing,2025-06-02,23.1,5,2025-06
+EVT00837,USR0236,Operations,SharePoint,Project Management,2025-06-29,21.7,1,2025-06
+EVT00838,USR0052,Legal,Power BI,Video Conferencing,2025-03-12,6.7,1,2025-03
+EVT00839,USR0272,Operations,Power BI,Project Management,2025-05-23,9.6,4,2025-05
+EVT00840,USR0095,Marketing,Viva Insights,Project Management,2025-01-03,11.6,1,2025-01
+EVT00841,USR0119,Sales,Viva Insights,Video Conferencing,2025-05-13,25.6,5,2025-05
+EVT00842,USR0126,HR,SharePoint,Video Conferencing,2025-02-18,15.6,1,2025-02
+EVT00843,USR0231,Sales,SharePoint,File Sharing,2025-01-22,22.7,4,2025-01
+EVT00844,USR0078,Operations,SharePoint,File Sharing,2025-03-03,27.3,2,2025-03
+EVT00845,USR0239,HR,Viva Insights,Document Collaboration,2025-04-15,11.8,4,2025-04
+EVT00846,USR0107,Legal,OneDrive,Team Chat,2025-05-06,7.7,2,2025-05
+EVT00847,USR0145,Operations,Microsoft Teams,Analytics Portal,2025-05-23,15.0,1,2025-05
+EVT00848,USR0266,HR,Viva Insights,Project Management,2025-03-03,2.1,4,2025-03
+EVT00849,USR0179,Technology,Power BI,File Sharing,2025-06-26,15.2,5,2025-06
+EVT00850,USR0082,Finance,Microsoft Teams,Video Conferencing,2025-05-02,39.8,3,2025-05
+EVT00851,USR0130,Sales,SharePoint,Video Conferencing,2025-06-15,7.0,10,2025-06
+EVT00852,USR0109,Finance,OneDrive,File Sharing,2025-05-06,23.2,1,2025-05
+EVT00853,USR0264,Marketing,Power BI,Project Management,2025-04-25,38.8,16,2025-04
+EVT00854,USR0100,HR,Viva Insights,Project Management,2025-01-05,8.8,2,2025-01
+EVT00855,USR0192,Operations,OneDrive,File Sharing,2025-01-24,14.6,6,2025-01
+EVT00856,USR0043,Legal,SharePoint,Team Chat,2025-03-17,7.5,3,2025-03
+EVT00857,USR0106,Sales,Viva Insights,Team Chat,2025-02-26,14.9,0,2025-02
+EVT00858,USR0011,Finance,Microsoft Teams,File Sharing,2025-04-14,67.6,13,2025-04
+EVT00859,USR0063,Marketing,Microsoft Teams,Document Collaboration,2025-06-27,42.0,15,2025-06
+EVT00860,USR0057,Operations,Power BI,Document Collaboration,2025-03-04,26.1,5,2025-03
+EVT00861,USR0292,HR,Power BI,Team Chat,2025-03-20,21.4,3,2025-03
+EVT00862,USR0238,Sales,OneDrive,Team Chat,2025-06-19,36.4,5,2025-06
+EVT00863,USR0043,Legal,Viva Insights,Video Conferencing,2025-05-29,24.3,3,2025-05
+EVT00864,USR0131,Finance,Power BI,Video Conferencing,2025-04-05,26.5,2,2025-04
+EVT00865,USR0230,Operations,SharePoint,Analytics Portal,2025-05-02,30.3,7,2025-05
+EVT00866,USR0120,Finance,Power BI,Document Collaboration,2025-05-22,16.8,1,2025-05
+EVT00867,USR0029,Sales,Viva Insights,Team Chat,2025-05-16,20.9,7,2025-05
+EVT00868,USR0165,Finance,Power BI,Analytics Portal,2025-03-30,39.2,5,2025-03
+EVT00869,USR0231,Sales,Viva Insights,Analytics Portal,2025-04-19,11.5,2,2025-04
+EVT00870,USR0012,Marketing,OneDrive,Video Conferencing,2025-05-21,0.6,3,2025-05
+EVT00871,USR0146,HR,Viva Insights,Analytics Portal,2025-03-26,19.3,10,2025-03
+EVT00872,USR0103,Sales,Power BI,File Sharing,2025-04-01,9.5,7,2025-04
+EVT00873,USR0181,Technology,Viva Insights,Video Conferencing,2025-06-29,18.2,13,2025-06
+EVT00874,USR0089,Technology,SharePoint,Analytics Portal,2025-04-27,55.8,12,2025-04
+EVT00875,USR0270,HR,SharePoint,File Sharing,2025-03-11,45.9,1,2025-03
+EVT00876,USR0111,HR,OneDrive,Analytics Portal,2025-03-20,20.6,8,2025-03
+EVT00877,USR0040,Operations,Microsoft Teams,File Sharing,2025-03-06,63.5,14,2025-03
+EVT00878,USR0181,Technology,Viva Insights,Team Chat,2025-03-01,44.0,11,2025-03
+EVT00879,USR0275,Technology,OneDrive,Project Management,2025-01-31,4.1,7,2025-01
+EVT00880,USR0008,HR,OneDrive,Document Collaboration,2025-02-19,17.2,0,2025-02
+EVT00881,USR0014,HR,OneDrive,Document Collaboration,2025-03-22,11.3,1,2025-03
+EVT00882,USR0119,Sales,OneDrive,Project Management,2025-01-31,10.2,3,2025-01
+EVT00883,USR0214,Legal,Microsoft Teams,File Sharing,2025-05-18,32.5,3,2025-05
+EVT00884,USR0158,Finance,SharePoint,Document Collaboration,2025-06-26,7.9,3,2025-06
+EVT00885,USR0025,Operations,Viva Insights,File Sharing,2025-02-17,24.7,12,2025-02
+EVT00886,USR0007,Finance,SharePoint,Project Management,2025-02-19,21.0,8,2025-02
+EVT00887,USR0092,Marketing,Microsoft Teams,Team Chat,2025-02-25,7.7,3,2025-02
+EVT00888,USR0030,Operations,Microsoft Teams,Video Conferencing,2025-05-04,66.4,15,2025-05
+EVT00889,USR0218,Sales,SharePoint,Video Conferencing,2025-03-12,30.7,5,2025-03
+EVT00890,USR0221,Operations,Viva Insights,Project Management,2025-05-31,7.0,16,2025-05
+EVT00891,USR0098,HR,Viva Insights,Video Conferencing,2025-05-15,8.5,9,2025-05
+EVT00892,USR0259,Technology,Viva Insights,Document Collaboration,2025-06-02,15.5,0,2025-06
+EVT00893,USR0241,Finance,Viva Insights,File Sharing,2025-03-14,11.7,0,2025-03
+EVT00894,USR0006,Finance,SharePoint,Team Chat,2025-01-26,12.1,5,2025-01
+EVT00895,USR0282,Technology,Viva Insights,Document Collaboration,2025-02-19,43.9,2,2025-02
+EVT00896,USR0029,Sales,Power BI,Video Conferencing,2025-03-17,20.6,1,2025-03
+EVT00897,USR0080,Operations,Viva Insights,Document Collaboration,2025-02-28,55.4,2,2025-02
+EVT00898,USR0113,Legal,Viva Insights,Video Conferencing,2025-04-03,29.9,5,2025-04
+EVT00899,USR0275,Technology,Power BI,Document Collaboration,2025-02-15,7.6,12,2025-02
+EVT00900,USR0248,Finance,Power BI,Project Management,2025-03-19,29.5,7,2025-03
+EVT00901,USR0123,Technology,SharePoint,Analytics Portal,2025-01-04,40.9,0,2025-01
+EVT00902,USR0261,HR,Power BI,File Sharing,2025-05-17,35.8,7,2025-05
+EVT00903,USR0217,Operations,OneDrive,Analytics Portal,2025-02-02,33.8,17,2025-02
+EVT00904,USR0298,HR,OneDrive,Document Collaboration,2025-03-12,8.9,5,2025-03
+EVT00905,USR0203,Finance,SharePoint,Analytics Portal,2025-01-12,8.8,6,2025-01
+EVT00906,USR0125,Technology,Viva Insights,Analytics Portal,2025-01-14,43.1,2,2025-01
+EVT00907,USR0193,Finance,Microsoft Teams,File Sharing,2025-05-22,8.2,4,2025-05
+EVT00908,USR0133,Operations,SharePoint,Video Conferencing,2025-03-16,17.5,0,2025-03
+EVT00909,USR0137,Finance,OneDrive,File Sharing,2025-06-28,12.8,7,2025-06
+EVT00910,USR0209,Operations,SharePoint,Analytics Portal,2025-02-02,14.8,7,2025-02
+EVT00911,USR0280,Marketing,Viva Insights,Team Chat,2025-06-13,8.5,0,2025-06
+EVT00912,USR0161,Marketing,OneDrive,Analytics Portal,2025-05-06,10.6,7,2025-05
+EVT00913,USR0155,Sales,Viva Insights,Document Collaboration,2025-01-27,18.9,3,2025-01
+EVT00914,USR0149,Technology,Microsoft Teams,Document Collaboration,2025-01-04,11.1,4,2025-01
+EVT00915,USR0217,Operations,Viva Insights,Project Management,2025-05-27,30.1,8,2025-05
+EVT00916,USR0010,Finance,OneDrive,Analytics Portal,2025-03-14,4.5,13,2025-03
+EVT00917,USR0035,Marketing,SharePoint,File Sharing,2025-05-01,37.6,5,2025-05
+EVT00918,USR0049,Finance,Microsoft Teams,File Sharing,2025-05-03,22.8,5,2025-05
+EVT00919,USR0074,Marketing,Viva Insights,Document Collaboration,2025-04-23,22.3,1,2025-04
+EVT00920,USR0164,HR,Microsoft Teams,File Sharing,2025-03-29,13.2,1,2025-03
+EVT00921,USR0182,Marketing,Viva Insights,Team Chat,2025-02-17,34.3,6,2025-02
+EVT00922,USR0059,Legal,Microsoft Teams,Document Collaboration,2025-01-14,25.9,1,2025-01
+EVT00923,USR0022,HR,SharePoint,Analytics Portal,2025-03-06,12.2,2,2025-03
+EVT00924,USR0248,Finance,SharePoint,Video Conferencing,2025-05-03,39.0,12,2025-05
+EVT00925,USR0030,Operations,Power BI,Project Management,2025-01-30,32.7,2,2025-01
+EVT00926,USR0204,Legal,OneDrive,Document Collaboration,2025-01-17,12.6,6,2025-01
+EVT00927,USR0197,Sales,SharePoint,Document Collaboration,2025-04-13,13.2,2,2025-04
+EVT00928,USR0270,HR,Microsoft Teams,File Sharing,2025-05-06,45.8,11,2025-05
+EVT00929,USR0039,HR,Viva Insights,Document Collaboration,2025-01-19,36.8,9,2025-01
+EVT00930,USR0027,HR,Viva Insights,File Sharing,2025-05-28,30.2,3,2025-05
+EVT00931,USR0281,Operations,OneDrive,File Sharing,2025-06-11,4.2,7,2025-06
+EVT00932,USR0013,Technology,OneDrive,Document Collaboration,2025-06-25,2.5,13,2025-06
+EVT00933,USR0219,HR,Viva Insights,File Sharing,2025-01-14,22.3,4,2025-01
+EVT00934,USR0043,Legal,SharePoint,Project Management,2025-02-08,13.1,0,2025-02
+EVT00935,USR0230,Operations,Viva Insights,Video Conferencing,2025-02-08,43.2,11,2025-02
+EVT00936,USR0224,Marketing,SharePoint,Video Conferencing,2025-05-25,17.5,12,2025-05
+EVT00937,USR0026,Operations,OneDrive,Team Chat,2025-03-19,47.7,8,2025-03
+EVT00938,USR0052,Legal,Power BI,File Sharing,2025-01-22,10.7,0,2025-01
+EVT00939,USR0126,HR,SharePoint,Video Conferencing,2025-03-05,9.7,3,2025-03
+EVT00940,USR0047,HR,SharePoint,Video Conferencing,2025-01-31,28.1,5,2025-01
+EVT00941,USR0239,HR,Power BI,Team Chat,2025-05-23,11.7,2,2025-05
+EVT00942,USR0106,Sales,Microsoft Teams,Project Management,2025-04-17,18.0,6,2025-04
+EVT00943,USR0008,HR,SharePoint,File Sharing,2025-06-05,2.2,5,2025-06
+EVT00944,USR0282,Technology,Viva Insights,Video Conferencing,2025-06-02,7.8,2,2025-06
+EVT00945,USR0185,HR,SharePoint,Document Collaboration,2025-06-08,27.8,2,2025-06
+EVT00946,USR0101,Marketing,Microsoft Teams,Project Management,2025-02-27,14.0,5,2025-02
+EVT00947,USR0039,HR,Power BI,Team Chat,2025-05-14,22.2,7,2025-05
+EVT00948,USR0113,Legal,Microsoft Teams,Team Chat,2025-04-08,1.6,6,2025-04
+EVT00949,USR0091,HR,Power BI,Document Collaboration,2025-04-26,12.4,1,2025-04
+EVT00950,USR0227,HR,Viva Insights,Project Management,2025-04-24,11.9,9,2025-04
+EVT00951,USR0042,Marketing,OneDrive,Team Chat,2025-03-18,14.1,5,2025-03
+EVT00952,USR0236,Operations,Viva Insights,Project Management,2025-05-31,2.0,7,2025-05
+EVT00953,USR0225,Operations,Viva Insights,File Sharing,2025-04-20,25.2,1,2025-04
+EVT00954,USR0047,HR,SharePoint,Video Conferencing,2025-03-20,27.9,2,2025-03
+EVT00955,USR0294,Legal,Viva Insights,Document Collaboration,2025-05-26,4.4,1,2025-05
+EVT00956,USR0288,Legal,OneDrive,Project Management,2025-06-08,3.8,3,2025-06
+EVT00957,USR0297,Technology,Microsoft Teams,Project Management,2025-01-16,55.6,5,2025-01
+EVT00958,USR0064,Legal,Viva Insights,Analytics Portal,2025-06-06,15.7,5,2025-06
+EVT00959,USR0057,Operations,Microsoft Teams,Document Collaboration,2025-01-26,13.5,3,2025-01
+EVT00960,USR0063,Marketing,Viva Insights,Analytics Portal,2025-02-23,4.6,1,2025-02
+EVT00961,USR0075,Marketing,Viva Insights,Video Conferencing,2025-06-10,39.1,1,2025-06
+EVT00962,USR0072,Legal,Viva Insights,Video Conferencing,2025-02-24,23.5,5,2025-02
+EVT00963,USR0025,Operations,OneDrive,Team Chat,2025-03-09,20.6,10,2025-03
+EVT00964,USR0259,Technology,Power BI,Analytics Portal,2025-06-19,7.2,1,2025-06
+EVT00965,USR0130,Sales,Microsoft Teams,Project Management,2025-01-21,7.1,3,2025-01
+EVT00966,USR0052,Legal,Microsoft Teams,Document Collaboration,2025-02-10,13.3,2,2025-02
+EVT00967,USR0042,Marketing,SharePoint,Analytics Portal,2025-03-03,28.7,12,2025-03
+EVT00968,USR0072,Legal,Microsoft Teams,Video Conferencing,2025-02-14,21.0,4,2025-02
+EVT00969,USR0113,Legal,Viva Insights,Team Chat,2025-05-22,7.1,3,2025-05
+EVT00970,USR0023,Sales,Power BI,Analytics Portal,2025-01-20,16.3,1,2025-01
+EVT00971,USR0107,Legal,Viva Insights,Document Collaboration,2025-02-10,15.6,4,2025-02
+EVT00972,USR0160,Operations,Viva Insights,Document Collaboration,2025-01-01,22.8,4,2025-01
+EVT00973,USR0291,Marketing,OneDrive,Video Conferencing,2025-04-15,54.4,6,2025-04
+EVT00974,USR0224,Marketing,Power BI,Analytics Portal,2025-04-26,7.9,13,2025-04
+EVT00975,USR0267,Marketing,Viva Insights,Analytics Portal,2025-06-26,27.2,2,2025-06
+EVT00976,USR0198,Sales,Power BI,Video Conferencing,2025-06-02,18.7,8,2025-06
+EVT00977,USR0146,HR,SharePoint,File Sharing,2025-05-01,31.9,13,2025-05
+EVT00978,USR0275,Technology,OneDrive,Analytics Portal,2025-03-16,8.3,14,2025-03
+EVT00979,USR0035,Marketing,SharePoint,File Sharing,2025-01-09,22.6,5,2025-01
+EVT00980,USR0005,Marketing,Power BI,Analytics Portal,2025-03-01,48.5,4,2025-03
+EVT00981,USR0115,Technology,OneDrive,Analytics Portal,2025-03-15,48.0,6,2025-03
+EVT00982,USR0272,Operations,Power BI,Analytics Portal,2025-06-30,20.0,2,2025-06
+EVT00983,USR0124,Marketing,Microsoft Teams,Analytics Portal,2025-03-14,30.0,6,2025-03
+EVT00984,USR0241,Finance,Viva Insights,Project Management,2025-06-29,25.9,3,2025-06
+EVT00985,USR0160,Operations,Microsoft Teams,Document Collaboration,2025-04-27,13.6,2,2025-04
+EVT00986,USR0166,Sales,SharePoint,Project Management,2025-01-19,4.7,10,2025-01
+EVT00987,USR0119,Sales,Power BI,Analytics Portal,2025-06-25,6.9,9,2025-06
+EVT00988,USR0084,Finance,Microsoft Teams,Team Chat,2025-03-01,44.8,6,2025-03
+EVT00989,USR0112,Legal,Viva Insights,Document Collaboration,2025-03-09,6.8,6,2025-03
+EVT00990,USR0153,Legal,Viva Insights,Team Chat,2025-06-10,25.7,8,2025-06
+EVT00991,USR0016,Marketing,SharePoint,File Sharing,2025-05-31,30.4,8,2025-05
+EVT00992,USR0004,Operations,Viva Insights,Team Chat,2025-06-19,29.5,8,2025-06
+EVT00993,USR0087,Technology,SharePoint,Document Collaboration,2025-02-20,27.5,4,2025-02
+EVT00994,USR0199,Technology,SharePoint,Project Management,2025-04-19,38.2,4,2025-04
+EVT00995,USR0074,Marketing,Power BI,Analytics Portal,2025-01-30,10.6,8,2025-01
+EVT00996,USR0235,Marketing,Microsoft Teams,Video Conferencing,2025-05-20,6.9,1,2025-05
+EVT00997,USR0070,Finance,Microsoft Teams,Project Management,2025-02-27,2.0,4,2025-02
+EVT00998,USR0001,Legal,SharePoint,Video Conferencing,2025-06-15,25.8,7,2025-06
+EVT00999,USR0095,Marketing,Microsoft Teams,Analytics Portal,2025-02-08,4.7,0,2025-02
+EVT01000,USR0201,Finance,Power BI,Document Collaboration,2025-03-10,62.0,11,2025-03
+EVT01001,USR0238,Sales,OneDrive,File Sharing,2025-02-06,9.6,11,2025-02
+EVT01002,USR0276,Finance,Microsoft Teams,Analytics Portal,2025-01-19,6.5,1,2025-01
+EVT01003,USR0013,Technology,SharePoint,File Sharing,2025-01-16,20.8,14,2025-01
+EVT01004,USR0028,Finance,Power BI,Analytics Portal,2025-02-12,38.9,10,2025-02
+EVT01005,USR0262,Sales,SharePoint,Project Management,2025-03-20,1.8,11,2025-03
+EVT01006,USR0025,Operations,Viva Insights,Analytics Portal,2025-06-02,57.6,7,2025-06
+EVT01007,USR0164,HR,Viva Insights,Document Collaboration,2025-05-26,14.2,4,2025-05
+EVT01008,USR0257,Operations,Microsoft Teams,File Sharing,2025-03-15,11.0,3,2025-03
+EVT01009,USR0095,Marketing,SharePoint,Team Chat,2025-04-23,18.8,0,2025-04
+EVT01010,USR0074,Marketing,Viva Insights,Team Chat,2025-02-01,23.1,4,2025-02
+EVT01011,USR0015,Finance,OneDrive,Project Management,2025-04-30,10.5,12,2025-04
+EVT01012,USR0274,Finance,SharePoint,Document Collaboration,2025-06-26,17.8,0,2025-06
+EVT01013,USR0266,HR,OneDrive,Team Chat,2025-03-19,6.7,1,2025-03
+EVT01014,USR0092,Marketing,Power BI,Analytics Portal,2025-06-29,16.6,2,2025-06
+EVT01015,USR0035,Marketing,OneDrive,Document Collaboration,2025-04-14,26.8,4,2025-04
+EVT01016,USR0164,HR,SharePoint,Document Collaboration,2025-03-11,4.0,3,2025-03
+EVT01017,USR0027,HR,OneDrive,Team Chat,2025-05-09,1.1,2,2025-05
+EVT01018,USR0085,Marketing,SharePoint,Team Chat,2025-05-19,9.3,13,2025-05
+EVT01019,USR0112,Legal,Power BI,File Sharing,2025-05-07,13.3,4,2025-05
+EVT01020,USR0229,Marketing,Viva Insights,Analytics Portal,2025-04-23,6.8,9,2025-04
+EVT01021,USR0161,Marketing,SharePoint,Project Management,2025-01-21,9.4,6,2025-01
+EVT01022,USR0181,Technology,SharePoint,Document Collaboration,2025-06-03,46.4,8,2025-06
+EVT01023,USR0194,Marketing,Power BI,Document Collaboration,2025-01-11,5.0,0,2025-01
+EVT01024,USR0154,Marketing,Power BI,Document Collaboration,2025-04-21,12.2,3,2025-04
+EVT01025,USR0006,Finance,Viva Insights,Video Conferencing,2025-03-24,4.7,2,2025-03
+EVT01026,USR0089,Technology,Microsoft Teams,Video Conferencing,2025-06-04,16.4,9,2025-06
+EVT01027,USR0273,Finance,SharePoint,Analytics Portal,2025-03-06,17.3,3,2025-03
+EVT01028,USR0231,Sales,Viva Insights,Team Chat,2025-01-07,8.0,3,2025-01
+EVT01029,USR0002,Sales,Microsoft Teams,Document Collaboration,2025-01-24,1.8,4,2025-01
+EVT01030,USR0284,Sales,Viva Insights,Video Conferencing,2025-02-28,8.1,6,2025-02
+EVT01031,USR0126,HR,Viva Insights,Team Chat,2025-06-22,17.2,5,2025-06
+EVT01032,USR0217,Operations,Microsoft Teams,File Sharing,2025-05-28,14.5,13,2025-05
+EVT01033,USR0130,Sales,OneDrive,Project Management,2025-05-31,17.3,2,2025-05
+EVT01034,USR0122,Sales,Microsoft Teams,Video Conferencing,2025-01-06,8.3,2,2025-01
+EVT01035,USR0286,Legal,Viva Insights,Project Management,2025-06-22,22.3,8,2025-06
+EVT01036,USR0188,HR,SharePoint,Analytics Portal,2025-03-10,24.8,4,2025-03
+EVT01037,USR0249,Sales,SharePoint,Team Chat,2025-05-28,35.0,7,2025-05
+EVT01038,USR0300,HR,Microsoft Teams,File Sharing,2025-01-11,13.6,5,2025-01
+EVT01039,USR0004,Operations,Microsoft Teams,File Sharing,2025-02-14,34.7,1,2025-02
+EVT01040,USR0149,Technology,SharePoint,Video Conferencing,2025-05-01,44.6,4,2025-05
+EVT01041,USR0147,HR,OneDrive,Analytics Portal,2025-05-13,18.9,2,2025-05
+EVT01042,USR0048,Finance,OneDrive,Analytics Portal,2025-06-16,14.0,5,2025-06
+EVT01043,USR0244,Finance,Viva Insights,Team Chat,2025-04-24,41.0,9,2025-04
+EVT01044,USR0123,Technology,SharePoint,File Sharing,2025-03-13,61.1,9,2025-03
+EVT01045,USR0148,Sales,Viva Insights,Project Management,2025-02-16,5.6,1,2025-02
+EVT01046,USR0213,Operations,SharePoint,Project Management,2025-05-30,17.5,5,2025-05
+EVT01047,USR0209,Operations,Power BI,Team Chat,2025-04-22,26.7,7,2025-04
+EVT01048,USR0267,Marketing,SharePoint,Analytics Portal,2025-06-12,33.2,7,2025-06
+EVT01049,USR0244,Finance,Power BI,Video Conferencing,2025-05-06,8.3,6,2025-05
+EVT01050,USR0101,Marketing,Microsoft Teams,Analytics Portal,2025-01-24,7.4,6,2025-01
+EVT01051,USR0243,Marketing,SharePoint,File Sharing,2025-05-01,14.1,11,2025-05
+EVT01052,USR0185,HR,Viva Insights,Video Conferencing,2025-03-31,35.9,4,2025-03
+EVT01053,USR0126,HR,OneDrive,Video Conferencing,2025-04-15,12.2,1,2025-04
+EVT01054,USR0069,Technology,SharePoint,Team Chat,2025-03-27,45.0,16,2025-03
+EVT01055,USR0275,Technology,OneDrive,Project Management,2025-03-24,39.3,7,2025-03
+EVT01056,USR0240,Operations,Power BI,Analytics Portal,2025-06-21,42.7,13,2025-06
+EVT01057,USR0045,Legal,SharePoint,Project Management,2025-01-27,12.5,0,2025-01
+EVT01058,USR0296,Technology,Viva Insights,Team Chat,2025-02-11,16.7,5,2025-02
+EVT01059,USR0060,Finance,SharePoint,Document Collaboration,2025-03-26,30.1,3,2025-03
+EVT01060,USR0213,Operations,OneDrive,Video Conferencing,2025-04-16,13.1,1,2025-04
+EVT01061,USR0060,Finance,Microsoft Teams,File Sharing,2025-06-27,8.7,9,2025-06
+EVT01062,USR0213,Operations,OneDrive,Analytics Portal,2025-05-07,20.4,0,2025-05
+EVT01063,USR0018,Technology,Power BI,Team Chat,2025-03-15,13.1,10,2025-03
+EVT01064,USR0129,Legal,OneDrive,Analytics Portal,2025-06-19,1.1,8,2025-06
+EVT01065,USR0100,HR,Microsoft Teams,Team Chat,2025-04-13,8.4,9,2025-04
+EVT01066,USR0134,Finance,Microsoft Teams,File Sharing,2025-05-21,9.5,5,2025-05
+EVT01067,USR0276,Finance,Viva Insights,Document Collaboration,2025-01-10,25.6,3,2025-01
+EVT01068,USR0210,Sales,Microsoft Teams,Project Management,2025-04-27,29.4,6,2025-04
+EVT01069,USR0212,Finance,SharePoint,File Sharing,2025-01-23,51.7,6,2025-01
+EVT01070,USR0093,Technology,Viva Insights,File Sharing,2025-03-22,37.7,3,2025-03
+EVT01071,USR0157,Operations,Viva Insights,Analytics Portal,2025-03-06,1.9,7,2025-03
+EVT01072,USR0242,Legal,OneDrive,Analytics Portal,2025-03-24,19.1,1,2025-03
+EVT01073,USR0277,Marketing,OneDrive,Team Chat,2025-01-30,6.3,4,2025-01
+EVT01074,USR0205,Technology,Power BI,Document Collaboration,2025-04-14,14.7,11,2025-04
+EVT01075,USR0035,Marketing,OneDrive,Team Chat,2025-05-12,20.2,3,2025-05
+EVT01076,USR0141,Technology,SharePoint,Video Conferencing,2025-01-01,15.6,15,2025-01
+EVT01077,USR0031,Operations,SharePoint,Video Conferencing,2025-06-18,29.6,1,2025-06
+EVT01078,USR0225,Operations,Microsoft Teams,Project Management,2025-05-19,49.5,14,2025-05
+EVT01079,USR0287,Sales,Microsoft Teams,Project Management,2025-04-29,18.3,5,2025-04
+EVT01080,USR0209,Operations,Power BI,Team Chat,2025-04-16,29.4,8,2025-04
+EVT01081,USR0076,Marketing,Viva Insights,File Sharing,2025-01-14,10.4,8,2025-01
+EVT01082,USR0091,HR,Microsoft Teams,Team Chat,2025-02-18,17.2,2,2025-02
+EVT01083,USR0300,HR,Power BI,Project Management,2025-05-13,2.6,5,2025-05
+EVT01084,USR0073,HR,OneDrive,Video Conferencing,2025-04-03,4.2,4,2025-04
+EVT01085,USR0023,Sales,Power BI,File Sharing,2025-06-09,20.4,8,2025-06
+EVT01086,USR0026,Operations,Power BI,Document Collaboration,2025-05-08,35.5,7,2025-05
+EVT01087,USR0048,Finance,SharePoint,File Sharing,2025-06-10,8.6,1,2025-06
+EVT01088,USR0269,Finance,SharePoint,Video Conferencing,2025-04-24,16.0,2,2025-04
+EVT01089,USR0209,Operations,Power BI,Team Chat,2025-01-14,22.2,0,2025-01
+EVT01090,USR0023,Sales,OneDrive,Video Conferencing,2025-02-22,6.8,3,2025-02
+EVT01091,USR0135,Marketing,Microsoft Teams,Analytics Portal,2025-03-10,20.7,3,2025-03
+EVT01092,USR0054,Technology,SharePoint,Video Conferencing,2025-05-21,26.5,12,2025-05
+EVT01093,USR0068,Operations,Power BI,Video Conferencing,2025-02-03,9.7,2,2025-02
+EVT01094,USR0138,Legal,Microsoft Teams,Team Chat,2025-03-15,13.1,1,2025-03
+EVT01095,USR0274,Finance,OneDrive,Team Chat,2025-04-23,1.3,2,2025-04
+EVT01096,USR0043,Legal,Viva Insights,Team Chat,2025-06-28,16.2,3,2025-06
+EVT01097,USR0274,Finance,Viva Insights,Document Collaboration,2025-05-05,35.8,3,2025-05
+EVT01098,USR0092,Marketing,OneDrive,Analytics Portal,2025-02-01,16.0,1,2025-02
+EVT01099,USR0277,Marketing,SharePoint,Analytics Portal,2025-01-08,21.5,5,2025-01
+EVT01100,USR0077,Sales,Microsoft Teams,File Sharing,2025-06-11,24.1,4,2025-06
+EVT01101,USR0110,Finance,OneDrive,Team Chat,2025-06-05,42.4,2,2025-06
+EVT01102,USR0272,Operations,SharePoint,Team Chat,2025-03-03,9.2,0,2025-03
+EVT01103,USR0127,Technology,SharePoint,Project Management,2025-02-10,45.1,12,2025-02
+EVT01104,USR0187,HR,Viva Insights,Analytics Portal,2025-03-21,41.5,5,2025-03
+EVT01105,USR0243,Marketing,Microsoft Teams,Project Management,2025-05-22,15.7,6,2025-05
+EVT01106,USR0010,Finance,Power BI,Document Collaboration,2025-01-04,31.4,5,2025-01
+EVT01107,USR0051,Technology,Power BI,Video Conferencing,2025-05-22,13.0,7,2025-05
+EVT01108,USR0063,Marketing,Viva Insights,Video Conferencing,2025-04-15,22.3,10,2025-04
+EVT01109,USR0231,Sales,Power BI,Document Collaboration,2025-01-24,1.4,2,2025-01
+EVT01110,USR0008,HR,Microsoft Teams,Analytics Portal,2025-02-27,19.7,0,2025-02
+EVT01111,USR0114,Technology,Power BI,Team Chat,2025-01-30,13.5,3,2025-01
+EVT01112,USR0163,HR,Power BI,Project Management,2025-04-29,24.4,2,2025-04
+EVT01113,USR0146,HR,OneDrive,File Sharing,2025-01-31,30.1,7,2025-01
+EVT01114,USR0290,HR,Microsoft Teams,Project Management,2025-06-15,35.7,2,2025-06
+EVT01115,USR0061,Technology,OneDrive,Analytics Portal,2025-02-09,4.5,6,2025-02
+EVT01116,USR0088,Marketing,Microsoft Teams,Document Collaboration,2025-05-08,1.2,1,2025-05
+EVT01117,USR0015,Finance,Microsoft Teams,Project Management,2025-03-16,39.2,14,2025-03
+EVT01118,USR0192,Operations,Power BI,Document Collaboration,2025-05-11,3.1,4,2025-05
+EVT01119,USR0280,Marketing,SharePoint,Project Management,2025-06-30,6.2,7,2025-06
+EVT01120,USR0030,Operations,Viva Insights,Video Conferencing,2025-03-11,39.4,3,2025-03
+EVT01121,USR0064,Legal,Power BI,Team Chat,2025-04-17,6.6,7,2025-04
+EVT01122,USR0069,Technology,Microsoft Teams,Video Conferencing,2025-05-04,22.6,9,2025-05
+EVT01123,USR0162,Technology,Viva Insights,File Sharing,2025-05-01,39.7,10,2025-05
+EVT01124,USR0006,Finance,Viva Insights,Project Management,2025-03-04,18.6,0,2025-03
+EVT01125,USR0277,Marketing,Viva Insights,Analytics Portal,2025-04-27,19.2,4,2025-04
+EVT01126,USR0089,Technology,Viva Insights,Document Collaboration,2025-05-22,7.0,6,2025-05
+EVT01127,USR0114,Technology,OneDrive,Document Collaboration,2025-02-07,49.1,16,2025-02
+EVT01128,USR0026,Operations,OneDrive,Video Conferencing,2025-04-09,24.4,9,2025-04
+EVT01129,USR0262,Sales,OneDrive,Team Chat,2025-02-18,10.8,3,2025-02
+EVT01130,USR0139,Technology,Power BI,Project Management,2025-06-03,3.0,1,2025-06
+EVT01131,USR0013,Technology,Power BI,File Sharing,2025-05-11,30.1,16,2025-05
+EVT01132,USR0180,Technology,OneDrive,Analytics Portal,2025-02-04,43.3,8,2025-02
+EVT01133,USR0030,Operations,Power BI,Video Conferencing,2025-01-18,47.7,9,2025-01
+EVT01134,USR0050,Sales,Microsoft Teams,Project Management,2025-03-12,24.2,6,2025-03
+EVT01135,USR0125,Technology,Microsoft Teams,Video Conferencing,2025-04-17,60.5,20,2025-04
+EVT01136,USR0246,Operations,Microsoft Teams,Analytics Portal,2025-03-29,3.0,5,2025-03
+EVT01137,USR0247,Technology,OneDrive,Team Chat,2025-05-10,50.7,14,2025-05
+EVT01138,USR0286,Legal,Microsoft Teams,Analytics Portal,2025-03-10,27.2,8,2025-03
+EVT01139,USR0267,Marketing,Microsoft Teams,File Sharing,2025-01-01,13.2,8,2025-01
+EVT01140,USR0148,Sales,SharePoint,Team Chat,2025-03-14,16.0,1,2025-03
+EVT01141,USR0211,Legal,SharePoint,File Sharing,2025-03-18,4.1,0,2025-03
+EVT01142,USR0126,HR,OneDrive,Team Chat,2025-05-31,21.7,2,2025-05
+EVT01143,USR0074,Marketing,SharePoint,Video Conferencing,2025-05-29,11.7,9,2025-05
+EVT01144,USR0218,Sales,Power BI,Team Chat,2025-06-18,14.4,7,2025-06
+EVT01145,USR0294,Legal,Power BI,Video Conferencing,2025-05-06,7.3,1,2025-05
+EVT01146,USR0072,Legal,OneDrive,Video Conferencing,2025-02-08,13.6,1,2025-02
+EVT01147,USR0162,Technology,OneDrive,Document Collaboration,2025-04-25,26.5,10,2025-04
+EVT01148,USR0159,Marketing,SharePoint,Project Management,2025-05-18,14.9,3,2025-05
+EVT01149,USR0155,Sales,SharePoint,Video Conferencing,2025-05-04,6.4,2,2025-05
+EVT01150,USR0042,Marketing,OneDrive,Team Chat,2025-03-30,58.2,6,2025-03
+EVT01151,USR0079,HR,Microsoft Teams,Video Conferencing,2025-03-27,16.1,2,2025-03
+EVT01152,USR0200,Sales,Power BI,Document Collaboration,2025-05-22,45.7,7,2025-05
+EVT01153,USR0179,Technology,SharePoint,Analytics Portal,2025-05-20,13.0,4,2025-05
+EVT01154,USR0089,Technology,Microsoft Teams,File Sharing,2025-04-07,59.9,0,2025-04
+EVT01155,USR0180,Technology,Power BI,Project Management,2025-04-27,26.6,1,2025-04
+EVT01156,USR0144,Technology,Power BI,Project Management,2025-03-24,9.9,6,2025-03
+EVT01157,USR0277,Marketing,Viva Insights,File Sharing,2025-02-18,7.5,5,2025-02
+EVT01158,USR0142,HR,Viva Insights,Video Conferencing,2025-06-28,3.0,2,2025-06
+EVT01159,USR0186,Marketing,Viva Insights,Video Conferencing,2025-03-03,18.4,15,2025-03
+EVT01160,USR0089,Technology,OneDrive,Project Management,2025-05-27,54.8,6,2025-05
+EVT01161,USR0004,Operations,SharePoint,Team Chat,2025-04-09,10.5,2,2025-04
+EVT01162,USR0135,Marketing,SharePoint,Document Collaboration,2025-03-01,31.8,0,2025-03
+EVT01163,USR0206,Sales,Microsoft Teams,Project Management,2025-04-16,10.9,4,2025-04
+EVT01164,USR0289,Finance,Viva Insights,Analytics Portal,2025-01-12,30.4,7,2025-01
+EVT01165,USR0239,HR,Power BI,File Sharing,2025-03-23,3.7,5,2025-03
+EVT01166,USR0088,Marketing,Microsoft Teams,Video Conferencing,2025-05-02,32.8,8,2025-05
+EVT01167,USR0029,Sales,Power BI,Team Chat,2025-06-30,7.8,3,2025-06
+EVT01168,USR0120,Finance,Power BI,Analytics Portal,2025-04-08,2.4,5,2025-04
+EVT01169,USR0143,Sales,SharePoint,Project Management,2025-04-09,46.2,7,2025-04
+EVT01170,USR0153,Legal,Microsoft Teams,Video Conferencing,2025-06-19,26.7,4,2025-06
+EVT01171,USR0071,Sales,Viva Insights,Video Conferencing,2025-06-16,16.6,7,2025-06
+EVT01172,USR0126,HR,Microsoft Teams,Video Conferencing,2025-02-08,17.8,2,2025-02
+EVT01173,USR0013,Technology,SharePoint,Team Chat,2025-05-07,1.6,8,2025-05
+EVT01174,USR0300,HR,Microsoft Teams,Document Collaboration,2025-01-10,7.4,4,2025-01
+EVT01175,USR0014,HR,SharePoint,Video Conferencing,2025-02-02,18.3,1,2025-02
+EVT01176,USR0031,Operations,OneDrive,Document Collaboration,2025-05-09,27.2,2,2025-05
+EVT01177,USR0097,Sales,Microsoft Teams,Analytics Portal,2025-06-01,8.2,5,2025-06
+EVT01178,USR0186,Marketing,SharePoint,Analytics Portal,2025-03-26,19.1,15,2025-03
+EVT01179,USR0218,Sales,Microsoft Teams,Document Collaboration,2025-01-26,18.3,7,2025-01
+EVT01180,USR0300,HR,Microsoft Teams,Analytics Portal,2025-04-23,13.3,1,2025-04
+EVT01181,USR0276,Finance,Microsoft Teams,Analytics Portal,2025-01-26,50.3,3,2025-01
+EVT01182,USR0221,Operations,Microsoft Teams,File Sharing,2025-05-15,8.4,6,2025-05
+EVT01183,USR0226,Sales,Power BI,Team Chat,2025-04-27,9.0,11,2025-04
+EVT01184,USR0069,Technology,Microsoft Teams,Video Conferencing,2025-01-04,27.2,4,2025-01
+EVT01185,USR0278,Legal,SharePoint,Team Chat,2025-02-06,22.5,3,2025-02
+EVT01186,USR0037,Operations,Microsoft Teams,Video Conferencing,2025-04-15,23.6,14,2025-04
+EVT01187,USR0019,Legal,SharePoint,Project Management,2025-06-17,25.0,0,2025-06
+EVT01188,USR0273,Finance,SharePoint,Analytics Portal,2025-02-09,6.5,6,2025-02
+EVT01189,USR0035,Marketing,Microsoft Teams,Video Conferencing,2025-01-20,6.6,4,2025-01
+EVT01190,USR0121,Sales,SharePoint,Document Collaboration,2025-05-01,25.1,4,2025-05
+EVT01191,USR0300,HR,SharePoint,Document Collaboration,2025-03-09,18.1,5,2025-03
+EVT01192,USR0263,Legal,Viva Insights,Video Conferencing,2025-03-28,2.8,2,2025-03
+EVT01193,USR0051,Technology,Power BI,Document Collaboration,2025-06-09,61.5,10,2025-06
+EVT01194,USR0042,Marketing,SharePoint,Project Management,2025-06-27,23.5,3,2025-06
+EVT01195,USR0264,Marketing,SharePoint,Team Chat,2025-04-12,45.9,12,2025-04
+EVT01196,USR0099,HR,Microsoft Teams,Project Management,2025-06-16,9.4,8,2025-06
+EVT01197,USR0274,Finance,Microsoft Teams,Video Conferencing,2025-01-21,20.2,10,2025-01
+EVT01198,USR0081,Finance,OneDrive,File Sharing,2025-03-26,38.3,6,2025-03
+EVT01199,USR0282,Technology,Viva Insights,Video Conferencing,2025-06-22,15.5,0,2025-06
+EVT01200,USR0132,Marketing,Power BI,Document Collaboration,2025-05-17,16.9,0,2025-05
+EVT01201,USR0270,HR,Power BI,Team Chat,2025-04-08,3.0,2,2025-04
+EVT01202,USR0052,Legal,Power BI,File Sharing,2025-03-23,0.7,4,2025-03
+EVT01203,USR0003,Operations,Microsoft Teams,Document Collaboration,2025-06-10,24.6,5,2025-06
+EVT01204,USR0282,Technology,Power BI,Team Chat,2025-05-05,48.6,1,2025-05
+EVT01205,USR0167,Technology,OneDrive,Analytics Portal,2025-05-19,46.4,13,2025-05
+EVT01206,USR0257,Operations,Viva Insights,Document Collaboration,2025-01-10,16.1,4,2025-01
+EVT01207,USR0281,Operations,SharePoint,Document Collaboration,2025-06-08,15.1,2,2025-06
+EVT01208,USR0034,Legal,SharePoint,Analytics Portal,2025-01-18,26.4,3,2025-01
+EVT01209,USR0085,Marketing,Power BI,Project Management,2025-03-02,38.0,7,2025-03
+EVT01210,USR0276,Finance,Power BI,Analytics Portal,2025-06-11,30.7,5,2025-06
+EVT01211,USR0054,Technology,Viva Insights,Team Chat,2025-06-25,20.4,17,2025-06
+EVT01212,USR0187,HR,Microsoft Teams,Analytics Portal,2025-03-15,13.5,0,2025-03
+EVT01213,USR0214,Legal,SharePoint,File Sharing,2025-02-28,22.3,6,2025-02
+EVT01214,USR0091,HR,OneDrive,File Sharing,2025-01-24,12.2,5,2025-01
+EVT01215,USR0021,Legal,Viva Insights,Project Management,2025-04-22,18.3,4,2025-04
+EVT01216,USR0210,Sales,Viva Insights,Team Chat,2025-01-26,19.4,1,2025-01
+EVT01217,USR0184,Marketing,Power BI,File Sharing,2025-06-12,53.6,13,2025-06
+EVT01218,USR0087,Technology,SharePoint,Team Chat,2025-06-30,11.0,2,2025-06
+EVT01219,USR0079,HR,OneDrive,Analytics Portal,2025-01-26,27.6,10,2025-01
+EVT01220,USR0284,Sales,SharePoint,Project Management,2025-04-24,23.2,0,2025-04
+EVT01221,USR0199,Technology,SharePoint,Team Chat,2025-02-12,21.2,8,2025-02
+EVT01222,USR0114,Technology,OneDrive,File Sharing,2025-06-27,60.6,6,2025-06
+EVT01223,USR0024,Finance,OneDrive,Document Collaboration,2025-03-18,4.6,2,2025-03
+EVT01224,USR0240,Operations,Viva Insights,File Sharing,2025-01-08,8.7,8,2025-01
+EVT01225,USR0293,Legal,OneDrive,Analytics Portal,2025-01-12,8.9,2,2025-01
+EVT01226,USR0074,Marketing,Viva Insights,Video Conferencing,2025-03-25,2.0,6,2025-03
+EVT01227,USR0044,Sales,Power BI,Analytics Portal,2025-01-15,27.8,5,2025-01
+EVT01228,USR0239,HR,Power BI,Analytics Portal,2025-03-17,21.3,5,2025-03
+EVT01229,USR0132,Marketing,SharePoint,Document Collaboration,2025-04-02,3.0,7,2025-04
+EVT01230,USR0013,Technology,Microsoft Teams,Video Conferencing,2025-04-06,38.7,12,2025-04
+EVT01231,USR0115,Technology,OneDrive,Analytics Portal,2025-04-21,36.7,11,2025-04
+EVT01232,USR0063,Marketing,Power BI,Team Chat,2025-02-07,54.3,4,2025-02
+EVT01233,USR0265,Finance,Power BI,Project Management,2025-03-04,19.8,7,2025-03
+EVT01234,USR0113,Legal,OneDrive,Analytics Portal,2025-05-16,17.4,1,2025-05
+EVT01235,USR0229,Marketing,Power BI,Team Chat,2025-04-16,13.0,7,2025-04
+EVT01236,USR0295,Sales,Viva Insights,Document Collaboration,2025-05-25,23.4,1,2025-05
+EVT01237,USR0273,Finance,Microsoft Teams,Project Management,2025-06-24,5.6,4,2025-06
+EVT01238,USR0193,Finance,SharePoint,Team Chat,2025-02-16,4.4,4,2025-02
+EVT01239,USR0139,Technology,Microsoft Teams,File Sharing,2025-02-13,56.1,3,2025-02
+EVT01240,USR0050,Sales,Power BI,Analytics Portal,2025-02-14,15.7,2,2025-02
+EVT01241,USR0261,HR,Viva Insights,Project Management,2025-01-21,32.7,3,2025-01
+EVT01242,USR0059,Legal,OneDrive,Team Chat,2025-06-06,15.0,8,2025-06
+EVT01243,USR0023,Sales,Microsoft Teams,Document Collaboration,2025-04-08,11.7,3,2025-04
+EVT01244,USR0228,Finance,OneDrive,Team Chat,2025-06-08,17.9,7,2025-06
+EVT01245,USR0158,Finance,Viva Insights,Project Management,2025-06-24,27.6,10,2025-06
+EVT01246,USR0146,HR,Power BI,Project Management,2025-03-03,6.4,1,2025-03
+EVT01247,USR0043,Legal,Power BI,Document Collaboration,2025-05-08,8.4,1,2025-05
+EVT01248,USR0022,HR,Microsoft Teams,Team Chat,2025-05-30,10.7,1,2025-05
+EVT01249,USR0004,Operations,Viva Insights,Document Collaboration,2025-02-06,39.2,6,2025-02
+EVT01250,USR0204,Legal,SharePoint,Analytics Portal,2025-03-01,25.3,1,2025-03
+EVT01251,USR0223,HR,Microsoft Teams,Team Chat,2025-04-29,20.3,1,2025-04
+EVT01252,USR0100,HR,OneDrive,Document Collaboration,2025-06-13,31.0,9,2025-06
+EVT01253,USR0055,Finance,Viva Insights,Project Management,2025-03-07,7.6,0,2025-03
+EVT01254,USR0061,Technology,Power BI,File Sharing,2025-04-28,29.0,0,2025-04
+EVT01255,USR0214,Legal,Power BI,Project Management,2025-03-07,16.4,3,2025-03
+EVT01256,USR0215,Finance,Viva Insights,Team Chat,2025-06-20,24.8,7,2025-06
+EVT01257,USR0139,Technology,Power BI,Project Management,2025-01-03,12.4,7,2025-01
+EVT01258,USR0223,HR,SharePoint,Team Chat,2025-04-30,10.8,3,2025-04
+EVT01259,USR0167,Technology,Viva Insights,Project Management,2025-03-15,27.7,14,2025-03
+EVT01260,USR0055,Finance,OneDrive,Video Conferencing,2025-06-23,32.5,7,2025-06
+EVT01261,USR0120,Finance,Microsoft Teams,Project Management,2025-05-20,15.5,6,2025-05
+EVT01262,USR0196,Technology,SharePoint,Analytics Portal,2025-02-10,15.2,4,2025-02
+EVT01263,USR0202,Legal,Viva Insights,Analytics Portal,2025-01-19,4.8,4,2025-01
+EVT01264,USR0020,Marketing,Viva Insights,Analytics Portal,2025-04-24,45.5,1,2025-04
+EVT01265,USR0205,Technology,Microsoft Teams,Analytics Portal,2025-03-30,48.9,5,2025-03
+EVT01266,USR0079,HR,SharePoint,File Sharing,2025-05-31,15.0,10,2025-05
+EVT01267,USR0227,HR,Power BI,Video Conferencing,2025-03-18,21.2,5,2025-03
+EVT01268,USR0127,Technology,Viva Insights,File Sharing,2025-06-13,29.0,14,2025-06
+EVT01269,USR0131,Finance,OneDrive,Document Collaboration,2025-04-19,24.1,1,2025-04
+EVT01270,USR0083,Legal,OneDrive,Team Chat,2025-06-26,9.9,0,2025-06
+EVT01271,USR0192,Operations,SharePoint,Project Management,2025-03-06,13.0,3,2025-03
+EVT01272,USR0111,HR,OneDrive,Team Chat,2025-04-27,23.7,1,2025-04
+EVT01273,USR0171,Sales,SharePoint,Document Collaboration,2025-03-19,3.6,14,2025-03
+EVT01274,USR0080,Operations,Viva Insights,File Sharing,2025-02-20,57.0,11,2025-02
+EVT01275,USR0198,Sales,OneDrive,Project Management,2025-04-09,12.7,8,2025-04
+EVT01276,USR0270,HR,OneDrive,Analytics Portal,2025-05-04,15.7,2,2025-05
+EVT01277,USR0123,Technology,Power BI,Project Management,2025-01-28,50.0,7,2025-01
+EVT01278,USR0246,Operations,Viva Insights,Project Management,2025-03-02,44.2,12,2025-03
+EVT01279,USR0182,Marketing,Power BI,Document Collaboration,2025-04-08,9.5,11,2025-04
+EVT01280,USR0260,Finance,Power BI,Video Conferencing,2025-05-27,48.4,0,2025-05
+EVT01281,USR0069,Technology,SharePoint,Document Collaboration,2025-04-02,53.1,4,2025-04
+EVT01282,USR0256,HR,Viva Insights,File Sharing,2025-05-28,23.1,7,2025-05
+EVT01283,USR0172,Operations,OneDrive,Video Conferencing,2025-03-17,21.8,6,2025-03
+EVT01284,USR0041,Legal,OneDrive,Project Management,2025-06-29,18.6,5,2025-06
+EVT01285,USR0268,Legal,SharePoint,Video Conferencing,2025-03-17,7.9,1,2025-03
+EVT01286,USR0222,Legal,Microsoft Teams,File Sharing,2025-01-06,33.0,0,2025-01
+EVT01287,USR0120,Finance,OneDrive,Analytics Portal,2025-06-18,24.3,7,2025-06
+EVT01288,USR0240,Operations,Microsoft Teams,File Sharing,2025-04-12,36.8,9,2025-04
+EVT01289,USR0023,Sales,Viva Insights,Document Collaboration,2025-03-12,3.4,8,2025-03
+EVT01290,USR0069,Technology,Microsoft Teams,File Sharing,2025-01-03,27.4,4,2025-01
+EVT01291,USR0166,Sales,Viva Insights,Analytics Portal,2025-05-25,26.9,9,2025-05
+EVT01292,USR0169,Sales,Power BI,Team Chat,2025-06-25,25.2,2,2025-06
+EVT01293,USR0186,Marketing,SharePoint,Document Collaboration,2025-01-13,53.0,12,2025-01
+EVT01294,USR0278,Legal,Microsoft Teams,File Sharing,2025-06-05,5.0,5,2025-06
+EVT01295,USR0234,Legal,Microsoft Teams,File Sharing,2025-05-08,16.0,3,2025-05
+EVT01296,USR0196,Technology,SharePoint,Document Collaboration,2025-03-15,16.2,6,2025-03
+EVT01297,USR0117,Finance,Power BI,Team Chat,2025-02-28,26.4,13,2025-02
+EVT01298,USR0078,Operations,OneDrive,Analytics Portal,2025-06-05,15.9,0,2025-06
+EVT01299,USR0255,Technology,Viva Insights,Video Conferencing,2025-04-01,6.3,7,2025-04
+EVT01300,USR0082,Finance,Microsoft Teams,Project Management,2025-02-26,4.7,2,2025-02
+EVT01301,USR0050,Sales,SharePoint,Team Chat,2025-06-12,1.1,3,2025-06
+EVT01302,USR0284,Sales,OneDrive,Project Management,2025-02-18,4.9,2,2025-02
+EVT01303,USR0290,HR,Power BI,Video Conferencing,2025-06-08,9.8,8,2025-06
+EVT01304,USR0255,Technology,Power BI,Analytics Portal,2025-03-06,59.5,3,2025-03
+EVT01305,USR0289,Finance,Microsoft Teams,Project Management,2025-06-23,22.9,17,2025-06
+EVT01306,USR0196,Technology,Power BI,Video Conferencing,2025-06-18,23.5,5,2025-06
+EVT01307,USR0082,Finance,SharePoint,Team Chat,2025-06-24,33.3,11,2025-06
+EVT01308,USR0256,HR,Microsoft Teams,Team Chat,2025-02-05,27.3,0,2025-02
+EVT01309,USR0207,Legal,Power BI,Video Conferencing,2025-06-10,9.3,6,2025-06
+EVT01310,USR0130,Sales,Microsoft Teams,Analytics Portal,2025-01-25,40.8,9,2025-01
+EVT01311,USR0280,Marketing,SharePoint,Video Conferencing,2025-06-10,29.6,4,2025-06
+EVT01312,USR0279,Operations,Power BI,File Sharing,2025-06-15,29.9,8,2025-06
+EVT01313,USR0074,Marketing,SharePoint,Analytics Portal,2025-01-11,13.6,5,2025-01
+EVT01314,USR0092,Marketing,OneDrive,Document Collaboration,2025-03-21,14.2,2,2025-03
+EVT01315,USR0207,Legal,SharePoint,File Sharing,2025-04-23,1.6,6,2025-04
+EVT01316,USR0113,Legal,OneDrive,Analytics Portal,2025-01-09,3.8,7,2025-01
+EVT01317,USR0234,Legal,Viva Insights,File Sharing,2025-05-29,34.4,7,2025-05
+EVT01318,USR0067,HR,Microsoft Teams,Team Chat,2025-04-04,13.5,0,2025-04
+EVT01319,USR0164,HR,SharePoint,Video Conferencing,2025-02-03,0.7,1,2025-02
+EVT01320,USR0126,HR,Microsoft Teams,Team Chat,2025-01-24,6.0,1,2025-01
+EVT01321,USR0160,Operations,Power BI,File Sharing,2025-03-17,15.1,5,2025-03
+EVT01322,USR0216,Marketing,SharePoint,Project Management,2025-03-25,6.8,5,2025-03
+EVT01323,USR0161,Marketing,Microsoft Teams,Project Management,2025-04-17,24.5,8,2025-04
+EVT01324,USR0231,Sales,SharePoint,Team Chat,2025-02-14,9.5,3,2025-02
+EVT01325,USR0155,Sales,Power BI,Video Conferencing,2025-02-21,15.2,1,2025-02
+EVT01326,USR0089,Technology,Microsoft Teams,Project Management,2025-02-03,9.2,3,2025-02
+EVT01327,USR0089,Technology,SharePoint,Analytics Portal,2025-05-19,7.4,3,2025-05
+EVT01328,USR0245,Marketing,SharePoint,Document Collaboration,2025-04-04,29.1,10,2025-04
+EVT01329,USR0129,Legal,Microsoft Teams,Analytics Portal,2025-05-16,9.8,3,2025-05
+EVT01330,USR0166,Sales,Power BI,Analytics Portal,2025-05-09,10.5,10,2025-05
+EVT01331,USR0122,Sales,Viva Insights,File Sharing,2025-03-11,26.7,2,2025-03
+EVT01332,USR0248,Finance,SharePoint,Video Conferencing,2025-02-12,41.9,4,2025-02
+EVT01333,USR0141,Technology,Viva Insights,Video Conferencing,2025-03-07,8.0,2,2025-03
+EVT01334,USR0150,Sales,SharePoint,Analytics Portal,2025-05-04,6.1,0,2025-05
+EVT01335,USR0021,Legal,Power BI,Document Collaboration,2025-03-17,20.2,6,2025-03
+EVT01336,USR0121,Sales,SharePoint,Analytics Portal,2025-03-28,10.0,5,2025-03
+EVT01337,USR0159,Marketing,Viva Insights,Analytics Portal,2025-01-30,45.7,14,2025-01
+EVT01338,USR0259,Technology,Power BI,Analytics Portal,2025-04-30,26.5,0,2025-04
+EVT01339,USR0207,Legal,SharePoint,Team Chat,2025-01-20,11.1,2,2025-01
+EVT01340,USR0229,Marketing,SharePoint,Video Conferencing,2025-02-06,20.2,4,2025-02
+EVT01341,USR0243,Marketing,Microsoft Teams,Project Management,2025-02-27,25.3,6,2025-02
+EVT01342,USR0284,Sales,SharePoint,Project Management,2025-06-23,31.6,8,2025-06
+EVT01343,USR0193,Finance,Power BI,File Sharing,2025-06-22,26.7,2,2025-06
+EVT01344,USR0130,Sales,Microsoft Teams,File Sharing,2025-04-12,5.8,9,2025-04
+EVT01345,USR0130,Sales,Viva Insights,Video Conferencing,2025-05-23,20.7,4,2025-05
+EVT01346,USR0007,Finance,SharePoint,Document Collaboration,2025-04-04,8.8,11,2025-04
+EVT01347,USR0102,HR,Microsoft Teams,Project Management,2025-01-24,7.3,3,2025-01
+EVT01348,USR0021,Legal,SharePoint,File Sharing,2025-04-12,12.0,6,2025-04
+EVT01349,USR0128,Finance,SharePoint,Team Chat,2025-01-04,35.5,5,2025-01
+EVT01350,USR0266,HR,Power BI,Project Management,2025-03-09,13.6,0,2025-03
+EVT01351,USR0149,Technology,OneDrive,Project Management,2025-05-18,45.7,2,2025-05
+EVT01352,USR0152,Finance,SharePoint,File Sharing,2025-02-01,28.3,4,2025-02
+EVT01353,USR0193,Finance,Microsoft Teams,Team Chat,2025-04-27,7.6,8,2025-04
+EVT01354,USR0168,Technology,Viva Insights,Analytics Portal,2025-04-05,25.8,0,2025-04
+EVT01355,USR0006,Finance,Viva Insights,Video Conferencing,2025-06-22,2.0,4,2025-06
+EVT01356,USR0197,Sales,OneDrive,File Sharing,2025-06-22,9.0,4,2025-06
+EVT01357,USR0143,Sales,Viva Insights,Project Management,2025-03-09,30.3,3,2025-03
+EVT01358,USR0172,Operations,Microsoft Teams,File Sharing,2025-05-30,8.9,11,2025-05
+EVT01359,USR0171,Sales,Power BI,Analytics Portal,2025-04-08,35.7,14,2025-04
+EVT01360,USR0275,Technology,Microsoft Teams,Video Conferencing,2025-06-13,11.0,3,2025-06
+EVT01361,USR0215,Finance,Power BI,Team Chat,2025-04-06,5.4,9,2025-04
+EVT01362,USR0073,HR,SharePoint,File Sharing,2025-01-28,1.1,4,2025-01
+EVT01363,USR0201,Finance,Power BI,Analytics Portal,2025-06-22,5.4,13,2025-06
+EVT01364,USR0003,Operations,Viva Insights,Analytics Portal,2025-03-01,2.2,1,2025-03
+EVT01365,USR0143,Sales,Power BI,Video Conferencing,2025-05-01,3.8,10,2025-05
+EVT01366,USR0188,HR,Microsoft Teams,Team Chat,2025-01-07,35.5,10,2025-01
+EVT01367,USR0146,HR,Microsoft Teams,Video Conferencing,2025-06-08,17.6,13,2025-06
+EVT01368,USR0109,Finance,OneDrive,Analytics Portal,2025-05-24,11.2,6,2025-05
+EVT01369,USR0145,Operations,Power BI,Document Collaboration,2025-03-25,19.2,6,2025-03
+EVT01370,USR0048,Finance,OneDrive,Video Conferencing,2025-06-06,3.2,0,2025-06
+EVT01371,USR0109,Finance,Microsoft Teams,Analytics Portal,2025-02-26,8.8,5,2025-02
+EVT01372,USR0193,Finance,Power BI,Analytics Portal,2025-06-15,28.5,2,2025-06
+EVT01373,USR0235,Marketing,Power BI,File Sharing,2025-01-17,19.2,0,2025-01
+EVT01374,USR0215,Finance,SharePoint,Project Management,2025-06-12,1.6,3,2025-06
+EVT01375,USR0161,Marketing,Power BI,Video Conferencing,2025-04-29,33.0,2,2025-04
+EVT01376,USR0256,HR,Viva Insights,Team Chat,2025-06-29,16.5,6,2025-06
+EVT01377,USR0130,Sales,OneDrive,Analytics Portal,2025-03-19,2.5,1,2025-03
+EVT01378,USR0237,Finance,OneDrive,Video Conferencing,2025-06-16,18.4,6,2025-06
+EVT01379,USR0040,Operations,OneDrive,Document Collaboration,2025-04-15,21.5,4,2025-04
+EVT01380,USR0289,Finance,Microsoft Teams,Team Chat,2025-01-30,38.1,3,2025-01
+EVT01381,USR0013,Technology,Viva Insights,File Sharing,2025-02-05,62.9,11,2025-02
+EVT01382,USR0090,HR,Viva Insights,File Sharing,2025-01-12,37.8,1,2025-01
+EVT01383,USR0076,Marketing,SharePoint,Document Collaboration,2025-01-10,7.1,5,2025-01
+EVT01384,USR0249,Sales,OneDrive,Analytics Portal,2025-03-19,39.7,6,2025-03
+EVT01385,USR0029,Sales,SharePoint,File Sharing,2025-05-07,18.0,0,2025-05
+EVT01386,USR0170,Finance,Microsoft Teams,Analytics Portal,2025-01-30,6.8,3,2025-01
+EVT01387,USR0029,Sales,OneDrive,Document Collaboration,2025-01-25,15.0,4,2025-01
+EVT01388,USR0220,Legal,SharePoint,File Sharing,2025-03-02,12.0,3,2025-03
+EVT01389,USR0016,Marketing,Viva Insights,Project Management,2025-05-18,16.1,9,2025-05
+EVT01390,USR0093,Technology,OneDrive,Video Conferencing,2025-02-04,32.1,8,2025-02
+EVT01391,USR0025,Operations,Microsoft Teams,Document Collaboration,2025-04-10,35.4,10,2025-04
+EVT01392,USR0037,Operations,Microsoft Teams,Team Chat,2025-04-27,66.2,8,2025-04
+EVT01393,USR0099,HR,Viva Insights,Analytics Portal,2025-04-05,36.3,8,2025-04
+EVT01394,USR0137,Finance,OneDrive,Video Conferencing,2025-06-21,59.4,15,2025-06
+EVT01395,USR0247,Technology,Viva Insights,Video Conferencing,2025-06-28,57.4,11,2025-06
+EVT01396,USR0206,Sales,OneDrive,Analytics Portal,2025-05-19,21.1,6,2025-05
+EVT01397,USR0146,HR,OneDrive,Team Chat,2025-04-18,21.0,0,2025-04
+EVT01398,USR0286,Legal,Power BI,Team Chat,2025-05-31,11.3,1,2025-05
+EVT01399,USR0274,Finance,Microsoft Teams,Team Chat,2025-02-09,25.5,5,2025-02
+EVT01400,USR0205,Technology,SharePoint,File Sharing,2025-04-17,15.4,4,2025-04
+EVT01401,USR0079,HR,Microsoft Teams,Document Collaboration,2025-06-17,39.1,0,2025-06
+EVT01402,USR0290,HR,OneDrive,Team Chat,2025-01-26,35.0,5,2025-01
+EVT01403,USR0052,Legal,Power BI,File Sharing,2025-05-06,20.7,0,2025-05
+EVT01404,USR0268,Legal,Microsoft Teams,Project Management,2025-06-07,13.3,1,2025-06
+EVT01405,USR0063,Marketing,SharePoint,Video Conferencing,2025-04-15,10.7,3,2025-04
+EVT01406,USR0025,Operations,Microsoft Teams,File Sharing,2025-03-13,34.9,2,2025-03
+EVT01407,USR0114,Technology,Viva Insights,Analytics Portal,2025-01-09,54.9,2,2025-01
+EVT01408,USR0175,Marketing,Power BI,File Sharing,2025-06-26,47.7,2,2025-06
+EVT01409,USR0085,Marketing,OneDrive,Analytics Portal,2025-04-05,33.5,12,2025-04
+EVT01410,USR0280,Marketing,Viva Insights,Analytics Portal,2025-02-25,10.0,8,2025-02
+EVT01411,USR0141,Technology,Power BI,Document Collaboration,2025-04-24,56.8,10,2025-04
+EVT01412,USR0261,HR,Power BI,Analytics Portal,2025-04-24,13.3,8,2025-04
+EVT01413,USR0214,Legal,OneDrive,Team Chat,2025-03-02,10.9,3,2025-03
+EVT01414,USR0098,HR,SharePoint,File Sharing,2025-04-03,14.6,4,2025-04
+EVT01415,USR0029,Sales,Viva Insights,Team Chat,2025-01-26,27.8,1,2025-01
+EVT01416,USR0147,HR,SharePoint,Analytics Portal,2025-06-25,4.3,4,2025-06
+EVT01417,USR0285,Technology,Viva Insights,Document Collaboration,2025-04-05,20.0,11,2025-04
+EVT01418,USR0061,Technology,Microsoft Teams,File Sharing,2025-05-20,1.6,0,2025-05
+EVT01419,USR0186,Marketing,Power BI,File Sharing,2025-06-15,49.1,14,2025-06
+EVT01420,USR0031,Operations,OneDrive,Analytics Portal,2025-04-02,11.7,5,2025-04
+EVT01421,USR0091,HR,SharePoint,Video Conferencing,2025-01-16,15.8,1,2025-01
+EVT01422,USR0065,Operations,Viva Insights,Document Collaboration,2025-04-12,6.7,3,2025-04
+EVT01423,USR0283,Marketing,Viva Insights,Document Collaboration,2025-03-12,11.7,0,2025-03
+EVT01424,USR0024,Finance,OneDrive,Video Conferencing,2025-02-18,3.5,2,2025-02
+EVT01425,USR0055,Finance,Microsoft Teams,Document Collaboration,2025-02-01,15.9,8,2025-02
+EVT01426,USR0276,Finance,Power BI,Analytics Portal,2025-04-27,38.2,1,2025-04
+EVT01427,USR0272,Operations,Power BI,Analytics Portal,2025-01-24,26.8,1,2025-01
+EVT01428,USR0137,Finance,Power BI,Project Management,2025-06-19,32.8,16,2025-06
+EVT01429,USR0117,Finance,SharePoint,Project Management,2025-02-24,19.1,6,2025-02
+EVT01430,USR0225,Operations,Viva Insights,File Sharing,2025-06-14,6.6,3,2025-06
+EVT01431,USR0071,Sales,SharePoint,Analytics Portal,2025-06-13,2.2,6,2025-06
+EVT01432,USR0201,Finance,SharePoint,File Sharing,2025-06-02,33.8,16,2025-06
+EVT01433,USR0185,HR,OneDrive,Video Conferencing,2025-01-06,0.9,8,2025-01
+EVT01434,USR0082,Finance,SharePoint,Team Chat,2025-01-13,2.5,5,2025-01
+EVT01435,USR0083,Legal,OneDrive,Project Management,2025-03-27,15.7,0,2025-03
+EVT01436,USR0065,Operations,Power BI,Document Collaboration,2025-03-04,25.5,5,2025-03
+EVT01437,USR0105,Technology,OneDrive,Document Collaboration,2025-02-02,60.7,14,2025-02
+EVT01438,USR0083,Legal,Power BI,File Sharing,2025-05-25,5.9,0,2025-05
+EVT01439,USR0254,Sales,Viva Insights,Project Management,2025-02-22,45.3,5,2025-02
+EVT01440,USR0264,Marketing,Microsoft Teams,Team Chat,2025-01-18,40.0,4,2025-01
+EVT01441,USR0158,Finance,SharePoint,Project Management,2025-05-22,75.9,17,2025-05
+EVT01442,USR0046,Finance,Viva Insights,Document Collaboration,2025-02-23,28.4,16,2025-02
+EVT01443,USR0072,Legal,Viva Insights,Video Conferencing,2025-05-31,21.6,5,2025-05
+EVT01444,USR0291,Marketing,Microsoft Teams,Team Chat,2025-02-25,38.4,14,2025-02
+EVT01445,USR0011,Finance,Power BI,Video Conferencing,2025-03-01,69.5,14,2025-03
+EVT01446,USR0283,Marketing,Power BI,File Sharing,2025-03-26,2.0,4,2025-03
+EVT01447,USR0234,Legal,Microsoft Teams,Analytics Portal,2025-02-07,12.5,0,2025-02
+EVT01448,USR0098,HR,Viva Insights,Analytics Portal,2025-06-02,21.1,1,2025-06
+EVT01449,USR0113,Legal,Power BI,Video Conferencing,2025-01-01,23.7,4,2025-01
+EVT01450,USR0100,HR,Power BI,File Sharing,2025-03-12,33.7,7,2025-03
+EVT01451,USR0004,Operations,Power BI,File Sharing,2025-02-07,51.8,0,2025-02
+EVT01452,USR0055,Finance,SharePoint,File Sharing,2025-02-03,29.0,7,2025-02
+EVT01453,USR0129,Legal,SharePoint,Analytics Portal,2025-05-19,27.0,5,2025-05
+EVT01454,USR0276,Finance,SharePoint,Video Conferencing,2025-03-06,5.7,11,2025-03
+EVT01455,USR0084,Finance,Viva Insights,Analytics Portal,2025-02-14,26.3,11,2025-02
+EVT01456,USR0253,Sales,Microsoft Teams,File Sharing,2025-01-29,20.6,7,2025-01
+EVT01457,USR0274,Finance,Microsoft Teams,Analytics Portal,2025-06-19,25.2,9,2025-06
+EVT01458,USR0192,Operations,Viva Insights,Video Conferencing,2025-01-07,8.8,0,2025-01
+EVT01459,USR0191,Technology,Power BI,Project Management,2025-02-03,35.0,1,2025-02
+EVT01460,USR0232,Technology,Microsoft Teams,Team Chat,2025-01-04,18.7,13,2025-01
+EVT01461,USR0220,Legal,SharePoint,Team Chat,2025-04-02,11.7,3,2025-04
+EVT01462,USR0031,Operations,SharePoint,Project Management,2025-03-02,6.0,2,2025-03
+EVT01463,USR0233,Finance,Microsoft Teams,Video Conferencing,2025-05-31,31.6,0,2025-05
+EVT01464,USR0081,Finance,OneDrive,Video Conferencing,2025-03-24,66.8,15,2025-03
+EVT01465,USR0271,Legal,OneDrive,Document Collaboration,2025-01-05,33.8,3,2025-01
+EVT01466,USR0115,Technology,Viva Insights,Video Conferencing,2025-02-14,41.5,5,2025-02
+EVT01467,USR0214,Legal,SharePoint,Analytics Portal,2025-03-09,31.1,6,2025-03
+EVT01468,USR0168,Technology,OneDrive,File Sharing,2025-01-14,42.3,14,2025-01
+EVT01469,USR0141,Technology,SharePoint,Project Management,2025-02-02,50.2,9,2025-02
+EVT01470,USR0094,Operations,OneDrive,Video Conferencing,2025-04-18,18.7,8,2025-04
+EVT01471,USR0086,Legal,OneDrive,Video Conferencing,2025-05-15,7.3,4,2025-05
+EVT01472,USR0033,Technology,OneDrive,File Sharing,2025-01-30,22.8,0,2025-01
+EVT01473,USR0089,Technology,Microsoft Teams,Analytics Portal,2025-01-17,43.0,2,2025-01
+EVT01474,USR0108,HR,Power BI,Video Conferencing,2025-05-02,40.1,11,2025-05
+EVT01475,USR0089,Technology,OneDrive,Team Chat,2025-04-25,6.9,4,2025-04
+EVT01476,USR0041,Legal,Power BI,Video Conferencing,2025-04-03,4.0,1,2025-04
+EVT01477,USR0076,Marketing,SharePoint,Project Management,2025-05-12,19.6,4,2025-05
+EVT01478,USR0156,Sales,OneDrive,Analytics Portal,2025-06-01,22.2,6,2025-06
+EVT01479,USR0193,Finance,Microsoft Teams,Video Conferencing,2025-01-28,19.6,1,2025-01
+EVT01480,USR0097,Sales,Power BI,Project Management,2025-04-26,22.3,3,2025-04
+EVT01481,USR0064,Legal,Power BI,File Sharing,2025-05-09,12.9,5,2025-05
+EVT01482,USR0237,Finance,Power BI,Team Chat,2025-02-26,4.5,0,2025-02
+EVT01483,USR0155,Sales,Viva Insights,Analytics Portal,2025-06-07,3.7,3,2025-06
+EVT01484,USR0152,Finance,Viva Insights,Project Management,2025-01-12,23.7,13,2025-01
+EVT01485,USR0162,Technology,OneDrive,Team Chat,2025-06-18,31.0,8,2025-06
+EVT01486,USR0285,Technology,Power BI,Analytics Portal,2025-05-14,41.0,8,2025-05
+EVT01487,USR0293,Legal,SharePoint,Analytics Portal,2025-03-19,0.4,1,2025-03
+EVT01488,USR0037,Operations,Microsoft Teams,Project Management,2025-04-28,40.6,17,2025-04
+EVT01489,USR0002,Sales,Power BI,Analytics Portal,2025-06-14,23.6,4,2025-06
+EVT01490,USR0215,Finance,Power BI,File Sharing,2025-01-08,25.3,4,2025-01
+EVT01491,USR0219,HR,SharePoint,Analytics Portal,2025-01-16,7.5,5,2025-01
+EVT01492,USR0230,Operations,Power BI,File Sharing,2025-05-03,1.8,0,2025-05
+EVT01493,USR0196,Technology,Microsoft Teams,Team Chat,2025-04-13,19.0,3,2025-04
+EVT01494,USR0208,Legal,Viva Insights,File Sharing,2025-04-20,6.3,5,2025-04
+EVT01495,USR0283,Marketing,SharePoint,Video Conferencing,2025-06-25,6.0,5,2025-06
+EVT01496,USR0111,HR,Power BI,Project Management,2025-01-28,25.7,4,2025-01
+EVT01497,USR0088,Marketing,SharePoint,Team Chat,2025-05-06,9.5,5,2025-05
+EVT01498,USR0290,HR,Power BI,Analytics Portal,2025-04-24,11.3,5,2025-04
+EVT01499,USR0176,Sales,SharePoint,Video Conferencing,2025-01-19,6.0,6,2025-01
+EVT01500,USR0230,Operations,Microsoft Teams,Project Management,2025-01-21,6.9,5,2025-01
+EVT01501,USR0135,Marketing,SharePoint,Video Conferencing,2025-03-24,40.9,1,2025-03
+EVT01502,USR0298,HR,Power BI,Analytics Portal,2025-06-05,13.4,5,2025-06
+EVT01503,USR0295,Sales,SharePoint,File Sharing,2025-02-07,14.2,4,2025-02
+EVT01504,USR0255,Technology,OneDrive,Video Conferencing,2025-01-17,15.7,10,2025-01
+EVT01505,USR0197,Sales,OneDrive,Team Chat,2025-02-02,3.5,6,2025-02
+EVT01506,USR0249,Sales,Power BI,File Sharing,2025-03-12,22.1,3,2025-03
+EVT01507,USR0213,Operations,Microsoft Teams,File Sharing,2025-06-09,1.6,1,2025-06
+EVT01508,USR0028,Finance,Microsoft Teams,Team Chat,2025-06-12,4.7,3,2025-06
+EVT01509,USR0125,Technology,SharePoint,File Sharing,2025-05-30,17.2,13,2025-05
+EVT01510,USR0046,Finance,Viva Insights,Analytics Portal,2025-05-21,57.6,6,2025-05
+EVT01511,USR0208,Legal,Viva Insights,Document Collaboration,2025-03-25,11.0,4,2025-03
+EVT01512,USR0223,HR,OneDrive,Document Collaboration,2025-04-08,16.0,6,2025-04
+EVT01513,USR0236,Operations,Viva Insights,Project Management,2025-06-02,17.4,5,2025-06
+EVT01514,USR0108,HR,Microsoft Teams,File Sharing,2025-05-16,12.4,3,2025-05
+EVT01515,USR0059,Legal,Microsoft Teams,Video Conferencing,2025-03-17,19.3,2,2025-03
+EVT01516,USR0211,Legal,Microsoft Teams,File Sharing,2025-04-27,7.9,2,2025-04
+EVT01517,USR0028,Finance,SharePoint,Document Collaboration,2025-05-10,40.5,12,2025-05
+EVT01518,USR0129,Legal,Viva Insights,Project Management,2025-06-04,38.2,1,2025-06
+EVT01519,USR0236,Operations,Viva Insights,Document Collaboration,2025-04-21,4.8,10,2025-04
+EVT01520,USR0092,Marketing,Power BI,Video Conferencing,2025-01-26,5.9,2,2025-01
+EVT01521,USR0087,Technology,Power BI,Project Management,2025-06-29,15.1,5,2025-06
+EVT01522,USR0214,Legal,Power BI,Team Chat,2025-01-30,25.8,8,2025-01
+EVT01523,USR0285,Technology,SharePoint,Video Conferencing,2025-06-17,7.5,5,2025-06
+EVT01524,USR0122,Sales,Viva Insights,Analytics Portal,2025-06-16,24.2,3,2025-06
+EVT01525,USR0262,Sales,OneDrive,Video Conferencing,2025-05-22,3.5,11,2025-05
+EVT01526,USR0263,Legal,Microsoft Teams,Analytics Portal,2025-02-25,5.2,2,2025-02
+EVT01527,USR0286,Legal,SharePoint,Analytics Portal,2025-04-21,15.7,7,2025-04
+EVT01528,USR0003,Operations,Power BI,Project Management,2025-04-26,34.5,4,2025-04
+EVT01529,USR0193,Finance,OneDrive,Project Management,2025-02-28,2.6,5,2025-02
+EVT01530,USR0128,Finance,OneDrive,Project Management,2025-04-16,37.2,11,2025-04
+EVT01531,USR0109,Finance,Microsoft Teams,Document Collaboration,2025-03-28,15.1,0,2025-03
+EVT01532,USR0158,Finance,SharePoint,Video Conferencing,2025-04-27,24.7,5,2025-04
+EVT01533,USR0009,Legal,Power BI,Team Chat,2025-04-13,16.5,4,2025-04
+EVT01534,USR0066,HR,Viva Insights,Team Chat,2025-04-17,10.7,0,2025-04
+EVT01535,USR0290,HR,OneDrive,Video Conferencing,2025-01-25,24.2,7,2025-01
+EVT01536,USR0146,HR,Power BI,Document Collaboration,2025-03-22,43.8,7,2025-03
+EVT01537,USR0038,Sales,Microsoft Teams,Team Chat,2025-04-20,11.4,8,2025-04
+EVT01538,USR0235,Marketing,OneDrive,File Sharing,2025-03-22,17.4,0,2025-03
+EVT01539,USR0202,Legal,OneDrive,Project Management,2025-06-20,1.8,3,2025-06
+EVT01540,USR0209,Operations,Viva Insights,Project Management,2025-03-07,25.3,1,2025-03
+EVT01541,USR0130,Sales,SharePoint,Video Conferencing,2025-04-06,8.1,6,2025-04
+EVT01542,USR0225,Operations,Microsoft Teams,File Sharing,2025-02-09,23.5,2,2025-02
+EVT01543,USR0053,Finance,OneDrive,Video Conferencing,2025-06-25,7.7,1,2025-06
+EVT01544,USR0007,Finance,Viva Insights,Video Conferencing,2025-05-02,18.4,8,2025-05
+EVT01545,USR0258,Legal,Power BI,Project Management,2025-01-18,21.2,4,2025-01
+EVT01546,USR0259,Technology,OneDrive,Analytics Portal,2025-01-24,21.8,6,2025-01
+EVT01547,USR0284,Sales,OneDrive,Project Management,2025-01-22,30.1,6,2025-01
+EVT01548,USR0212,Finance,Microsoft Teams,Document Collaboration,2025-01-24,14.4,1,2025-01
+EVT01549,USR0106,Sales,SharePoint,Analytics Portal,2025-04-21,33.7,8,2025-04
+EVT01550,USR0098,HR,SharePoint,Team Chat,2025-01-25,24.4,9,2025-01
+EVT01551,USR0001,Legal,Microsoft Teams,Project Management,2025-04-06,19.7,6,2025-04
+EVT01552,USR0030,Operations,Microsoft Teams,Team Chat,2025-02-03,9.0,4,2025-02
+EVT01553,USR0150,Sales,Viva Insights,File Sharing,2025-05-23,14.3,4,2025-05
+EVT01554,USR0003,Operations,Power BI,Document Collaboration,2025-01-16,11.1,11,2025-01
+EVT01555,USR0222,Legal,Microsoft Teams,Project Management,2025-05-31,20.7,4,2025-05
+EVT01556,USR0237,Finance,SharePoint,Analytics Portal,2025-05-24,2.2,5,2025-05
+EVT01557,USR0271,Legal,Viva Insights,Video Conferencing,2025-05-24,15.7,6,2025-05
+EVT01558,USR0135,Marketing,Power BI,Team Chat,2025-03-26,19.1,8,2025-03
+EVT01559,USR0283,Marketing,OneDrive,Team Chat,2025-06-21,9.6,2,2025-06
+EVT01560,USR0283,Marketing,OneDrive,File Sharing,2025-02-01,22.7,2,2025-02
+EVT01561,USR0092,Marketing,Power BI,File Sharing,2025-04-16,1.6,2,2025-04
+EVT01562,USR0050,Sales,OneDrive,Project Management,2025-04-01,8.1,1,2025-04
+EVT01563,USR0048,Finance,Power BI,Analytics Portal,2025-06-20,22.8,3,2025-06
+EVT01564,USR0134,Finance,OneDrive,Document Collaboration,2025-04-19,38.8,3,2025-04
+EVT01565,USR0079,HR,Viva Insights,Document Collaboration,2025-01-14,29.2,6,2025-01
+EVT01566,USR0245,Marketing,SharePoint,Analytics Portal,2025-03-15,16.1,9,2025-03
+EVT01567,USR0175,Marketing,Viva Insights,Video Conferencing,2025-06-03,48.5,2,2025-06
+EVT01568,USR0050,Sales,Microsoft Teams,Document Collaboration,2025-03-21,26.3,0,2025-03
+EVT01569,USR0226,Sales,Viva Insights,Video Conferencing,2025-04-01,22.1,3,2025-04
+EVT01570,USR0253,Sales,SharePoint,Team Chat,2025-01-27,12.3,8,2025-01
+EVT01571,USR0106,Sales,Power BI,Video Conferencing,2025-05-28,8.4,3,2025-05
+EVT01572,USR0021,Legal,OneDrive,Document Collaboration,2025-05-10,29.9,7,2025-05
+EVT01573,USR0130,Sales,SharePoint,Project Management,2025-02-24,19.8,7,2025-02
+EVT01574,USR0234,Legal,Microsoft Teams,File Sharing,2025-02-09,24.0,4,2025-02
+EVT01575,USR0078,Operations,SharePoint,Video Conferencing,2025-06-18,9.8,1,2025-06
+EVT01576,USR0148,Sales,SharePoint,Document Collaboration,2025-05-04,21.4,9,2025-05
+EVT01577,USR0283,Marketing,Power BI,Video Conferencing,2025-02-27,5.3,1,2025-02
+EVT01578,USR0269,Finance,OneDrive,Team Chat,2025-01-28,11.4,1,2025-01
+EVT01579,USR0285,Technology,Viva Insights,Document Collaboration,2025-03-31,10.5,3,2025-03
+EVT01580,USR0001,Legal,Viva Insights,Video Conferencing,2025-05-23,2.6,4,2025-05
+EVT01581,USR0041,Legal,Power BI,File Sharing,2025-04-05,12.0,3,2025-04
+EVT01582,USR0076,Marketing,SharePoint,Video Conferencing,2025-01-30,40.5,1,2025-01
+EVT01583,USR0195,Finance,Viva Insights,Project Management,2025-03-13,32.6,5,2025-03
+EVT01584,USR0214,Legal,Viva Insights,Project Management,2025-05-27,1.1,4,2025-05
+EVT01585,USR0271,Legal,Power BI,Document Collaboration,2025-02-27,2.7,7,2025-02
+EVT01586,USR0029,Sales,OneDrive,File Sharing,2025-04-20,24.1,5,2025-04
+EVT01587,USR0261,HR,Power BI,Video Conferencing,2025-05-24,33.3,11,2025-05
+EVT01588,USR0172,Operations,OneDrive,Document Collaboration,2025-06-09,9.3,7,2025-06
+EVT01589,USR0121,Sales,Viva Insights,File Sharing,2025-06-07,19.5,8,2025-06
+EVT01590,USR0228,Finance,Viva Insights,Project Management,2025-06-22,5.2,3,2025-06
+EVT01591,USR0001,Legal,Power BI,Project Management,2025-06-14,5.4,5,2025-06
+EVT01592,USR0094,Operations,Power BI,Video Conferencing,2025-05-23,25.2,15,2025-05
+EVT01593,USR0161,Marketing,Viva Insights,Project Management,2025-01-07,23.8,7,2025-01
+EVT01594,USR0013,Technology,Power BI,Document Collaboration,2025-06-05,14.9,17,2025-06
+EVT01595,USR0123,Technology,Microsoft Teams,Video Conferencing,2025-06-18,32.8,16,2025-06
+EVT01596,USR0255,Technology,Microsoft Teams,Video Conferencing,2025-06-27,61.1,10,2025-06
+EVT01597,USR0218,Sales,Microsoft Teams,Video Conferencing,2025-03-10,23.0,2,2025-03
+EVT01598,USR0254,Sales,Viva Insights,Team Chat,2025-01-08,13.1,10,2025-01
+EVT01599,USR0158,Finance,OneDrive,Video Conferencing,2025-02-16,53.1,5,2025-02
+EVT01600,USR0240,Operations,OneDrive,Team Chat,2025-03-11,22.7,16,2025-03
+EVT01601,USR0177,Marketing,Power BI,Analytics Portal,2025-06-29,5.1,16,2025-06
+EVT01602,USR0286,Legal,Power BI,Project Management,2025-03-21,7.8,7,2025-03
+EVT01603,USR0207,Legal,OneDrive,Analytics Portal,2025-03-28,22.4,1,2025-03
+EVT01604,USR0239,HR,Microsoft Teams,File Sharing,2025-03-31,12.4,2,2025-03
+EVT01605,USR0196,Technology,SharePoint,Team Chat,2025-01-02,9.7,0,2025-01
+EVT01606,USR0027,HR,Power BI,Analytics Portal,2025-02-16,12.5,1,2025-02
+EVT01607,USR0184,Marketing,Power BI,Video Conferencing,2025-02-06,16.6,4,2025-02
+EVT01608,USR0068,Operations,Microsoft Teams,Team Chat,2025-05-25,4.5,0,2025-05
+EVT01609,USR0167,Technology,OneDrive,File Sharing,2025-06-18,20.8,5,2025-06
+EVT01610,USR0127,Technology,Viva Insights,Project Management,2025-04-13,5.7,0,2025-04
+EVT01611,USR0131,Finance,SharePoint,Team Chat,2025-01-18,50.7,10,2025-01
+EVT01612,USR0173,Operations,OneDrive,Analytics Portal,2025-02-06,22.3,5,2025-02
+EVT01613,USR0292,HR,SharePoint,Analytics Portal,2025-06-12,4.3,2,2025-06
+EVT01614,USR0089,Technology,Microsoft Teams,Document Collaboration,2025-01-08,36.7,3,2025-01
+EVT01615,USR0146,HR,Power BI,Project Management,2025-01-24,41.5,12,2025-01
+EVT01616,USR0224,Marketing,SharePoint,Analytics Portal,2025-05-16,17.7,6,2025-05
+EVT01617,USR0064,Legal,Microsoft Teams,Team Chat,2025-02-25,4.7,0,2025-02
+EVT01618,USR0076,Marketing,SharePoint,Project Management,2025-04-07,10.4,1,2025-04
+EVT01619,USR0195,Finance,Microsoft Teams,File Sharing,2025-04-18,43.6,1,2025-04
+EVT01620,USR0186,Marketing,OneDrive,Video Conferencing,2025-04-27,38.9,2,2025-04
+EVT01621,USR0090,HR,Power BI,Project Management,2025-03-29,28.7,7,2025-03
+EVT01622,USR0226,Sales,Power BI,Video Conferencing,2025-02-10,9.8,9,2025-02
+EVT01623,USR0014,HR,OneDrive,Team Chat,2025-04-05,20.6,0,2025-04
+EVT01624,USR0007,Finance,Microsoft Teams,Project Management,2025-03-21,13.0,10,2025-03
+EVT01625,USR0043,Legal,OneDrive,File Sharing,2025-03-25,5.9,2,2025-03
+EVT01626,USR0011,Finance,SharePoint,Project Management,2025-05-26,59.9,17,2025-05
+EVT01627,USR0023,Sales,Microsoft Teams,Analytics Portal,2025-06-02,18.4,5,2025-06
+EVT01628,USR0244,Finance,Microsoft Teams,Team Chat,2025-01-22,36.6,7,2025-01
+EVT01629,USR0233,Finance,OneDrive,Project Management,2025-01-14,9.7,8,2025-01
+EVT01630,USR0120,Finance,Microsoft Teams,File Sharing,2025-02-09,26.2,4,2025-02
+EVT01631,USR0209,Operations,SharePoint,Project Management,2025-02-10,20.8,7,2025-02
+EVT01632,USR0011,Finance,Viva Insights,Team Chat,2025-06-08,71.2,16,2025-06
+EVT01633,USR0075,Marketing,Power BI,Document Collaboration,2025-01-13,47.3,1,2025-01
+EVT01634,USR0169,Sales,Power BI,Video Conferencing,2025-06-22,20.8,6,2025-06
+EVT01635,USR0044,Sales,OneDrive,Team Chat,2025-01-21,6.8,7,2025-01
+EVT01636,USR0228,Finance,SharePoint,Project Management,2025-03-11,3.9,6,2025-03
+EVT01637,USR0186,Marketing,SharePoint,File Sharing,2025-04-24,58.9,13,2025-04
+EVT01638,USR0092,Marketing,Power BI,Team Chat,2025-06-19,2.8,5,2025-06
+EVT01639,USR0048,Finance,Power BI,Document Collaboration,2025-04-19,19.1,5,2025-04
+EVT01640,USR0111,HR,Viva Insights,Analytics Portal,2025-05-05,11.4,0,2025-05
+EVT01641,USR0053,Finance,SharePoint,Project Management,2025-06-05,1.5,7,2025-06
+EVT01642,USR0103,Sales,OneDrive,File Sharing,2025-04-24,42.4,11,2025-04
+EVT01643,USR0133,Operations,Viva Insights,Team Chat,2025-04-17,8.8,2,2025-04
+EVT01644,USR0156,Sales,Microsoft Teams,Team Chat,2025-03-11,27.5,4,2025-03
+EVT01645,USR0279,Operations,Microsoft Teams,File Sharing,2025-02-25,36.6,2,2025-02
+EVT01646,USR0188,HR,Viva Insights,Document Collaboration,2025-05-12,42.2,9,2025-05
+EVT01647,USR0055,Finance,OneDrive,Project Management,2025-01-30,27.0,6,2025-01
+EVT01648,USR0288,Legal,Power BI,File Sharing,2025-03-30,11.9,7,2025-03
+EVT01649,USR0143,Sales,Microsoft Teams,Video Conferencing,2025-04-21,24.6,1,2025-04
+EVT01650,USR0064,Legal,SharePoint,Analytics Portal,2025-01-29,12.1,4,2025-01
+EVT01651,USR0053,Finance,Viva Insights,Team Chat,2025-03-14,35.4,8,2025-03
+EVT01652,USR0238,Sales,SharePoint,Project Management,2025-06-23,10.9,0,2025-06
+EVT01653,USR0122,Sales,Viva Insights,Project Management,2025-06-23,19.9,1,2025-06
+EVT01654,USR0236,Operations,Power BI,Video Conferencing,2025-06-01,10.0,3,2025-06
+EVT01655,USR0219,HR,OneDrive,Team Chat,2025-05-05,19.9,2,2025-05
+EVT01656,USR0258,Legal,Power BI,Project Management,2025-05-15,11.7,1,2025-05
+EVT01657,USR0154,Marketing,Microsoft Teams,File Sharing,2025-06-20,11.3,2,2025-06
+EVT01658,USR0011,Finance,OneDrive,File Sharing,2025-03-20,73.1,4,2025-03
+EVT01659,USR0116,HR,SharePoint,Analytics Portal,2025-01-12,3.8,7,2025-01
+EVT01660,USR0071,Sales,Microsoft Teams,Team Chat,2025-02-26,14.1,11,2025-02
+EVT01661,USR0051,Technology,SharePoint,Team Chat,2025-04-12,35.0,16,2025-04
+EVT01662,USR0029,Sales,SharePoint,Project Management,2025-06-03,15.4,4,2025-06
+EVT01663,USR0226,Sales,OneDrive,File Sharing,2025-01-15,27.9,11,2025-01
+EVT01664,USR0045,Legal,SharePoint,Project Management,2025-01-02,18.7,2,2025-01
+EVT01665,USR0127,Technology,Viva Insights,Project Management,2025-02-22,44.8,5,2025-02
+EVT01666,USR0214,Legal,Viva Insights,Analytics Portal,2025-03-19,11.0,0,2025-03
+EVT01667,USR0185,HR,SharePoint,Analytics Portal,2025-02-24,31.6,9,2025-02
+EVT01668,USR0128,Finance,OneDrive,File Sharing,2025-02-05,31.8,0,2025-02
+EVT01669,USR0276,Finance,SharePoint,Project Management,2025-03-07,18.0,6,2025-03
+EVT01670,USR0231,Sales,SharePoint,Video Conferencing,2025-03-16,22.8,4,2025-03
+EVT01671,USR0154,Marketing,Microsoft Teams,Video Conferencing,2025-03-25,11.4,4,2025-03
+EVT01672,USR0145,Operations,OneDrive,Team Chat,2025-01-31,25.3,3,2025-01
+EVT01673,USR0024,Finance,OneDrive,Team Chat,2025-01-02,8.5,1,2025-01
+EVT01674,USR0001,Legal,SharePoint,Project Management,2025-05-08,9.5,1,2025-05
+EVT01675,USR0078,Operations,SharePoint,Project Management,2025-04-21,20.0,4,2025-04
+EVT01676,USR0038,Sales,OneDrive,Project Management,2025-02-14,2.2,4,2025-02
+EVT01677,USR0110,Finance,Power BI,File Sharing,2025-02-03,19.3,0,2025-02
+EVT01678,USR0153,Legal,Microsoft Teams,Team Chat,2025-04-08,13.4,1,2025-04
+EVT01679,USR0083,Legal,Power BI,Video Conferencing,2025-05-17,8.1,2,2025-05
+EVT01680,USR0199,Technology,SharePoint,Video Conferencing,2025-06-30,24.2,14,2025-06
+EVT01681,USR0203,Finance,OneDrive,Video Conferencing,2025-02-28,9.1,6,2025-02
+EVT01682,USR0278,Legal,Power BI,Analytics Portal,2025-05-09,16.7,3,2025-05
+EVT01683,USR0099,HR,Viva Insights,File Sharing,2025-05-24,12.2,9,2025-05
+EVT01684,USR0221,Operations,Microsoft Teams,Team Chat,2025-06-21,27.9,6,2025-06
+EVT01685,USR0215,Finance,Power BI,Video Conferencing,2025-04-01,26.4,7,2025-04
+EVT01686,USR0282,Technology,Microsoft Teams,File Sharing,2025-01-19,51.2,10,2025-01
+EVT01687,USR0020,Marketing,SharePoint,Team Chat,2025-04-12,50.7,8,2025-04
+EVT01688,USR0158,Finance,Microsoft Teams,Video Conferencing,2025-01-11,23.7,11,2025-01
+EVT01689,USR0212,Finance,SharePoint,Analytics Portal,2025-04-22,6.7,15,2025-04
+EVT01690,USR0087,Technology,Microsoft Teams,Document Collaboration,2025-01-05,10.7,7,2025-01
+EVT01691,USR0034,Legal,Power BI,File Sharing,2025-04-28,23.1,6,2025-04
+EVT01692,USR0259,Technology,Power BI,Video Conferencing,2025-01-20,23.3,7,2025-01
+EVT01693,USR0034,Legal,OneDrive,File Sharing,2025-03-22,9.7,4,2025-03
+EVT01694,USR0166,Sales,Viva Insights,Video Conferencing,2025-05-28,47.2,3,2025-05
+EVT01695,USR0121,Sales,OneDrive,Team Chat,2025-04-20,4.1,4,2025-04
+EVT01696,USR0082,Finance,OneDrive,Team Chat,2025-05-27,9.5,1,2025-05
+EVT01697,USR0257,Operations,Microsoft Teams,Team Chat,2025-04-14,49.1,2,2025-04
+EVT01698,USR0122,Sales,OneDrive,Team Chat,2025-06-13,13.1,0,2025-06
+EVT01699,USR0141,Technology,Microsoft Teams,Project Management,2025-04-17,39.7,9,2025-04
+EVT01700,USR0215,Finance,Viva Insights,Project Management,2025-03-16,22.4,0,2025-03
+EVT01701,USR0049,Finance,OneDrive,Document Collaboration,2025-01-30,17.9,0,2025-01
+EVT01702,USR0020,Marketing,Microsoft Teams,Document Collaboration,2025-04-14,26.6,1,2025-04
+EVT01703,USR0011,Finance,OneDrive,Document Collaboration,2025-01-06,23.7,8,2025-01
+EVT01704,USR0172,Operations,SharePoint,File Sharing,2025-03-25,34.5,11,2025-03
+EVT01705,USR0053,Finance,SharePoint,Team Chat,2025-02-13,10.3,12,2025-02
+EVT01706,USR0095,Marketing,Viva Insights,Video Conferencing,2025-06-08,4.6,5,2025-06
+EVT01707,USR0133,Operations,Power BI,Analytics Portal,2025-04-28,8.3,3,2025-04
+EVT01708,USR0228,Finance,Viva Insights,Analytics Portal,2025-06-26,15.5,3,2025-06
+EVT01709,USR0142,HR,Viva Insights,Analytics Portal,2025-04-03,17.2,4,2025-04
+EVT01710,USR0186,Marketing,Microsoft Teams,File Sharing,2025-01-23,51.3,2,2025-01
+EVT01711,USR0005,Marketing,SharePoint,Project Management,2025-04-22,12.6,9,2025-04
+EVT01712,USR0105,Technology,SharePoint,Analytics Portal,2025-01-28,63.4,1,2025-01
+EVT01713,USR0056,Sales,Microsoft Teams,Project Management,2025-03-04,33.6,11,2025-03
+EVT01714,USR0059,Legal,Viva Insights,Video Conferencing,2025-04-22,24.0,5,2025-04
+EVT01715,USR0151,HR,Viva Insights,File Sharing,2025-05-31,21.8,1,2025-05
+EVT01716,USR0040,Operations,Microsoft Teams,File Sharing,2025-04-13,32.4,0,2025-04
+EVT01717,USR0002,Sales,SharePoint,Analytics Portal,2025-05-15,18.8,4,2025-05
+EVT01718,USR0091,HR,Microsoft Teams,File Sharing,2025-01-21,4.8,7,2025-01
+EVT01719,USR0036,Operations,Microsoft Teams,Project Management,2025-04-12,14.7,1,2025-04
+EVT01720,USR0192,Operations,Power BI,Project Management,2025-03-21,23.4,3,2025-03
+EVT01721,USR0240,Operations,SharePoint,Video Conferencing,2025-03-28,2.4,16,2025-03
+EVT01722,USR0063,Marketing,Microsoft Teams,Document Collaboration,2025-02-26,45.2,1,2025-02
+EVT01723,USR0153,Legal,Viva Insights,Project Management,2025-03-27,18.8,4,2025-03
+EVT01724,USR0197,Sales,Microsoft Teams,Analytics Portal,2025-02-13,1.5,3,2025-02
+EVT01725,USR0265,Finance,Viva Insights,Team Chat,2025-01-20,3.9,5,2025-01
+EVT01726,USR0280,Marketing,Viva Insights,File Sharing,2025-05-11,31.6,4,2025-05
+EVT01727,USR0031,Operations,Power BI,Document Collaboration,2025-06-12,28.6,2,2025-06
+EVT01728,USR0080,Operations,Power BI,File Sharing,2025-01-30,59.9,16,2025-01
+EVT01729,USR0282,Technology,SharePoint,Document Collaboration,2025-05-16,25.2,0,2025-05
+EVT01730,USR0203,Finance,Microsoft Teams,Document Collaboration,2025-05-11,11.9,7,2025-05
+EVT01731,USR0242,Legal,Microsoft Teams,Project Management,2025-02-19,24.5,0,2025-02
+EVT01732,USR0289,Finance,SharePoint,Video Conferencing,2025-03-31,33.1,3,2025-03
+EVT01733,USR0297,Technology,Viva Insights,Video Conferencing,2025-03-31,8.0,7,2025-03
+EVT01734,USR0021,Legal,Power BI,File Sharing,2025-06-15,15.3,3,2025-06
+EVT01735,USR0130,Sales,Power BI,Team Chat,2025-02-07,28.6,11,2025-02
+EVT01736,USR0294,Legal,OneDrive,Analytics Portal,2025-03-02,6.3,1,2025-03
+EVT01737,USR0180,Technology,OneDrive,File Sharing,2025-01-27,19.9,14,2025-01
+EVT01738,USR0300,HR,Microsoft Teams,Project Management,2025-02-07,4.0,0,2025-02
+EVT01739,USR0101,Marketing,OneDrive,File Sharing,2025-03-07,17.4,1,2025-03
+EVT01740,USR0220,Legal,Microsoft Teams,File Sharing,2025-02-20,12.2,0,2025-02
+EVT01741,USR0008,HR,Power BI,Team Chat,2025-02-14,10.6,8,2025-02
+EVT01742,USR0290,HR,Microsoft Teams,Team Chat,2025-06-04,22.7,3,2025-06
+EVT01743,USR0211,Legal,SharePoint,File Sharing,2025-02-09,14.4,4,2025-02
+EVT01744,USR0255,Technology,Microsoft Teams,Document Collaboration,2025-06-17,36.1,0,2025-06
+EVT01745,USR0121,Sales,Microsoft Teams,File Sharing,2025-01-20,10.3,6,2025-01
+EVT01746,USR0270,HR,SharePoint,Video Conferencing,2025-02-15,26.5,10,2025-02
+EVT01747,USR0198,Sales,Microsoft Teams,Document Collaboration,2025-06-10,5.1,0,2025-06
+EVT01748,USR0292,HR,OneDrive,Document Collaboration,2025-05-07,10.7,4,2025-05
+EVT01749,USR0233,Finance,SharePoint,Project Management,2025-04-29,17.2,8,2025-04
+EVT01750,USR0174,Marketing,OneDrive,Team Chat,2025-05-25,58.6,6,2025-05
+EVT01751,USR0114,Technology,Power BI,Document Collaboration,2025-05-29,52.3,4,2025-05
+EVT01752,USR0097,Sales,SharePoint,Analytics Portal,2025-04-25,15.8,0,2025-04
+EVT01753,USR0241,Finance,Microsoft Teams,Analytics Portal,2025-06-24,21.8,1,2025-06
+EVT01754,USR0227,HR,Viva Insights,File Sharing,2025-05-25,8.2,0,2025-05
+EVT01755,USR0256,HR,Viva Insights,File Sharing,2025-06-14,22.7,0,2025-06
+EVT01756,USR0099,HR,OneDrive,Analytics Portal,2025-06-12,12.6,3,2025-06
+EVT01757,USR0160,Operations,Viva Insights,Document Collaboration,2025-06-09,1.0,5,2025-06
+EVT01758,USR0289,Finance,Viva Insights,Document Collaboration,2025-03-24,10.9,10,2025-03
+EVT01759,USR0113,Legal,Power BI,Project Management,2025-06-10,14.2,0,2025-06
+EVT01760,USR0155,Sales,Power BI,Video Conferencing,2025-03-22,1.1,5,2025-03
+EVT01761,USR0295,Sales,Microsoft Teams,File Sharing,2025-02-08,32.5,1,2025-02
+EVT01762,USR0092,Marketing,Microsoft Teams,Team Chat,2025-04-23,13.3,3,2025-04
+EVT01763,USR0144,Technology,Power BI,Document Collaboration,2025-01-18,12.7,2,2025-01
+EVT01764,USR0056,Sales,Power BI,Analytics Portal,2025-05-01,41.5,10,2025-05
+EVT01765,USR0199,Technology,OneDrive,Document Collaboration,2025-04-24,11.5,12,2025-04
+EVT01766,USR0195,Finance,SharePoint,Document Collaboration,2025-06-11,5.5,2,2025-06
+EVT01767,USR0179,Technology,Viva Insights,Team Chat,2025-03-19,18.6,5,2025-03
+EVT01768,USR0174,Marketing,Power BI,Analytics Portal,2025-03-12,58.0,12,2025-03
+EVT01769,USR0150,Sales,Microsoft Teams,Team Chat,2025-06-01,18.6,0,2025-06
+EVT01770,USR0177,Marketing,OneDrive,Analytics Portal,2025-01-15,36.5,8,2025-01
+EVT01771,USR0181,Technology,OneDrive,Video Conferencing,2025-04-01,52.4,9,2025-04
+EVT01772,USR0113,Legal,Microsoft Teams,Team Chat,2025-05-10,4.2,0,2025-05
+EVT01773,USR0056,Sales,Microsoft Teams,Document Collaboration,2025-01-19,25.2,2,2025-01
+EVT01774,USR0263,Legal,Power BI,File Sharing,2025-03-21,6.4,2,2025-03
+EVT01775,USR0018,Technology,Viva Insights,Analytics Portal,2025-04-29,47.6,0,2025-04
+EVT01776,USR0189,Sales,Power BI,Analytics Portal,2025-04-26,8.1,4,2025-04
+EVT01777,USR0063,Marketing,SharePoint,Analytics Portal,2025-01-10,4.4,8,2025-01
+EVT01778,USR0252,Marketing,Power BI,Project Management,2025-01-15,3.3,8,2025-01
+EVT01779,USR0293,Legal,Viva Insights,Team Chat,2025-04-05,8.6,1,2025-04
+EVT01780,USR0215,Finance,Microsoft Teams,Team Chat,2025-03-15,28.3,2,2025-03
+EVT01781,USR0050,Sales,Power BI,Team Chat,2025-01-20,15.7,3,2025-01
+EVT01782,USR0211,Legal,Power BI,File Sharing,2025-06-15,9.9,2,2025-06
+EVT01783,USR0169,Sales,SharePoint,Video Conferencing,2025-01-24,1.7,2,2025-01
+EVT01784,USR0264,Marketing,Microsoft Teams,Analytics Portal,2025-06-07,38.1,9,2025-06
+EVT01785,USR0047,HR,Power BI,Document Collaboration,2025-06-02,25.3,6,2025-06
+EVT01786,USR0103,Sales,Viva Insights,Video Conferencing,2025-05-10,24.8,5,2025-05
+EVT01787,USR0013,Technology,Viva Insights,File Sharing,2025-04-09,62.2,15,2025-04
+EVT01788,USR0090,HR,SharePoint,File Sharing,2025-04-29,12.9,3,2025-04
+EVT01789,USR0283,Marketing,Microsoft Teams,File Sharing,2025-05-29,4.3,1,2025-05
+EVT01790,USR0172,Operations,SharePoint,Analytics Portal,2025-05-22,35.7,11,2025-05
+EVT01791,USR0046,Finance,SharePoint,Video Conferencing,2025-01-11,39.6,10,2025-01
+EVT01792,USR0180,Technology,OneDrive,Team Chat,2025-04-26,28.0,19,2025-04
+EVT01793,USR0278,Legal,SharePoint,Analytics Portal,2025-05-27,20.4,1,2025-05
+EVT01794,USR0104,Sales,Viva Insights,Video Conferencing,2025-06-16,14.9,5,2025-06
+EVT01795,USR0034,Legal,Power BI,Project Management,2025-02-18,7.9,6,2025-02
+EVT01796,USR0151,HR,Viva Insights,Analytics Portal,2025-03-24,8.2,0,2025-03
+EVT01797,USR0258,Legal,Viva Insights,File Sharing,2025-06-04,17.1,4,2025-06
+EVT01798,USR0138,Legal,OneDrive,Analytics Portal,2025-05-02,12.0,0,2025-05
+EVT01799,USR0160,Operations,OneDrive,Team Chat,2025-05-09,22.1,0,2025-05
+EVT01800,USR0045,Legal,Viva Insights,Video Conferencing,2025-02-08,0.6,0,2025-02
+EVT01801,USR0135,Marketing,SharePoint,Document Collaboration,2025-01-16,1.6,3,2025-01
+EVT01802,USR0201,Finance,Microsoft Teams,File Sharing,2025-04-26,2.1,3,2025-04
+EVT01803,USR0059,Legal,OneDrive,Project Management,2025-01-27,15.3,6,2025-01
+EVT01804,USR0076,Marketing,Viva Insights,Project Management,2025-03-29,8.3,5,2025-03
+EVT01805,USR0295,Sales,Microsoft Teams,Analytics Portal,2025-01-22,1.3,8,2025-01
+EVT01806,USR0040,Operations,Microsoft Teams,Document Collaboration,2025-05-10,22.9,2,2025-05
+EVT01807,USR0107,Legal,OneDrive,Analytics Portal,2025-06-15,8.0,6,2025-06
+EVT01808,USR0026,Operations,OneDrive,Document Collaboration,2025-02-14,32.2,11,2025-02
+EVT01809,USR0171,Sales,SharePoint,Document Collaboration,2025-01-11,29.5,12,2025-01
+EVT01810,USR0005,Marketing,Viva Insights,Document Collaboration,2025-03-05,26.7,3,2025-03
+EVT01811,USR0096,Technology,Viva Insights,Analytics Portal,2025-04-23,52.4,9,2025-04
+EVT01812,USR0093,Technology,Power BI,Analytics Portal,2025-04-23,14.5,2,2025-04
+EVT01813,USR0140,Sales,OneDrive,Analytics Portal,2025-05-15,3.1,7,2025-05
+EVT01814,USR0066,HR,SharePoint,Document Collaboration,2025-05-14,43.2,1,2025-05
+EVT01815,USR0154,Marketing,Microsoft Teams,Document Collaboration,2025-06-06,7.0,1,2025-06
+EVT01816,USR0207,Legal,OneDrive,Document Collaboration,2025-02-10,17.1,3,2025-02
+EVT01817,USR0196,Technology,Power BI,Video Conferencing,2025-04-04,19.4,2,2025-04
+EVT01818,USR0220,Legal,Viva Insights,Document Collaboration,2025-04-06,6.6,2,2025-04
+EVT01819,USR0038,Sales,OneDrive,Document Collaboration,2025-03-14,47.3,3,2025-03
+EVT01820,USR0197,Sales,Microsoft Teams,Team Chat,2025-04-10,21.0,1,2025-04
+EVT01821,USR0128,Finance,SharePoint,Team Chat,2025-04-15,21.2,2,2025-04
+EVT01822,USR0251,Technology,OneDrive,Video Conferencing,2025-03-28,3.9,9,2025-03
+EVT01823,USR0174,Marketing,Viva Insights,Analytics Portal,2025-06-23,12.4,2,2025-06
+EVT01824,USR0282,Technology,OneDrive,Team Chat,2025-06-03,37.5,6,2025-06
+EVT01825,USR0035,Marketing,Microsoft Teams,Analytics Portal,2025-01-14,36.9,3,2025-01
+EVT01826,USR0245,Marketing,Power BI,Team Chat,2025-06-11,29.4,7,2025-06
+EVT01827,USR0092,Marketing,Power BI,Team Chat,2025-06-15,12.9,4,2025-06
+EVT01828,USR0257,Operations,Viva Insights,Team Chat,2025-03-27,1.8,11,2025-03
+EVT01829,USR0294,Legal,Power BI,Analytics Portal,2025-01-17,10.9,2,2025-01
+EVT01830,USR0102,HR,Microsoft Teams,Video Conferencing,2025-03-26,4.7,2,2025-03
+EVT01831,USR0018,Technology,Power BI,Project Management,2025-01-25,15.1,5,2025-01
+EVT01832,USR0293,Legal,Viva Insights,Project Management,2025-05-23,7.2,1,2025-05
+EVT01833,USR0037,Operations,Microsoft Teams,Document Collaboration,2025-06-23,47.8,11,2025-06
+EVT01834,USR0099,HR,Microsoft Teams,Project Management,2025-04-09,2.2,0,2025-04
+EVT01835,USR0261,HR,Power BI,File Sharing,2025-03-14,34.5,8,2025-03
+EVT01836,USR0205,Technology,SharePoint,Project Management,2025-03-06,20.0,8,2025-03
+EVT01837,USR0066,HR,Viva Insights,Team Chat,2025-06-18,26.9,7,2025-06
+EVT01838,USR0003,Operations,SharePoint,Project Management,2025-06-04,1.7,11,2025-06
+EVT01839,USR0200,Sales,Viva Insights,Team Chat,2025-02-08,11.6,6,2025-02
+EVT01840,USR0187,HR,Power BI,Analytics Portal,2025-03-27,32.4,2,2025-03
+EVT01841,USR0176,Sales,Viva Insights,Document Collaboration,2025-01-21,3.4,4,2025-01
+EVT01842,USR0295,Sales,SharePoint,Document Collaboration,2025-05-30,26.7,8,2025-05
+EVT01843,USR0208,Legal,Viva Insights,Video Conferencing,2025-06-19,18.0,5,2025-06
+EVT01844,USR0225,Operations,Microsoft Teams,Project Management,2025-02-06,32.7,5,2025-02
+EVT01845,USR0143,Sales,OneDrive,Project Management,2025-03-31,28.1,1,2025-03
+EVT01846,USR0270,HR,OneDrive,Analytics Portal,2025-03-21,36.8,2,2025-03
+EVT01847,USR0175,Marketing,SharePoint,Analytics Portal,2025-06-17,14.1,14,2025-06
+EVT01848,USR0294,Legal,SharePoint,Document Collaboration,2025-06-28,3.0,1,2025-06
+EVT01849,USR0047,HR,OneDrive,Video Conferencing,2025-06-19,23.8,4,2025-06
+EVT01850,USR0189,Sales,Microsoft Teams,Project Management,2025-04-11,21.4,4,2025-04
+EVT01851,USR0044,Sales,OneDrive,Project Management,2025-02-03,26.5,6,2025-02
+EVT01852,USR0148,Sales,Viva Insights,Project Management,2025-06-02,30.3,5,2025-06
+EVT01853,USR0129,Legal,SharePoint,Analytics Portal,2025-01-22,34.8,0,2025-01
+EVT01854,USR0189,Sales,OneDrive,Team Chat,2025-03-21,34.8,14,2025-03
+EVT01855,USR0027,HR,SharePoint,Project Management,2025-05-24,28.7,2,2025-05
+EVT01856,USR0066,HR,SharePoint,File Sharing,2025-04-07,5.8,4,2025-04
+EVT01857,USR0108,HR,SharePoint,Video Conferencing,2025-06-14,8.5,6,2025-06
+EVT01858,USR0299,Marketing,Viva Insights,Team Chat,2025-03-26,15.4,7,2025-03
+EVT01859,USR0233,Finance,SharePoint,Analytics Portal,2025-02-02,37.6,6,2025-02
+EVT01860,USR0063,Marketing,Viva Insights,Document Collaboration,2025-06-21,40.7,15,2025-06
+EVT01861,USR0048,Finance,Power BI,Project Management,2025-06-29,21.7,4,2025-06
+EVT01862,USR0242,Legal,Viva Insights,Analytics Portal,2025-06-25,23.4,0,2025-06
+EVT01863,USR0261,HR,OneDrive,Team Chat,2025-05-15,8.1,2,2025-05
+EVT01864,USR0293,Legal,Viva Insights,Project Management,2025-01-24,1.4,2,2025-01
+EVT01865,USR0253,Sales,Power BI,Analytics Portal,2025-06-15,34.5,6,2025-06
+EVT01866,USR0021,Legal,Viva Insights,Video Conferencing,2025-06-21,11.3,4,2025-06
+EVT01867,USR0003,Operations,OneDrive,Document Collaboration,2025-04-19,6.1,4,2025-04
+EVT01868,USR0092,Marketing,Power BI,Team Chat,2025-05-11,3.5,0,2025-05
+EVT01869,USR0294,Legal,Power BI,Video Conferencing,2025-04-03,8.1,2,2025-04
+EVT01870,USR0283,Marketing,Microsoft Teams,Analytics Portal,2025-01-05,10.5,1,2025-01
+EVT01871,USR0139,Technology,SharePoint,Document Collaboration,2025-04-03,39.0,0,2025-04
+EVT01872,USR0054,Technology,Power BI,Analytics Portal,2025-03-21,38.9,6,2025-03
+EVT01873,USR0153,Legal,SharePoint,File Sharing,2025-02-16,31.1,4,2025-02
+EVT01874,USR0007,Finance,SharePoint,File Sharing,2025-02-24,7.4,4,2025-02
+EVT01875,USR0109,Finance,Viva Insights,File Sharing,2025-03-29,3.1,5,2025-03
+EVT01876,USR0291,Marketing,Viva Insights,Team Chat,2025-05-05,52.8,8,2025-05
+EVT01877,USR0225,Operations,OneDrive,Analytics Portal,2025-02-19,34.8,16,2025-02
+EVT01878,USR0218,Sales,SharePoint,Video Conferencing,2025-02-27,7.0,0,2025-02
+EVT01879,USR0297,Technology,OneDrive,Document Collaboration,2025-02-05,11.0,1,2025-02
+EVT01880,USR0135,Marketing,Power BI,Team Chat,2025-02-09,24.7,2,2025-02
+EVT01881,USR0155,Sales,Viva Insights,Project Management,2025-01-20,11.2,0,2025-01
+EVT01882,USR0082,Finance,Power BI,Video Conferencing,2025-03-17,4.9,0,2025-03
+EVT01883,USR0157,Operations,Viva Insights,Project Management,2025-01-26,1.5,2,2025-01
+EVT01884,USR0102,HR,OneDrive,Video Conferencing,2025-05-10,10.0,2,2025-05
+EVT01885,USR0146,HR,Viva Insights,Document Collaboration,2025-05-19,35.4,12,2025-05
+EVT01886,USR0252,Marketing,Power BI,Project Management,2025-05-15,15.3,6,2025-05
+EVT01887,USR0201,Finance,Microsoft Teams,Analytics Portal,2025-01-10,55.8,18,2025-01
+EVT01888,USR0115,Technology,OneDrive,Video Conferencing,2025-06-19,57.0,4,2025-06
+EVT01889,USR0268,Legal,Viva Insights,Video Conferencing,2025-03-28,6.6,2,2025-03
+EVT01890,USR0023,Sales,Microsoft Teams,Team Chat,2025-06-08,1.2,2,2025-06
+EVT01891,USR0077,Sales,Viva Insights,File Sharing,2025-02-03,25.0,0,2025-02
+EVT01892,USR0270,HR,Power BI,Document Collaboration,2025-06-02,20.3,12,2025-06
+EVT01893,USR0208,Legal,OneDrive,Analytics Portal,2025-04-07,15.7,1,2025-04
+EVT01894,USR0129,Legal,OneDrive,File Sharing,2025-02-09,38.0,6,2025-02
+EVT01895,USR0236,Operations,OneDrive,Project Management,2025-02-11,20.6,9,2025-02
+EVT01896,USR0062,Finance,OneDrive,Analytics Portal,2025-02-16,3.1,2,2025-02
+EVT01897,USR0291,Marketing,Power BI,Video Conferencing,2025-06-27,6.2,11,2025-06
+EVT01898,USR0232,Technology,SharePoint,Project Management,2025-06-09,17.1,7,2025-06
+EVT01899,USR0198,Sales,SharePoint,Document Collaboration,2025-02-12,27.5,8,2025-02
+EVT01900,USR0007,Finance,OneDrive,Analytics Portal,2025-04-23,37.9,11,2025-04
+EVT01901,USR0283,Marketing,OneDrive,Video Conferencing,2025-01-12,8.1,0,2025-01
+EVT01902,USR0100,HR,Viva Insights,Team Chat,2025-04-16,14.5,3,2025-04
+EVT01903,USR0006,Finance,Power BI,Team Chat,2025-04-04,15.4,4,2025-04
+EVT01904,USR0252,Marketing,Viva Insights,Analytics Portal,2025-06-23,17.8,3,2025-06
+EVT01905,USR0162,Technology,Viva Insights,Analytics Portal,2025-03-02,28.2,5,2025-03
+EVT01906,USR0195,Finance,OneDrive,Video Conferencing,2025-04-24,27.2,11,2025-04
+EVT01907,USR0265,Finance,Microsoft Teams,Analytics Portal,2025-06-06,25.4,3,2025-06
+EVT01908,USR0136,Legal,SharePoint,Video Conferencing,2025-03-14,20.2,4,2025-03
+EVT01909,USR0175,Marketing,Microsoft Teams,Document Collaboration,2025-04-25,44.5,4,2025-04
+EVT01910,USR0299,Marketing,OneDrive,File Sharing,2025-03-01,29.2,1,2025-03
+EVT01911,USR0015,Finance,Viva Insights,Analytics Portal,2025-05-17,28.4,9,2025-05
+EVT01912,USR0174,Marketing,OneDrive,File Sharing,2025-03-03,19.0,16,2025-03
+EVT01913,USR0283,Marketing,Microsoft Teams,File Sharing,2025-03-21,11.6,6,2025-03
+EVT01914,USR0193,Finance,Power BI,Team Chat,2025-05-01,26.5,1,2025-05
+EVT01915,USR0089,Technology,Power BI,Team Chat,2025-02-19,41.4,10,2025-02
+EVT01916,USR0121,Sales,OneDrive,File Sharing,2025-04-05,22.2,3,2025-04
+EVT01917,USR0031,Operations,Power BI,Video Conferencing,2025-06-23,28.6,5,2025-06
+EVT01918,USR0167,Technology,OneDrive,Project Management,2025-05-27,2.0,10,2025-05
+EVT01919,USR0232,Technology,Microsoft Teams,Project Management,2025-04-23,54.8,9,2025-04
+EVT01920,USR0007,Finance,Viva Insights,Team Chat,2025-04-29,17.7,0,2025-04
+EVT01921,USR0054,Technology,OneDrive,File Sharing,2025-03-14,65.5,11,2025-03
+EVT01922,USR0237,Finance,Viva Insights,File Sharing,2025-04-08,20.6,0,2025-04
+EVT01923,USR0180,Technology,Microsoft Teams,Analytics Portal,2025-05-09,42.2,9,2025-05
+EVT01924,USR0196,Technology,Microsoft Teams,Project Management,2025-05-16,21.0,1,2025-05
+EVT01925,USR0115,Technology,OneDrive,Team Chat,2025-04-18,13.6,4,2025-04
+EVT01926,USR0244,Finance,OneDrive,Analytics Portal,2025-02-11,31.4,0,2025-02
+EVT01927,USR0080,Operations,Microsoft Teams,Project Management,2025-02-21,19.7,3,2025-02
+EVT01928,USR0072,Legal,SharePoint,Project Management,2025-06-04,24.4,7,2025-06
+EVT01929,USR0229,Marketing,Power BI,Team Chat,2025-02-05,23.4,7,2025-02
+EVT01930,USR0134,Finance,SharePoint,File Sharing,2025-03-06,25.0,0,2025-03
+EVT01931,USR0168,Technology,Viva Insights,File Sharing,2025-01-14,30.2,13,2025-01
+EVT01932,USR0231,Sales,Viva Insights,Video Conferencing,2025-06-14,11.0,6,2025-06
+EVT01933,USR0256,HR,OneDrive,Video Conferencing,2025-05-04,12.1,7,2025-05
+EVT01934,USR0263,Legal,SharePoint,Team Chat,2025-04-06,12.9,0,2025-04
+EVT01935,USR0067,HR,Viva Insights,Project Management,2025-05-22,18.5,1,2025-05
+EVT01936,USR0233,Finance,OneDrive,Document Collaboration,2025-01-27,3.4,5,2025-01
+EVT01937,USR0193,Finance,Microsoft Teams,Video Conferencing,2025-05-13,6.1,4,2025-05
+EVT01938,USR0023,Sales,Viva Insights,Team Chat,2025-02-01,26.6,4,2025-02
+EVT01939,USR0250,Operations,SharePoint,Team Chat,2025-03-14,13.0,0,2025-03
+EVT01940,USR0095,Marketing,SharePoint,Document Collaboration,2025-01-22,28.2,2,2025-01
+EVT01941,USR0159,Marketing,OneDrive,Video Conferencing,2025-02-11,6.7,11,2025-02
+EVT01942,USR0128,Finance,SharePoint,Analytics Portal,2025-03-11,30.6,5,2025-03
+EVT01943,USR0202,Legal,SharePoint,File Sharing,2025-04-26,14.1,3,2025-04
+EVT01944,USR0097,Sales,Microsoft Teams,Project Management,2025-05-12,21.0,5,2025-05
+EVT01945,USR0197,Sales,Power BI,Video Conferencing,2025-02-07,24.7,5,2025-02
+EVT01946,USR0194,Marketing,Microsoft Teams,Analytics Portal,2025-04-22,14.2,1,2025-04
+EVT01947,USR0073,HR,OneDrive,File Sharing,2025-01-24,22.2,3,2025-01
+EVT01948,USR0156,Sales,SharePoint,Document Collaboration,2025-02-26,16.5,0,2025-02
+EVT01949,USR0283,Marketing,Viva Insights,Team Chat,2025-04-26,11.1,0,2025-04
+EVT01950,USR0264,Marketing,OneDrive,Analytics Portal,2025-03-31,2.1,13,2025-03
+EVT01951,USR0055,Finance,SharePoint,File Sharing,2025-01-07,19.2,2,2025-01
+EVT01952,USR0079,HR,Power BI,Team Chat,2025-04-17,39.0,3,2025-04
+EVT01953,USR0062,Finance,SharePoint,Team Chat,2025-01-14,13.0,7,2025-01
+EVT01954,USR0212,Finance,Power BI,File Sharing,2025-04-12,36.1,0,2025-04
+EVT01955,USR0135,Marketing,Microsoft Teams,Video Conferencing,2025-05-09,19.9,1,2025-05
+EVT01956,USR0248,Finance,Viva Insights,Document Collaboration,2025-04-06,52.8,14,2025-04
+EVT01957,USR0045,Legal,Power BI,Project Management,2025-03-02,9.1,3,2025-03
+EVT01958,USR0111,HR,Power BI,File Sharing,2025-04-09,24.9,5,2025-04
+EVT01959,USR0122,Sales,Viva Insights,Project Management,2025-01-21,30.4,2,2025-01
+EVT01960,USR0214,Legal,Viva Insights,File Sharing,2025-04-06,4.7,1,2025-04
+EVT01961,USR0270,HR,Power BI,Document Collaboration,2025-02-27,17.8,7,2025-02
+EVT01962,USR0054,Technology,Viva Insights,Video Conferencing,2025-01-08,20.0,16,2025-01
+EVT01963,USR0084,Finance,Viva Insights,Team Chat,2025-03-23,53.5,15,2025-03
+EVT01964,USR0175,Marketing,Viva Insights,Video Conferencing,2025-01-26,37.9,6,2025-01
+EVT01965,USR0244,Finance,OneDrive,Analytics Portal,2025-06-16,42.6,5,2025-06
+EVT01966,USR0249,Sales,Viva Insights,Document Collaboration,2025-03-27,8.8,7,2025-03
+EVT01967,USR0052,Legal,Power BI,Project Management,2025-02-07,4.6,3,2025-02
+EVT01968,USR0169,Sales,Microsoft Teams,File Sharing,2025-02-05,16.1,4,2025-02
+EVT01969,USR0043,Legal,SharePoint,Analytics Portal,2025-01-10,8.3,2,2025-01
+EVT01970,USR0119,Sales,Microsoft Teams,Project Management,2025-03-15,23.4,3,2025-03
+EVT01971,USR0091,HR,SharePoint,Video Conferencing,2025-05-01,23.7,6,2025-05
+EVT01972,USR0276,Finance,Power BI,Document Collaboration,2025-06-28,38.2,5,2025-06
+EVT01973,USR0169,Sales,SharePoint,Document Collaboration,2025-02-05,28.1,2,2025-02
+EVT01974,USR0176,Sales,Power BI,Analytics Portal,2025-06-30,5.8,3,2025-06
+EVT01975,USR0030,Operations,Power BI,Analytics Portal,2025-05-01,36.0,9,2025-05
+EVT01976,USR0037,Operations,Viva Insights,File Sharing,2025-04-25,3.1,2,2025-04
+EVT01977,USR0197,Sales,OneDrive,Document Collaboration,2025-06-07,19.7,1,2025-06
+EVT01978,USR0010,Finance,Viva Insights,File Sharing,2025-01-02,8.4,10,2025-01
+EVT01979,USR0028,Finance,Power BI,Analytics Portal,2025-01-21,25.2,11,2025-01
+EVT01980,USR0174,Marketing,Microsoft Teams,Team Chat,2025-01-05,36.5,4,2025-01
+EVT01981,USR0251,Technology,Microsoft Teams,Team Chat,2025-03-07,53.9,0,2025-03
+EVT01982,USR0252,Marketing,OneDrive,Project Management,2025-02-25,25.1,1,2025-02
+EVT01983,USR0060,Finance,OneDrive,Document Collaboration,2025-02-08,17.5,1,2025-02
+EVT01984,USR0196,Technology,SharePoint,Document Collaboration,2025-05-21,2.4,3,2025-05
+EVT01985,USR0206,Sales,Viva Insights,Analytics Portal,2025-06-05,5.2,7,2025-06
+EVT01986,USR0284,Sales,Microsoft Teams,File Sharing,2025-05-16,2.9,6,2025-05
+EVT01987,USR0058,Legal,Power BI,Team Chat,2025-04-19,3.9,2,2025-04
+EVT01988,USR0078,Operations,Power BI,Document Collaboration,2025-01-29,15.3,1,2025-01
+EVT01989,USR0218,Sales,OneDrive,Team Chat,2025-03-15,11.9,2,2025-03
+EVT01990,USR0255,Technology,SharePoint,Team Chat,2025-03-02,3.2,7,2025-03
+EVT01991,USR0170,Finance,OneDrive,Analytics Portal,2025-03-19,17.4,6,2025-03
+EVT01992,USR0219,HR,SharePoint,Analytics Portal,2025-02-01,21.7,1,2025-02
+EVT01993,USR0262,Sales,OneDrive,Project Management,2025-01-13,4.4,12,2025-01
+EVT01994,USR0258,Legal,Power BI,Project Management,2025-03-03,3.6,5,2025-03
+EVT01995,USR0069,Technology,Viva Insights,Analytics Portal,2025-04-18,4.9,3,2025-04
+EVT01996,USR0289,Finance,Viva Insights,File Sharing,2025-06-13,39.7,7,2025-06
+EVT01997,USR0003,Operations,SharePoint,Project Management,2025-06-09,12.7,1,2025-06
+EVT01998,USR0033,Technology,SharePoint,Project Management,2025-04-28,1.6,6,2025-04
+EVT01999,USR0154,Marketing,SharePoint,Video Conferencing,2025-01-17,7.4,2,2025-01
+EVT02000,USR0059,Legal,Viva Insights,File Sharing,2025-01-29,5.9,7,2025-01

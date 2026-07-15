@@ -1,0 +1,301 @@
+user_id,department,role,tenure_years,engagement_score
+USR0001,Legal,VP,14.3,0.37
+USR0002,Sales,Individual Contributor,2.8,0.27
+USR0003,Operations,Director,13.1,0.56
+USR0004,Operations,Manager,1.3,0.63
+USR0005,Marketing,Manager,0.5,0.72
+USR0006,Finance,VP,9.4,0.26
+USR0007,Finance,Individual Contributor,8.1,0.49
+USR0008,HR,VP,5.8,0.36
+USR0009,Legal,Manager,3.4,0.3
+USR0010,Finance,Director,13.0,0.66
+USR0011,Finance,Director,0.7,0.82
+USR0012,Marketing,Manager,6.1,0.22
+USR0013,Technology,VP,4.0,0.72
+USR0014,HR,Individual Contributor,12.6,0.24
+USR0015,Finance,VP,3.1,0.7
+USR0016,Marketing,Manager,3.5,0.5
+USR0017,Sales,Director,12.7,0.4
+USR0018,Technology,Manager,13.9,0.74
+USR0019,Legal,VP,8.8,0.3
+USR0020,Marketing,VP,12.7,0.59
+USR0021,Legal,Individual Contributor,9.0,0.44
+USR0022,HR,VP,4.5,0.29
+USR0023,Sales,Individual Contributor,0.7,0.39
+USR0024,Finance,VP,4.8,0.26
+USR0025,Operations,Individual Contributor,10.8,0.67
+USR0026,Operations,Individual Contributor,13.9,0.59
+USR0027,HR,Director,12.8,0.36
+USR0028,Finance,VP,5.9,0.65
+USR0029,Sales,Director,9.1,0.32
+USR0030,Operations,Individual Contributor,6.1,0.76
+USR0031,Operations,Individual Contributor,11.0,0.36
+USR0032,Marketing,Director,1.1,0.57
+USR0033,Technology,Manager,6.9,0.41
+USR0034,Legal,Individual Contributor,5.1,0.3
+USR0035,Marketing,Individual Contributor,4.1,0.42
+USR0036,Operations,Individual Contributor,3.8,0.28
+USR0037,Operations,Director,2.8,0.74
+USR0038,Sales,Manager,9.7,0.59
+USR0039,HR,VP,3.2,0.54
+USR0040,Operations,VP,12.2,0.72
+USR0041,Legal,Manager,2.1,0.21
+USR0042,Marketing,Individual Contributor,12.4,0.65
+USR0043,Legal,Manager,7.9,0.27
+USR0044,Sales,Individual Contributor,2.2,0.35
+USR0045,Legal,Director,5.2,0.3
+USR0046,Finance,VP,5.8,0.83
+USR0047,HR,VP,4.2,0.38
+USR0048,Finance,Individual Contributor,4.6,0.28
+USR0049,Finance,Manager,7.8,0.29
+USR0050,Sales,VP,13.7,0.3
+USR0051,Technology,Individual Contributor,7.6,0.91
+USR0052,Legal,VP,1.7,0.25
+USR0053,Finance,Director,12.1,0.53
+USR0054,Technology,Manager,6.3,0.8
+USR0055,Finance,Individual Contributor,5.2,0.37
+USR0056,Sales,Director,9.1,0.5
+USR0057,Operations,Manager,7.9,0.36
+USR0058,Legal,VP,14.1,0.26
+USR0059,Legal,Manager,12.6,0.35
+USR0060,Finance,Individual Contributor,3.5,0.58
+USR0061,Technology,Director,3.8,0.39
+USR0062,Finance,VP,8.2,0.4
+USR0063,Marketing,VP,8.6,0.66
+USR0064,Legal,Individual Contributor,4.5,0.36
+USR0065,Operations,VP,13.4,0.66
+USR0066,HR,Director,14.1,0.49
+USR0067,HR,Manager,0.6,0.22
+USR0068,Operations,Individual Contributor,0.6,0.32
+USR0069,Technology,Manager,10.5,0.7
+USR0070,Finance,VP,10.8,0.4
+USR0071,Sales,VP,11.3,0.49
+USR0072,Legal,Director,10.0,0.31
+USR0073,HR,Director,5.8,0.28
+USR0074,Marketing,Manager,14.6,0.41
+USR0075,Marketing,VP,9.7,0.62
+USR0076,Marketing,Individual Contributor,8.9,0.46
+USR0077,Sales,VP,11.0,0.32
+USR0078,Operations,VP,9.9,0.33
+USR0079,HR,Manager,14.3,0.55
+USR0080,Operations,VP,0.7,0.74
+USR0081,Finance,Manager,14.5,0.83
+USR0082,Finance,VP,4.8,0.48
+USR0083,Legal,Individual Contributor,5.1,0.19
+USR0084,Finance,Manager,14.1,0.67
+USR0085,Marketing,VP,3.5,0.55
+USR0086,Legal,Manager,4.2,0.23
+USR0087,Technology,Individual Contributor,12.8,0.36
+USR0088,Marketing,VP,8.5,0.37
+USR0089,Technology,Director,4.2,0.67
+USR0090,HR,Manager,0.6,0.43
+USR0091,HR,Individual Contributor,1.5,0.34
+USR0092,Marketing,VP,13.4,0.23
+USR0093,Technology,Manager,6.9,0.71
+USR0094,Operations,Individual Contributor,2.7,0.77
+USR0095,Marketing,Manager,13.0,0.34
+USR0096,Technology,Manager,4.9,0.62
+USR0097,Sales,Individual Contributor,12.5,0.32
+USR0098,HR,Individual Contributor,7.1,0.52
+USR0099,HR,Manager,8.3,0.43
+USR0100,HR,VP,14.6,0.38
+USR0101,Marketing,Director,12.0,0.35
+USR0102,HR,Manager,1.6,0.18
+USR0103,Sales,Manager,12.6,0.51
+USR0104,Sales,Individual Contributor,3.0,0.27
+USR0105,Technology,VP,8.5,0.74
+USR0106,Sales,Individual Contributor,9.8,0.43
+USR0107,Legal,Individual Contributor,9.4,0.27
+USR0108,HR,Manager,5.7,0.48
+USR0109,Finance,Individual Contributor,2.2,0.28
+USR0110,Finance,Manager,12.9,0.67
+USR0111,HR,VP,1.9,0.37
+USR0112,Legal,VP,3.0,0.27
+USR0113,Legal,Manager,9.4,0.34
+USR0114,Technology,VP,5.9,0.68
+USR0115,Technology,VP,12.9,0.7
+USR0116,HR,VP,1.5,0.43
+USR0117,Finance,VP,9.0,0.81
+USR0118,HR,Manager,8.8,0.23
+USR0119,Sales,Director,12.4,0.48
+USR0120,Finance,Individual Contributor,9.9,0.38
+USR0121,Sales,Individual Contributor,3.6,0.37
+USR0122,Sales,Director,9.5,0.35
+USR0123,Technology,VP,6.1,0.71
+USR0124,Marketing,Manager,4.3,0.47
+USR0125,Technology,Individual Contributor,5.6,0.88
+USR0126,HR,Individual Contributor,12.2,0.29
+USR0127,Technology,Individual Contributor,11.4,0.8
+USR0128,Finance,Director,6.5,0.48
+USR0129,Legal,VP,5.4,0.43
+USR0130,Sales,VP,6.7,0.54
+USR0131,Finance,Director,2.0,0.79
+USR0132,Marketing,VP,12.5,0.38
+USR0133,Operations,Director,6.1,0.24
+USR0134,Finance,Director,1.8,0.44
+USR0135,Marketing,Director,14.3,0.51
+USR0136,Legal,VP,7.0,0.23
+USR0137,Finance,VP,10.3,0.7
+USR0138,Legal,VP,11.9,0.16
+USR0139,Technology,Manager,1.3,0.63
+USR0140,Sales,Director,13.4,0.35
+USR0141,Technology,Director,2.6,0.77
+USR0142,HR,Individual Contributor,2.0,0.21
+USR0143,Sales,VP,1.6,0.57
+USR0144,Technology,Manager,1.7,0.33
+USR0145,Operations,VP,5.9,0.44
+USR0146,HR,Individual Contributor,14.2,0.57
+USR0147,HR,VP,6.0,0.21
+USR0148,Sales,VP,8.6,0.39
+USR0149,Technology,Director,2.1,0.59
+USR0150,Sales,Manager,7.3,0.22
+USR0151,HR,VP,2.2,0.44
+USR0152,Finance,Director,9.0,0.83
+USR0153,Legal,VP,4.6,0.41
+USR0154,Marketing,Individual Contributor,14.5,0.22
+USR0155,Sales,Individual Contributor,5.2,0.21
+USR0156,Sales,Director,13.8,0.31
+USR0157,Operations,VP,1.6,0.32
+USR0158,Finance,Manager,4.8,0.85
+USR0159,Marketing,Manager,6.1,0.59
+USR0160,Operations,VP,14.4,0.27
+USR0161,Marketing,VP,2.0,0.39
+USR0162,Technology,VP,9.9,0.53
+USR0163,HR,Manager,4.4,0.32
+USR0164,HR,VP,7.1,0.19
+USR0165,Finance,Individual Contributor,6.5,0.61
+USR0166,Sales,Individual Contributor,13.7,0.57
+USR0167,Technology,Director,11.0,0.67
+USR0168,Technology,Manager,14.0,0.83
+USR0169,Sales,Individual Contributor,0.9,0.37
+USR0170,Finance,Manager,14.8,0.34
+USR0171,Sales,Manager,6.0,0.64
+USR0172,Operations,Individual Contributor,12.7,0.49
+USR0173,Operations,Director,4.5,0.26
+USR0174,Marketing,VP,12.3,0.72
+USR0175,Marketing,Director,8.6,0.6
+USR0176,Sales,Manager,12.8,0.31
+USR0177,Marketing,Individual Contributor,2.4,0.7
+USR0178,Sales,VP,3.8,0.5
+USR0179,Technology,VP,4.4,0.29
+USR0180,Technology,Manager,7.4,0.81
+USR0181,Technology,VP,12.3,0.9
+USR0182,Marketing,Manager,12.0,0.51
+USR0183,Legal,Director,6.6,0.38
+USR0184,Marketing,Manager,12.2,0.67
+USR0185,HR,Manager,5.6,0.41
+USR0186,Marketing,Director,6.8,0.67
+USR0187,HR,Individual Contributor,8.0,0.49
+USR0188,HR,Manager,9.5,0.52
+USR0189,Sales,Individual Contributor,2.6,0.62
+USR0190,Technology,Individual Contributor,4.2,0.57
+USR0191,Technology,Manager,7.6,0.49
+USR0192,Operations,Director,4.0,0.28
+USR0193,Finance,Director,2.4,0.35
+USR0194,Marketing,VP,9.8,0.31
+USR0195,Finance,Director,13.2,0.56
+USR0196,Technology,Individual Contributor,3.3,0.3
+USR0197,Sales,Manager,4.5,0.28
+USR0198,Sales,Manager,2.2,0.4
+USR0199,Technology,Manager,5.8,0.6
+USR0200,Sales,Director,1.1,0.56
+USR0201,Finance,Manager,1.7,0.77
+USR0202,Legal,VP,1.4,0.22
+USR0203,Finance,VP,11.3,0.36
+USR0204,Legal,Director,5.9,0.29
+USR0205,Technology,VP,5.8,0.57
+USR0206,Sales,Manager,1.0,0.31
+USR0207,Legal,Director,13.5,0.3
+USR0208,Legal,VP,2.1,0.28
+USR0209,Operations,Director,4.0,0.38
+USR0210,Sales,VP,0.8,0.34
+USR0211,Legal,Manager,5.2,0.17
+USR0212,Finance,Individual Contributor,9.1,0.66
+USR0213,Operations,Individual Contributor,7.7,0.28
+USR0214,Legal,Manager,9.0,0.37
+USR0215,Finance,VP,2.3,0.42
+USR0216,Marketing,VP,9.9,0.5
+USR0217,Operations,Individual Contributor,5.3,0.74
+USR0218,Sales,Manager,3.8,0.36
+USR0219,HR,Manager,3.2,0.29
+USR0220,Legal,VP,13.5,0.16
+USR0221,Operations,Director,6.5,0.77
+USR0222,Legal,Manager,6.3,0.44
+USR0223,HR,Director,12.3,0.28
+USR0224,Marketing,Director,12.4,0.58
+USR0225,Operations,VP,7.4,0.69
+USR0226,Sales,Manager,14.5,0.52
+USR0227,HR,Individual Contributor,11.2,0.39
+USR0228,Finance,Manager,11.6,0.31
+USR0229,Marketing,Director,14.0,0.38
+USR0230,Operations,Individual Contributor,5.9,0.48
+USR0231,Sales,Director,8.5,0.29
+USR0232,Technology,VP,4.2,0.71
+USR0233,Finance,Individual Contributor,9.1,0.54
+USR0234,Legal,Director,5.6,0.43
+USR0235,Marketing,VP,14.5,0.28
+USR0236,Operations,Individual Contributor,3.5,0.44
+USR0237,Finance,VP,11.0,0.28
+USR0238,Sales,VP,12.5,0.54
+USR0239,HR,Manager,12.5,0.25
+USR0240,Operations,Director,9.7,0.73
+USR0241,Finance,Individual Contributor,9.0,0.66
+USR0242,Legal,VP,6.0,0.28
+USR0243,Marketing,Individual Contributor,11.3,0.47
+USR0244,Finance,Individual Contributor,13.5,0.48
+USR0245,Marketing,Individual Contributor,13.6,0.53
+USR0246,Operations,Manager,14.1,0.58
+USR0247,Technology,VP,2.9,0.84
+USR0248,Finance,VP,11.3,0.6
+USR0249,Sales,Manager,11.4,0.52
+USR0250,Operations,Director,2.6,0.35
+USR0251,Technology,Manager,7.7,0.76
+USR0252,Marketing,Manager,8.3,0.41
+USR0253,Sales,VP,9.3,0.42
+USR0254,Sales,Individual Contributor,3.8,0.52
+USR0255,Technology,Director,9.8,0.72
+USR0256,HR,Manager,4.2,0.31
+USR0257,Operations,Manager,13.7,0.55
+USR0258,Legal,Director,4.7,0.33
+USR0259,Technology,Individual Contributor,2.5,0.34
+USR0260,Finance,Director,11.0,0.61
+USR0261,HR,VP,13.8,0.49
+USR0262,Sales,VP,9.9,0.55
+USR0263,Legal,Manager,1.5,0.16
+USR0264,Marketing,VP,12.7,0.67
+USR0265,Finance,Manager,3.9,0.35
+USR0266,HR,Manager,12.6,0.31
+USR0267,Marketing,Director,3.8,0.52
+USR0268,Legal,Individual Contributor,11.3,0.2
+USR0269,Finance,Individual Contributor,9.3,0.32
+USR0270,HR,Individual Contributor,13.0,0.55
+USR0271,Legal,Manager,7.5,0.42
+USR0272,Operations,Director,7.1,0.31
+USR0273,Finance,Director,2.9,0.28
+USR0274,Finance,Individual Contributor,11.8,0.42
+USR0275,Technology,VP,3.6,0.61
+USR0276,Finance,VP,7.2,0.59
+USR0277,Marketing,VP,8.3,0.31
+USR0278,Legal,Individual Contributor,5.0,0.26
+USR0279,Operations,Director,12.1,0.42
+USR0280,Marketing,Individual Contributor,9.6,0.41
+USR0281,Operations,Manager,4.8,0.62
+USR0282,Technology,Manager,8.2,0.59
+USR0283,Marketing,Manager,11.6,0.27
+USR0284,Sales,Director,14.2,0.36
+USR0285,Technology,Director,9.8,0.54
+USR0286,Legal,Director,2.8,0.36
+USR0287,Sales,VP,0.9,0.3
+USR0288,Legal,Director,7.8,0.32
+USR0289,Finance,Director,8.8,0.78
+USR0290,HR,Director,11.0,0.5
+USR0291,Marketing,VP,12.9,0.63
+USR0292,HR,VP,10.2,0.26
+USR0293,Legal,Director,13.5,0.14
+USR0294,Legal,Individual Contributor,3.5,0.14
+USR0295,Sales,Director,9.0,0.39
+USR0296,Technology,Individual Contributor,12.4,0.5
+USR0297,Technology,Director,6.0,0.66
+USR0298,HR,VP,9.6,0.34
+USR0299,Marketing,Individual Contributor,6.8,0.36
+USR0300,HR,Manager,11.6,0.23

@@ -1,0 +1,301 @@
+user_id,total_sessions,total_actions,avg_session_mins,last_active,tools_used,features_used,department,role,tenure_years,engagement_score,risk_flag
+USR0001,9,36,13.89,2025-06-22,4,6,Legal,VP,14.3,0.37,Medium Risk
+USR0002,5,18,14.6,2025-06-14,4,3,Sales,Individual Contributor,2.8,0.27,High Risk
+USR0003,10,60,13.76,2025-06-10,5,4,Operations,Director,13.1,0.56,Engaged
+USR0004,7,39,32.01,2025-06-19,4,5,Operations,Manager,1.3,0.63,Engaged
+USR0005,5,28,22.46,2025-04-22,3,3,Marketing,Manager,0.5,0.72,Engaged
+USR0006,8,19,10.99,2025-06-22,4,5,Finance,VP,9.4,0.26,High Risk
+USR0007,8,59,17.51,2025-05-24,4,6,Finance,Individual Contributor,8.1,0.49,Medium Risk
+USR0008,6,16,17.2,2025-06-05,4,4,HR,VP,5.8,0.36,Medium Risk
+USR0009,3,9,11.37,2025-06-15,2,2,Legal,Manager,3.4,0.3,High Risk
+USR0010,6,57,22.53,2025-05-17,5,4,Finance,Director,13.0,0.66,Engaged
+USR0011,7,78,56.51,2025-06-08,5,5,Finance,Director,0.7,0.82,Engaged
+USR0012,4,11,9.48,2025-05-21,4,4,Marketing,Manager,6.1,0.22,High Risk
+USR0013,11,131,28.14,2025-06-25,5,4,Technology,VP,4.0,0.72,Engaged
+USR0014,9,17,14.61,2025-06-16,4,5,HR,Individual Contributor,12.6,0.24,High Risk
+USR0015,3,35,26.03,2025-05-17,3,2,Finance,VP,3.1,0.7,Engaged
+USR0016,3,26,26.17,2025-06-13,3,2,Marketing,Manager,3.5,0.5,Medium Risk
+USR0017,3,24,23.03,2025-06-08,3,3,Sales,Director,12.7,0.4,Medium Risk
+USR0018,4,25,20.4,2025-04-29,2,4,Technology,Manager,13.9,0.74,Engaged
+USR0019,3,11,13.33,2025-06-17,2,1,Legal,VP,8.8,0.3,High Risk
+USR0020,6,22,28.9,2025-06-22,4,5,Marketing,VP,12.7,0.59,Engaged
+USR0021,11,57,16.35,2025-06-21,5,6,Legal,Individual Contributor,9.0,0.44,Medium Risk
+USR0022,6,17,12.37,2025-05-30,4,4,HR,VP,4.5,0.29,High Risk
+USR0023,9,41,12.82,2025-06-09,4,5,Sales,Individual Contributor,0.7,0.39,Medium Risk
+USR0024,6,10,6.28,2025-06-21,2,4,Finance,VP,4.8,0.26,High Risk
+USR0025,8,54,37.06,2025-06-02,5,4,Operations,Individual Contributor,10.8,0.67,Engaged
+USR0026,6,40,36.95,2025-05-08,2,5,Operations,Individual Contributor,13.9,0.59,Engaged
+USR0027,8,24,14.77,2025-05-28,4,4,HR,Director,12.8,0.36,Medium Risk
+USR0028,9,54,31.28,2025-06-12,4,4,Finance,VP,5.9,0.65,Engaged
+USR0029,14,35,16.69,2025-06-30,4,6,Sales,Director,9.1,0.32,High Risk
+USR0030,6,42,38.53,2025-05-04,3,4,Operations,Individual Contributor,6.1,0.76,Engaged
+USR0031,9,31,20.78,2025-06-23,4,5,Operations,Individual Contributor,11.0,0.36,Medium Risk
+USR0032,3,13,31.13,2025-05-25,3,3,Marketing,Director,1.1,0.57,Engaged
+USR0033,6,24,19.68,2025-06-01,3,4,Technology,Manager,6.9,0.41,Medium Risk
+USR0034,9,35,15.66,2025-05-29,4,5,Legal,Individual Contributor,5.1,0.3,High Risk
+USR0035,9,37,25.02,2025-06-02,4,6,Marketing,Individual Contributor,4.1,0.42,Medium Risk
+USR0036,3,5,14.03,2025-05-18,3,1,Operations,Individual Contributor,3.8,0.28,High Risk
+USR0037,10,111,36.03,2025-06-23,5,6,Operations,Director,2.8,0.74,Engaged
+USR0038,8,48,21.88,2025-06-02,4,6,Sales,Manager,9.7,0.59,Engaged
+USR0039,5,38,29.04,2025-05-14,4,4,HR,VP,3.2,0.54,Medium Risk
+USR0040,9,69,39.22,2025-06-02,5,5,Operations,VP,12.2,0.72,Engaged
+USR0041,5,16,10.28,2025-06-29,3,4,Legal,Manager,2.1,0.21,High Risk
+USR0042,6,42,31.78,2025-06-27,4,3,Marketing,Individual Contributor,12.4,0.65,Engaged
+USR0043,10,22,10.53,2025-06-28,5,6,Legal,Manager,7.9,0.27,High Risk
+USR0044,4,25,15.62,2025-03-06,3,3,Sales,Individual Contributor,2.2,0.35,Medium Risk
+USR0045,7,18,13.2,2025-04-20,5,3,Legal,Director,5.2,0.3,High Risk
+USR0046,5,60,49.92,2025-05-21,3,5,Finance,VP,5.8,0.83,Engaged
+USR0047,8,29,17.38,2025-06-23,5,3,HR,VP,4.2,0.38,Medium Risk
+USR0048,7,24,13.14,2025-06-29,3,5,Finance,Individual Contributor,4.6,0.28,High Risk
+USR0049,5,9,15.92,2025-06-26,4,3,Finance,Manager,7.8,0.29,High Risk
+USR0050,7,19,16.13,2025-06-12,4,4,Sales,VP,13.7,0.3,High Risk
+USR0051,4,43,47.8,2025-06-09,2,4,Technology,Individual Contributor,7.6,0.91,Engaged
+USR0052,8,16,11.92,2025-06-15,3,5,Legal,VP,1.7,0.25,High Risk
+USR0053,9,52,26.79,2025-06-25,4,4,Finance,Director,12.1,0.53,Medium Risk
+USR0054,7,89,33.57,2025-06-25,4,6,Technology,Manager,6.3,0.8,Engaged
+USR0055,9,47,17.77,2025-06-24,4,5,Finance,Individual Contributor,5.2,0.37,Medium Risk
+USR0056,4,27,34.42,2025-05-01,3,4,Sales,Director,9.1,0.5,Medium Risk
+USR0057,5,17,17.4,2025-06-18,3,3,Operations,Manager,7.9,0.36,Medium Risk
+USR0058,4,17,5.25,2025-06-04,3,3,Legal,VP,14.1,0.26,High Risk
+USR0059,10,46,17.96,2025-06-06,4,5,Legal,Manager,12.6,0.35,Medium Risk
+USR0060,8,33,29.15,2025-06-27,5,5,Finance,Individual Contributor,3.5,0.58,Engaged
+USR0061,8,26,17.02,2025-06-13,4,4,Technology,Director,3.8,0.39,Medium Risk
+USR0062,7,29,16.69,2025-06-21,5,4,Finance,VP,8.2,0.4,Medium Risk
+USR0063,10,65,32.62,2025-06-27,4,4,Marketing,VP,8.6,0.66,Engaged
+USR0064,5,21,10.4,2025-06-06,4,3,Legal,Individual Contributor,4.5,0.36,Medium Risk
+USR0065,3,18,18.1,2025-04-12,3,2,Operations,VP,13.4,0.66,Engaged
+USR0066,5,21,24.04,2025-06-18,3,3,HR,Director,14.1,0.49,Medium Risk
+USR0067,4,6,13.72,2025-05-22,3,3,HR,Manager,0.6,0.22,High Risk
+USR0068,5,15,9.4,2025-05-25,3,4,Operations,Individual Contributor,0.6,0.32,High Risk
+USR0069,12,88,31.29,2025-06-17,5,6,Technology,Manager,10.5,0.7,Engaged
+USR0070,7,34,18.47,2025-06-15,4,5,Finance,VP,10.8,0.4,Medium Risk
+USR0071,9,46,16.11,2025-06-16,4,5,Sales,VP,11.3,0.49,Medium Risk
+USR0072,7,31,18.34,2025-06-04,4,3,Legal,Director,10.0,0.31,High Risk
+USR0073,5,16,8.9,2025-06-20,4,3,HR,Director,5.8,0.28,High Risk
+USR0074,10,62,14.99,2025-05-29,4,4,Marketing,Manager,14.6,0.41,Medium Risk
+USR0075,2,2,43.2,2025-06-10,2,2,Marketing,VP,9.7,0.62,Engaged
+USR0076,8,35,19.51,2025-05-12,3,5,Marketing,Individual Contributor,8.9,0.46,Medium Risk
+USR0077,7,27,14.84,2025-06-11,4,5,Sales,VP,11.0,0.32,High Risk
+USR0078,6,9,17.02,2025-06-18,4,5,Operations,VP,9.9,0.33,High Risk
+USR0079,10,49,32.97,2025-06-17,5,6,HR,Manager,14.3,0.55,Engaged
+USR0080,4,32,48.0,2025-02-28,3,3,Operations,VP,0.7,0.74,Engaged
+USR0081,5,53,47.8,2025-06-04,4,4,Finance,Manager,14.5,0.83,Engaged
+USR0082,8,39,17.94,2025-06-24,5,3,Finance,VP,4.8,0.48,Medium Risk
+USR0083,7,3,9.11,2025-06-26,3,4,Legal,Individual Contributor,5.1,0.19,High Risk
+USR0084,4,36,41.58,2025-03-23,2,3,Finance,Manager,14.1,0.67,Engaged
+USR0085,5,46,24.28,2025-05-29,3,4,Marketing,VP,3.5,0.55,Engaged
+USR0086,4,8,12.45,2025-06-04,3,3,Legal,Manager,4.2,0.23,High Risk
+USR0087,7,31,11.84,2025-06-30,4,4,Technology,Individual Contributor,12.8,0.36,Medium Risk
+USR0088,6,30,22.98,2025-06-06,4,4,Marketing,VP,8.5,0.37,Medium Risk
+USR0089,16,109,33.87,2025-06-12,5,6,Technology,Director,4.2,0.67,Engaged
+USR0090,5,18,24.62,2025-04-30,4,4,HR,Manager,0.6,0.43,Medium Risk
+USR0091,6,22,14.35,2025-05-01,4,4,HR,Individual Contributor,1.5,0.34,High Risk
+USR0092,12,24,11.17,2025-06-29,4,5,Marketing,VP,13.4,0.23,High Risk
+USR0093,8,61,33.26,2025-06-20,5,5,Technology,Manager,6.9,0.71,Engaged
+USR0094,5,48,34.76,2025-06-29,3,4,Operations,Individual Contributor,2.7,0.77,Engaged
+USR0095,5,8,13.58,2025-06-08,3,5,Marketing,Manager,13.0,0.34,High Risk
+USR0096,5,18,31.42,2025-06-19,3,2,Technology,Manager,4.9,0.62,Engaged
+USR0097,7,24,14.89,2025-06-01,5,4,Sales,Individual Contributor,12.5,0.32,High Risk
+USR0098,6,42,19.48,2025-06-02,3,5,HR,Individual Contributor,7.1,0.52,Medium Risk
+USR0099,7,40,17.09,2025-06-16,3,4,HR,Manager,8.3,0.43,Medium Risk
+USR0100,11,56,19.45,2025-06-25,5,6,HR,VP,14.6,0.38,Medium Risk
+USR0101,4,15,13.4,2025-04-24,3,4,Marketing,Director,12.0,0.35,Medium Risk
+USR0102,4,9,7.08,2025-05-10,3,3,HR,Manager,1.6,0.18,High Risk
+USR0103,5,25,20.18,2025-05-10,3,4,Sales,Manager,12.6,0.51,Medium Risk
+USR0104,5,21,9.44,2025-06-20,4,4,Sales,Individual Contributor,3.0,0.27,High Risk
+USR0105,3,31,59.97,2025-04-10,2,2,Technology,VP,8.5,0.74,Engaged
+USR0106,9,37,17.12,2025-06-30,5,4,Sales,Individual Contributor,9.8,0.43,Medium Risk
+USR0107,7,20,10.87,2025-06-15,4,4,Legal,Individual Contributor,9.4,0.27,High Risk
+USR0108,6,30,19.55,2025-06-14,3,4,HR,Manager,5.7,0.48,Medium Risk
+USR0109,10,35,13.05,2025-06-16,3,5,Finance,Individual Contributor,2.2,0.28,High Risk
+USR0110,2,2,30.85,2025-06-05,2,2,Finance,Manager,12.9,0.67,Engaged
+USR0111,9,31,20.74,2025-05-19,5,6,HR,VP,1.9,0.37,Medium Risk
+USR0112,4,13,10.23,2025-05-07,2,4,Legal,VP,3.0,0.27,High Risk
+USR0113,13,46,13.82,2025-06-30,5,4,Legal,Manager,9.4,0.34,High Risk
+USR0114,7,43,43.43,2025-06-27,4,4,Technology,VP,5.9,0.68,Engaged
+USR0115,6,31,33.67,2025-06-19,2,4,Technology,VP,12.9,0.7,Engaged
+USR0116,4,11,19.85,2025-05-19,3,3,HR,VP,1.5,0.43,Medium Risk
+USR0117,3,19,32.33,2025-04-04,3,2,Finance,VP,9.0,0.81,Engaged
+USR0118,4,15,10.42,2025-06-24,3,3,HR,Manager,8.8,0.23,High Risk
+USR0119,6,25,19.6,2025-06-25,4,4,Sales,Director,12.4,0.48,Medium Risk
+USR0120,5,23,17.04,2025-06-18,3,4,Finance,Individual Contributor,9.9,0.38,Medium Risk
+USR0121,9,44,16.67,2025-06-28,4,5,Sales,Individual Contributor,3.6,0.37,Medium Risk
+USR0122,10,28,19.71,2025-06-23,4,6,Sales,Director,9.5,0.35,Medium Risk
+USR0123,7,53,41.96,2025-06-18,4,5,Technology,VP,6.1,0.71,Engaged
+USR0124,5,26,28.52,2025-06-22,3,4,Marketing,Manager,4.3,0.47,Medium Risk
+USR0125,5,44,35.42,2025-05-30,3,3,Technology,Individual Contributor,5.6,0.88,Engaged
+USR0126,7,15,14.31,2025-06-22,4,2,HR,Individual Contributor,12.2,0.29,High Risk
+USR0127,10,76,22.12,2025-06-13,5,4,Technology,Individual Contributor,11.4,0.8,Engaged
+USR0128,9,26,30.94,2025-05-18,4,5,Finance,Director,6.5,0.48,Medium Risk
+USR0129,12,62,24.94,2025-06-19,5,5,Legal,VP,5.4,0.43,Medium Risk
+USR0130,11,63,17.68,2025-06-26,5,6,Sales,VP,6.7,0.54,Medium Risk
+USR0131,4,28,27.45,2025-04-19,3,4,Finance,Director,2.0,0.79,Engaged
+USR0132,5,14,18.4,2025-05-17,4,2,Marketing,VP,12.5,0.38,Medium Risk
+USR0133,4,10,10.35,2025-04-28,3,3,Operations,Director,6.1,0.24,High Risk
+USR0134,7,34,22.76,2025-06-05,4,5,Finance,Director,1.8,0.44,Medium Risk
+USR0135,10,42,23.5,2025-06-26,3,5,Marketing,Director,14.3,0.51,Medium Risk
+USR0136,3,9,15.03,2025-06-27,3,2,Legal,VP,7.0,0.23,High Risk
+USR0137,6,52,29.45,2025-06-30,5,4,Finance,VP,10.3,0.7,Engaged
+USR0138,2,1,12.55,2025-05-02,2,2,Legal,VP,11.9,0.16,High Risk
+USR0139,7,41,30.77,2025-06-03,5,4,Technology,Manager,1.3,0.63,Engaged
+USR0140,3,17,13.83,2025-06-21,2,2,Sales,Director,13.4,0.35,Medium Risk
+USR0141,6,45,33.23,2025-06-05,4,4,Technology,Director,2.6,0.77,Engaged
+USR0142,4,11,6.72,2025-06-28,2,3,HR,Individual Contributor,2.0,0.21,High Risk
+USR0143,8,49,23.15,2025-05-01,5,2,Sales,VP,1.6,0.57,Engaged
+USR0144,5,20,7.66,2025-05-14,2,5,Technology,Manager,1.7,0.33,High Risk
+USR0145,5,23,15.9,2025-05-23,4,4,Operations,VP,5.9,0.44,Medium Risk
+USR0146,10,86,27.28,2025-06-08,5,6,HR,Individual Contributor,14.2,0.57,Engaged
+USR0147,6,12,11.03,2025-06-25,5,3,HR,VP,6.0,0.21,High Risk
+USR0148,6,25,16.83,2025-06-28,3,3,Sales,VP,8.6,0.39,Medium Risk
+USR0149,7,41,37.19,2025-06-26,4,4,Technology,Director,2.1,0.59,Engaged
+USR0150,5,11,11.88,2025-06-01,3,4,Sales,Manager,7.3,0.22,High Risk
+USR0151,5,21,18.08,2025-06-17,4,3,HR,VP,2.2,0.44,Medium Risk
+USR0152,6,65,37.22,2025-03-20,4,5,Finance,Director,9.0,0.83,Engaged
+USR0153,11,59,22.05,2025-06-22,5,6,Legal,VP,4.6,0.41,Medium Risk
+USR0154,11,24,9.45,2025-06-28,4,5,Marketing,Individual Contributor,14.5,0.22,High Risk
+USR0155,12,26,10.52,2025-06-20,5,5,Sales,Individual Contributor,5.2,0.21,High Risk
+USR0156,6,20,22.38,2025-06-01,3,5,Sales,Director,13.8,0.31,High Risk
+USR0157,5,15,13.54,2025-06-01,3,4,Operations,VP,1.6,0.32,High Risk
+USR0158,6,51,35.48,2025-06-26,4,3,Finance,Manager,4.8,0.85,Engaged
+USR0159,4,30,28.75,2025-05-18,3,3,Marketing,Manager,6.1,0.59,Engaged
+USR0160,9,28,16.14,2025-06-28,5,4,Operations,VP,14.4,0.27,High Risk
+USR0161,9,39,18.72,2025-06-14,5,5,Marketing,VP,2.0,0.39,Medium Risk
+USR0162,5,36,28.1,2025-06-18,2,4,Technology,VP,9.9,0.53,Medium Risk
+USR0163,4,7,17.52,2025-05-07,4,3,HR,Manager,4.4,0.32,High Risk
+USR0164,8,16,7.1,2025-06-16,4,5,HR,VP,7.1,0.19,High Risk
+USR0165,2,17,34.65,2025-03-30,1,2,Finance,Individual Contributor,6.5,0.61,Engaged
+USR0166,6,45,21.07,2025-06-21,4,3,Sales,Individual Contributor,13.7,0.57,Engaged
+USR0167,5,56,27.9,2025-06-18,2,4,Technology,Director,11.0,0.67,Engaged
+USR0168,4,46,35.22,2025-06-21,2,2,Technology,Manager,14.0,0.83,Engaged
+USR0169,8,25,21.0,2025-06-25,4,4,Sales,Individual Contributor,0.9,0.37,Medium Risk
+USR0170,4,12,16.68,2025-05-28,3,3,Finance,Manager,14.8,0.34,High Risk
+USR0171,3,40,22.93,2025-04-08,2,2,Sales,Manager,6.0,0.64,Engaged
+USR0172,6,55,22.43,2025-06-09,3,4,Operations,Individual Contributor,12.7,0.49,Medium Risk
+USR0173,2,10,13.25,2025-02-06,2,2,Operations,Director,4.5,0.26,High Risk
+USR0174,13,108,31.42,2025-06-23,5,6,Marketing,VP,12.3,0.72,Engaged
+USR0175,7,31,33.8,2025-06-26,4,5,Marketing,Director,8.6,0.6,Engaged
+USR0176,6,27,9.83,2025-06-30,4,5,Sales,Manager,12.8,0.31,High Risk
+USR0177,5,52,39.96,2025-06-29,4,3,Marketing,Individual Contributor,2.4,0.7,Engaged
+USR0178,1,4,42.1,2025-03-11,1,1,Sales,VP,3.8,0.5,Medium Risk
+USR0179,4,15,14.98,2025-06-26,4,3,Technology,VP,4.4,0.29,High Risk
+USR0180,9,90,36.57,2025-05-09,5,4,Technology,Manager,7.4,0.81,Engaged
+USR0181,4,41,40.25,2025-06-29,3,3,Technology,VP,12.3,0.9,Engaged
+USR0182,6,26,27.2,2025-06-30,4,3,Marketing,Manager,12.0,0.51,Medium Risk
+USR0183,3,21,18.97,2025-06-16,3,3,Legal,Director,6.6,0.38,Medium Risk
+USR0184,6,57,40.52,2025-06-12,4,4,Marketing,Manager,12.2,0.67,Engaged
+USR0185,5,23,26.18,2025-06-08,4,3,HR,Manager,5.6,0.41,Medium Risk
+USR0186,11,95,40.25,2025-06-15,5,4,Marketing,Director,6.8,0.67,Engaged
+USR0187,6,31,25.1,2025-06-26,5,3,HR,Individual Contributor,8.0,0.49,Medium Risk
+USR0188,6,46,37.47,2025-06-28,3,4,HR,Manager,9.5,0.52,Medium Risk
+USR0189,5,39,26.84,2025-04-26,4,3,Sales,Individual Contributor,2.6,0.62,Engaged
+USR0190,2,16,25.4,2025-05-14,2,2,Technology,Individual Contributor,4.2,0.57,Engaged
+USR0191,3,6,19.57,2025-04-13,3,2,Technology,Manager,7.6,0.49,Medium Risk
+USR0192,7,28,12.57,2025-05-11,5,4,Operations,Director,4.0,0.28,High Risk
+USR0193,14,52,14.87,2025-06-22,5,6,Finance,Director,2.4,0.35,Medium Risk
+USR0194,4,8,13.58,2025-06-21,2,4,Marketing,VP,9.8,0.31,High Risk
+USR0195,9,45,29.52,2025-06-11,4,5,Finance,Director,13.2,0.56,Engaged
+USR0196,13,37,13.2,2025-06-18,4,6,Technology,Individual Contributor,3.3,0.3,High Risk
+USR0197,13,38,11.6,2025-06-22,5,6,Sales,Manager,4.5,0.28,High Risk
+USR0198,8,48,14.01,2025-06-23,4,5,Sales,Manager,2.2,0.4,Medium Risk
+USR0199,5,39,25.96,2025-06-30,3,4,Technology,Manager,5.8,0.6,Engaged
+USR0200,7,46,27.57,2025-06-19,4,4,Sales,Director,1.1,0.56,Engaged
+USR0201,6,69,36.28,2025-06-22,3,4,Finance,Manager,1.7,0.77,Engaged
+USR0202,3,10,6.9,2025-06-20,3,3,Legal,VP,1.4,0.22,High Risk
+USR0203,6,28,14.67,2025-05-18,4,4,Finance,VP,11.3,0.36,Medium Risk
+USR0204,6,21,14.65,2025-06-29,4,3,Legal,Director,5.9,0.29,High Risk
+USR0205,10,58,29.89,2025-06-18,5,5,Technology,VP,5.8,0.57,Engaged
+USR0206,9,30,11.7,2025-06-21,5,5,Sales,Manager,1.0,0.31,High Risk
+USR0207,8,19,12.7,2025-06-18,5,5,Legal,Director,13.5,0.3,High Risk
+USR0208,5,18,15.02,2025-06-19,2,4,Legal,VP,2.1,0.28,High Risk
+USR0209,7,38,23.64,2025-05-19,3,3,Operations,Director,4.0,0.38,Medium Risk
+USR0210,4,18,22.3,2025-04-27,3,4,Sales,VP,0.8,0.34,High Risk
+USR0211,7,12,8.03,2025-06-24,3,3,Legal,Manager,5.2,0.17,High Risk
+USR0212,6,33,24.42,2025-04-22,3,4,Finance,Individual Contributor,9.1,0.66,Engaged
+USR0213,4,7,13.15,2025-06-09,3,4,Operations,Individual Contributor,7.7,0.28,High Risk
+USR0214,9,34,17.31,2025-05-27,5,4,Legal,Manager,9.0,0.37,Medium Risk
+USR0215,9,39,15.2,2025-06-20,4,4,Finance,VP,2.3,0.42,Medium Risk
+USR0216,3,13,12.33,2025-03-25,2,2,Marketing,VP,9.9,0.5,Medium Risk
+USR0217,4,53,28.25,2025-05-28,3,3,Operations,Individual Contributor,5.3,0.74,Engaged
+USR0218,10,50,21.12,2025-06-18,5,5,Sales,Manager,3.8,0.36,Medium Risk
+USR0219,6,20,14.53,2025-06-05,4,3,HR,Manager,3.2,0.29,High Risk
+USR0220,7,11,8.64,2025-04-20,3,4,Legal,VP,13.5,0.16,High Risk
+USR0221,4,46,24.67,2025-06-21,2,4,Operations,Director,6.5,0.77,Engaged
+USR0222,3,11,24.13,2025-05-31,2,2,Legal,Manager,6.3,0.44,Medium Risk
+USR0223,4,16,11.98,2025-05-20,3,3,HR,Director,12.3,0.28,High Risk
+USR0224,5,51,11.78,2025-05-25,2,4,Marketing,Director,12.4,0.58,Engaged
+USR0225,10,81,30.87,2025-06-16,4,5,Operations,VP,7.4,0.69,Engaged
+USR0226,9,63,18.53,2025-05-28,4,6,Sales,Manager,14.5,0.52,Medium Risk
+USR0227,3,14,13.77,2025-05-25,2,3,HR,Individual Contributor,11.2,0.39,Medium Risk
+USR0228,8,34,11.89,2025-06-26,4,5,Finance,Manager,11.6,0.31,High Risk
+USR0229,9,54,16.94,2025-05-14,4,5,Marketing,Director,14.0,0.38,Medium Risk
+USR0230,4,23,20.55,2025-05-03,4,4,Operations,Individual Contributor,5.9,0.48,Medium Risk
+USR0231,10,41,11.14,2025-06-21,4,5,Sales,Director,8.5,0.29,High Risk
+USR0232,5,50,34.2,2025-06-29,3,3,Technology,VP,4.2,0.71,Engaged
+USR0233,11,66,15.42,2025-06-24,5,5,Finance,Individual Contributor,9.1,0.54,Medium Risk
+USR0234,8,29,19.46,2025-05-29,4,5,Legal,Director,5.6,0.43,Medium Risk
+USR0235,5,11,16.16,2025-05-20,4,3,Marketing,VP,14.5,0.28,High Risk
+USR0236,12,75,17.89,2025-06-29,5,5,Operations,Individual Contributor,3.5,0.44,Medium Risk
+USR0237,6,21,12.15,2025-06-16,5,4,Finance,VP,11.0,0.28,High Risk
+USR0238,4,23,23.25,2025-06-23,2,4,Sales,VP,12.5,0.54,Medium Risk
+USR0239,8,24,13.79,2025-05-23,3,5,HR,Manager,12.5,0.25,High Risk
+USR0240,9,85,33.22,2025-06-21,5,5,Operations,Director,9.7,0.73,Engaged
+USR0241,7,30,15.14,2025-06-29,4,5,Finance,Individual Contributor,9.0,0.66,Engaged
+USR0242,8,16,14.82,2025-06-25,5,5,Legal,VP,6.0,0.28,High Risk
+USR0243,5,36,24.32,2025-06-28,4,4,Marketing,Individual Contributor,11.3,0.47,Medium Risk
+USR0244,10,50,28.89,2025-06-18,5,5,Finance,Individual Contributor,13.5,0.48,Medium Risk
+USR0245,3,26,24.87,2025-06-11,2,3,Marketing,Individual Contributor,13.6,0.53,Medium Risk
+USR0246,5,41,26.56,2025-06-17,4,5,Operations,Manager,14.1,0.58,Engaged
+USR0247,4,52,29.5,2025-06-28,3,3,Technology,VP,2.9,0.84,Engaged
+USR0248,8,54,33.56,2025-06-05,4,4,Finance,VP,11.3,0.6,Engaged
+USR0249,5,26,23.9,2025-05-28,4,4,Sales,Manager,11.4,0.52,Medium Risk
+USR0250,4,18,20.7,2025-05-27,3,3,Operations,Director,2.6,0.35,Medium Risk
+USR0251,6,64,32.58,2025-06-25,4,4,Technology,Manager,7.7,0.76,Engaged
+USR0252,12,45,19.16,2025-06-23,5,5,Marketing,Manager,8.3,0.41,Medium Risk
+USR0253,6,37,24.93,2025-06-15,5,4,Sales,VP,9.3,0.42,Medium Risk
+USR0254,3,23,22.57,2025-06-09,2,2,Sales,Individual Contributor,3.8,0.52,Medium Risk
+USR0255,7,46,33.39,2025-06-27,5,5,Technology,Director,9.8,0.72,Engaged
+USR0256,10,35,16.31,2025-06-29,4,5,HR,Manager,4.2,0.31,High Risk
+USR0257,8,44,23.1,2025-06-12,4,5,Operations,Manager,13.7,0.55,Engaged
+USR0258,6,21,12.2,2025-06-04,2,4,Legal,Director,4.7,0.33,High Risk
+USR0259,11,38,16.35,2025-06-19,3,5,Technology,Individual Contributor,2.5,0.34,High Risk
+USR0260,5,31,36.88,2025-05-27,4,3,Finance,Director,11.0,0.61,Engaged
+USR0261,7,40,25.2,2025-05-24,3,5,HR,VP,13.8,0.49,Medium Risk
+USR0262,7,48,13.74,2025-05-22,4,4,Sales,VP,9.9,0.55,Engaged
+USR0263,8,12,6.06,2025-06-19,4,5,Legal,Manager,1.5,0.16,High Risk
+USR0264,10,87,30.07,2025-06-18,4,4,Marketing,VP,12.7,0.67,Engaged
+USR0265,3,15,16.37,2025-06-06,3,3,Finance,Manager,3.9,0.35,Medium Risk
+USR0266,5,17,12.84,2025-03-19,4,3,HR,Manager,12.6,0.31,High Risk
+USR0267,8,60,23.15,2025-06-26,5,5,Marketing,Director,3.8,0.52,Medium Risk
+USR0268,7,12,10.64,2025-06-07,3,3,Legal,Individual Contributor,11.3,0.2,High Risk
+USR0269,6,14,12.53,2025-05-29,3,4,Finance,Individual Contributor,9.3,0.32,High Risk
+USR0270,13,85,25.91,2025-06-02,5,5,HR,Individual Contributor,13.0,0.55,Engaged
+USR0271,6,31,20.0,2025-05-24,3,3,Legal,Manager,7.5,0.42,Medium Risk
+USR0272,11,36,16.05,2025-06-30,5,5,Operations,Director,7.1,0.31,High Risk
+USR0273,4,13,8.85,2025-06-24,3,3,Finance,Director,2.9,0.28,High Risk
+USR0274,6,29,20.97,2025-06-26,4,4,Finance,Individual Contributor,11.8,0.42,Medium Risk
+USR0275,8,56,21.86,2025-06-13,4,5,Technology,VP,3.6,0.61,Engaged
+USR0276,13,57,24.67,2025-06-28,5,5,Finance,VP,7.2,0.59,Engaged
+USR0277,6,29,14.77,2025-04-27,3,4,Marketing,VP,8.3,0.31,High Risk
+USR0278,5,17,14.8,2025-06-05,3,3,Legal,Individual Contributor,5.0,0.26,High Risk
+USR0279,3,20,26.17,2025-06-15,3,2,Operations,Director,12.1,0.42,Medium Risk
+USR0280,8,39,16.62,2025-06-30,4,5,Marketing,Individual Contributor,9.6,0.41,Medium Risk
+USR0281,5,40,17.02,2025-06-11,3,3,Operations,Manager,4.8,0.62,Engaged
+USR0282,9,33,31.83,2025-06-22,5,5,Technology,Manager,8.2,0.59,Engaged
+USR0283,12,26,9.38,2025-06-25,5,5,Marketing,Manager,11.6,0.27,High Risk
+USR0284,11,49,14.45,2025-06-28,4,5,Sales,Director,14.2,0.36,Medium Risk
+USR0285,8,46,26.36,2025-06-29,5,5,Technology,Director,9.8,0.54,Medium Risk
+USR0286,7,44,15.79,2025-06-22,4,3,Legal,Director,2.8,0.36,Medium Risk
+USR0287,4,18,15.55,2025-05-24,3,4,Sales,VP,0.9,0.3,High Risk
+USR0288,5,17,10.86,2025-06-08,4,4,Legal,Director,7.8,0.32,High Risk
+USR0289,11,77,30.0,2025-06-23,5,6,Finance,Director,8.8,0.78,Engaged
+USR0290,9,54,23.03,2025-06-15,4,5,HR,Director,11.0,0.5,Medium Risk
+USR0291,7,61,26.33,2025-06-27,4,4,Marketing,VP,12.9,0.63,Engaged
+USR0292,5,19,11.76,2025-06-21,3,5,HR,VP,10.2,0.26,High Risk
+USR0293,8,8,5.78,2025-06-19,3,4,Legal,Director,13.5,0.14,High Risk
+USR0294,11,14,6.28,2025-06-28,4,6,Legal,Individual Contributor,3.5,0.14,High Risk
+USR0295,6,27,18.03,2025-05-30,4,3,Sales,Director,9.0,0.39,Medium Risk
+USR0296,3,18,17.47,2025-02-12,1,2,Technology,Individual Contributor,12.4,0.5,Medium Risk
+USR0297,6,32,31.05,2025-03-31,3,5,Technology,Director,6.0,0.66,Engaged
+USR0298,3,11,14.07,2025-06-05,2,3,HR,VP,9.6,0.34,High Risk
+USR0299,3,8,21.4,2025-04-19,3,2,Marketing,Individual Contributor,6.8,0.36,Medium Risk
+USR0300,8,23,9.65,2025-05-13,5,5,HR,Manager,11.6,0.23,High Risk
